@@ -1,0 +1,6 @@
+#!/bin/sh
+uci batch <<-EOF
+	set luci.languages.ko=한국어
+​        commit luci
+EOF
+

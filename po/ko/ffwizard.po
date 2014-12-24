@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: ffwizard.po\n"
+
+msgid "Allow to transfer anonymous statistics about this node"
+msgstr "이 노드에 대 한 익명의 통계 자료를 전송 하도록 허용"
+
+msgid "Channel"
+msgstr "채널"
+
+msgid "Check this to protect your LAN from other nodes or clients"
+msgstr "다른 노드 또는 클라이언트에서 LAN을 보호 하기 위해이 체크"
+
+msgid "Configure network"
+msgstr "네트워크 구성"
+
+msgid "Connect your node with other nodes with a tunnel via the internet."
+msgstr "인터넷을 통해 터널을 다른 노드와 사용자 노드를 연결."
+
+msgid "DHCP IP range"
+msgstr "DHCP IP 범위"
+
+msgid "DHCP will automatically assign ip addresses to clients"
+msgstr "DHCP은 클라이언트에 자동으로 ip 주소를 할당 합니다."
+
+msgid "DNS Server"
+msgstr "DNS 서버"
+
+msgid "Enable DHCP"
+msgstr "DHCP를 사용 하도록 설정"
+
+msgid "Gateway"
+msgstr "게이트웨이"
+
+msgid "Heartbeat"
+msgstr "하트 비트"
+
+msgid "IP address"
+msgstr "IP 주소"
+
+msgid "L2gvpn tunnel"
+msgstr "L2gvpn 터널"
+
+msgid "Limit download bandwidth"
+msgstr "제한 다운로드 대역폭"
+
+msgid "Limit upload bandwidth"
+msgstr "제한 업로드 대역폭"
+
+msgid "Mesh IP address"
+msgstr "메쉬 IP 주소"
+
+msgid "Mesh IPv6 Address"
+msgstr "메쉬 IPv6 주소"
+
+msgid "Netmask"
+msgstr "네트워크 마스크"
+
+msgid "Password"
+msgstr "비밀 번호"
+
+msgid "Password confirmation"
+msgstr "비밀 번호 확인"
+
+msgid "Password successfully changed"
+msgstr "암호가 성공적으로 변경"
+
+msgid "Protect LAN"
+msgstr "LAN을 보호"
+
+msgid "Protocol"
+msgstr "프로토콜"
+
+msgid "Select this checkbox to configure your network interfaces."
+msgstr "네트워크 인터페이스를 구성 하려면이 확인란을 선택 합니다."
+
+msgid "Select this to allow others to use your connection to access the internet."
+msgstr "다른 연결을 사용 하 여 인터넷에 액세스할 수 있도록이 옵션을 선택 합니다."
+
+msgid "Share your internet connection"
+msgstr "인터넷 연결 공유"
+
+msgid "The IP range from which clients are assigned ip addresses (e.g. 10.1.2.1/28). If this is a range inside your mesh network range, then it will be announced as HNA. Any other range will use NAT. If left empty then the defaults from the community profile will be used."
+msgstr "IP 범위에서 클라이언트 ip 주소 (예: 10.1.2.1/28)을 할당 됩니다. 메쉬 네트워크 범위 안에 범위 이면 다음 알려질 것 이다 HNA로. 다른 범위는 NAT.를 사용 합니다. 만약 비어 커뮤니티 프로필에서 기본값으로 사용 됩니다."
+
+msgid "The ipv6 address is calculated auomatically."
+msgstr "Ipv6 주소는 계산된 auomatically."
+
+msgid "The protocol to use for internet connectivity."
+msgstr "인터넷 연결에 사용할 프로토콜입니다."
+
+msgid "This is a unique address in the mesh (e.g. 10.1.1.1) and has to be registered at your local community."
+msgstr "메시 (예: 10.1.1.1) 고유 주소 이며 당신의 지역 사회에 등록 될 수 있다."
+
+msgid "This will setup a new virtual wireless interface in Access Point mode."
+msgstr "이 새로운 가상 무선 인터페이스 액세스 포인트 모드에서 설정 됩니다."
+
+msgid "This wizard will assist you in setting up your router for Freifunk or another similar wireless community network."
+msgstr "이 마법사 Freifunk 또는 비슷한 다른 라우터 설정에서 당신을 원조 할 것 이다 무선 지역 사회 네트워크."
+
+msgid "Unknown Error"
+msgstr "알 수 없는 오류"
+
+msgid "Username"
+msgstr "사용자 이름"
+
+msgid "Virtual Access Point (VAP)"
+msgstr "가상 액세스 포인트 (VAP)"
+
+msgid "Wizard"
+msgstr "마법사"
+
+msgid "Your device and neighbouring nodes have to use the same channel."
+msgstr "장치 및 이웃 노드 동일한 채널을 사용 해야 합니다."
+
+msgid "dhcp"
+msgstr "dhcp"
+
+msgid "kbit/s"
+msgstr "kbit/s"
+
+msgid "static"
+msgstr "정적"
+
+msgid "Configure this interface."
+msgstr "이 인터페이스를 구성 합니다."
+
+msgid "recommended"
+msgstr "권장"
+
+msgid "Basic settings"
+msgstr "기본 설정"
+
+msgid "Basic settings are incomplete. Please go to"
+msgstr "기본 설정은 완전 하지 않습니다. 로 이동 하십시오"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "You can not use the wizard because some necessary values are missing."
+msgstr "일부 필요한 값 누락 때문에 마법사를 사용할 수 없습니다."
+
+msgid "and fill out all required fields."
+msgstr "그리고 모든 필수 필드를 작성 합니다."
+

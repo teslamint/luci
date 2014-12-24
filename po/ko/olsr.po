@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-19 19:35+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: olsr.po\n"
+
+msgid "Active MID announcements"
+msgstr "활성 중간 발표"
+
+msgid "Active OLSR nodes"
+msgstr "활성 OLSR 노드"
+
+msgid "Active host net announcements"
+msgstr "활성 호스트 인터넷 공지"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Allow gateways with NAT"
+msgstr "NAT 게이트웨이에 허용"
+
+msgid "Allow the selection of an outgoing ipv4 gateway with NAT"
+msgstr "NAT와 나가는 ipv4 게이트웨이 선택 허용"
+
+msgid "Announce uplink"
+msgstr "업링크를 발표"
+
+msgid "Announced network"
+msgstr "발표된 네트워크"
+
+msgid "Bad (ETX > 10)"
+msgstr "나쁜 (ETX &gt; 10)"
+
+msgid "Bad (SNR < 5)"
+msgstr "나쁜 (SNR < 5)"
+
+msgid "Both values must use the dotted decimal notation."
+msgstr "두 값은 점으로 구분된 10 진수 표기법을 사용 해야 합니다."
+
+msgid "Broadcast address"
+msgstr "브로드캐스트 주소"
+
+msgid "Can only be a valid IPv4 or IPv6 address or 'default'"
+msgstr "유효한 IPv4 또는 IPv6 주소 또는 '기본'만 수 있습니다."
+
+msgid "Can only be a valid IPv6 address or 'default'"
+msgstr "유효한 IPv6 주소 또는 '기본'만 수 있습니다."
+
+msgid "Configuration"
+msgstr "구성"
+
+msgid "Could not get any data. Make sure the jsoninfo plugin is installed and allows connections from localhost."
+msgstr "어떤 데이터를 가져올 수 없습니다. Jsoninfo 플러그인이 설정 되 고 로컬 호스트에서 연결을 허용 한다 다는 것을 확인 하십시오."
+
+msgid "Display"
+msgstr "디스플레이"
+
+msgid "Downlink"
+msgstr "다운 링크"
+
+msgid "Download Config"
+msgstr "구성 다운로드"
+
+msgid "ETX"
+msgstr "ETX"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Enable SmartGateway. If it is disabled, then all other SmartGateway parameters are ignored. Default is \"no\"."
+msgstr "SmartGateway를 사용 합니다. 비활성화 되어 있는 경우 다른 모든 SmartGateway 매개 변수는 무시 됩니다. 기본값은 \"no\"."
+
+msgid "Enable this interface."
+msgstr "이 인터페이스를 사용 합니다."
+
+msgid "Enabled"
+msgstr "사용 가능"
+
+msgid "Expected retransmission count"
+msgstr "재전송 횟수를 예상"
+
+msgid "FIB metric"
+msgstr "거짓말 통계"
+
+msgid "FIBMetric controls the metric value of the host-routes OLSRd sets. \"flat\" means that the metric value is always 2. This is the preferred value because it helps the linux kernel routing to clean up older routes. \"correct\" uses the hopcount as the metric value. \"approx\" use the hopcount as the metric value too, but does only update the hopcount if the nexthop changes too. Default is \"flat\"."
+msgstr "FIBMetric는 호스트 경로 OLSRd 세트의 메트릭 값을 제어합니다. \"플랫\" 메트릭 값은 항상 2 의미 합니다. 때문에 더 오래된 라우트 정리 라우팅 리눅스 커널 기본 값입니다. \"올바른\" 메트릭 값으로는 hopcount을 사용합니다. \"약\" 너무, 메트릭 값으로는 hopcount를 사용 하지만 nexthop도 변경 하는 경우는 hopcount 업데이트지 않습니다. 기본값은 \"플랫\"입니다."
+
+msgid "Fisheye mechanism for TCs (checked means on). Default is \"on\""
+msgstr "Fisheye 메커니즘 TCs (위탁된 방법에). 기본값은 \"\"에"
+
+msgid "Gateway"
+msgstr "게이트웨이"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "General settings"
+msgstr "일반 설정"
+
+msgid "Good (2 < ETX < 4)"
+msgstr "좋은 (2 < ETX < 4)"
+
+msgid "Good (30 > SNR > 20)"
+msgstr "좋은 (30 &gt; SNR &gt; 20)"
+
+msgid "Green"
+msgstr "그린"
+
+msgid "HNA"
+msgstr "HNA"
+
+msgid "HNA Announcements"
+msgstr "HNA 공지"
+
+msgid "HNA interval"
+msgstr "HNA 간격"
+
+msgid "HNA validity time"
+msgstr "HNA 유효 시간"
+
+msgid "HNA6 Announcements"
+msgstr "HNA6 발표"
+
+msgid "Hello"
+msgstr "안녕하세요"
+
+msgid "Hello interval"
+msgstr "안녕하세요 간격"
+
+msgid "Hello validity time"
+msgstr "안녕하세요 유효 시간"
+
+msgid "Hide IPv4"
+msgstr "I p v 4를 숨기기"
+
+msgid "Hide IPv6"
+msgstr "I p v 6를 숨기기"
+
+msgid "Hna4"
+msgstr "Hna4"
+
+msgid "Hna6"
+msgstr "Hna6"
+
+msgid "Hops"
+msgstr "홉"
+
+msgid "Hostname"
+msgstr "호스트 이름"
+
+msgid "Hosts in a OLSR routed network can announce connecitivity to external networks using HNA messages."
+msgstr "OLSR 라우트된 네트워크에서 호스트 HNA 메시지를 사용 하 여 외부 네트워크에 connecitivity를 발표할 수 있습니다."
+
+msgid "Hosts in a OLSR routed network can announce connecitivity to external networks using HNA6 messages."
+msgstr "OLSR 라우트된 네트워크에서 호스트는 HNA6 메시지를 사용 하 여 외부 네트워크에 connecitivity를 발표할 수 있습니다."
+
+msgid "Hysteresis for link sensing (only for hopcount metric). Hysteresis adds more robustness to the link sensing but delays neighbor registration. Defaults is \"yes\""
+msgstr "링크 (hopcount 통계에)만 감지에 대 한 히스테리시스. 히스테리시스 링크 감지 더 견고성을 추가 하지만 이웃 등록을 지연. 기본값은 \"yes\""
+
+msgid "IP Addresses"
+msgstr "IP 주소"
+
+msgid "IP-version to use. If 6and4 is selected then one olsrd instance is started for each protocol."
+msgstr "IP-사용할 버전입니다. 6and4을 선택 하는 경우 하나의 olsrd 인스턴스가 각 프로토콜에 대 한 시작."
+
+msgid "IPv4"
+msgstr "IPv4"
+
+msgid "IPv4 broadcast"
+msgstr "IPv4 브로드캐스트"
+
+msgid "IPv4 broadcast address for outgoing OLSR packets. One useful example would be 255.255.255.255. Default is \"0.0.0.0\", which triggers the usage of the interface broadcast IP."
+msgstr "IPv4 브로드캐스트 보내는 OLSR 패킷에 대 한 주소. 하나의 유용한 예를 들어 255.255.255.255 것입니다. 기본값은 \"0.0.0.0\" IP 방송는 인터페이스의 사용법을 트리거합니다."
+
+msgid "IPv4 source"
+msgstr "IPv4 소스"
+
+msgid "IPv4 src address for outgoing OLSR packages. Default is \"0.0.0.0\", which triggers usage of the interface IP."
+msgstr "IPv4 src 주소 보내는 OLSR 패키지입니다. 기본값은 \"0.0.0.0\" 인터페이스 IP의 사용을 유발 합니다."
+
+msgid "IPv6"
+msgstr "IPv6"
+
+msgid "IPv6 multicast"
+msgstr "IPv6 멀티 캐스트"
+
+msgid "IPv6 multicast address. Default is \"FF02::6D\", the manet-router linklocal multicast."
+msgstr "IPv6 멀티 캐스트 주소. 기본값은 \"FF02::6D\", 마네 라우터 linklocal 멀티 캐스트입니다."
+
+msgid "IPv6 network must be given in full notation, prefix must be in CIDR notation."
+msgstr "IPv6 네트워크 전체 표기법으로 지정 해야 합니다, 그리고 접두사 CIDR 표기법에 있어야 합니다."
+
+msgid "IPv6 source"
+msgstr "IPv6 소스"
+
+msgid "IPv6 src prefix. OLSRd will choose one of the interface IPs which matches the prefix of this parameter. Default is \"0::/0\", which triggers the usage of a not-linklocal interface IP."
+msgstr "IPv6 src 접두사입니다. OLSRd는이 매개 변수 접두사와 일치 하는 Ip 인터페이스 중 하나를 선택 합니다. 기본값은 \"0:: / 0\", 아니 linklocal 인터페이스 IP의 사용을 트리거."
+
+msgid "IPv6-Prefix of the uplink"
+msgstr "IPv6 접두사는 업링크의"
+
+msgid "If the route to the current gateway is to be changed, the ETX value of this gateway is multiplied with this value before it is compared to the new one. The parameter can be a value between 0.1 and 1.0, but should be close to 1.0 if changed.<br /><b>WARNING:</b> This parameter should not be used together with the etx_ffeth metric!<br />Defaults to \"1.0\"."
+msgstr "현재 게이트웨이 경로 변경 하는 것입니다, 그것은 새 것을 비교 하기 전에이 값이 게이트웨이 ETX 값 곱한 값입니다. 매개 변수는 0.1에서 1.0 사이의 값을 될 수 있지만 변경 하는 경우 1.0에 가까워야.<br><b>경고:</b> 이 매개 변수는 etx_ffeth 통계와 함께 사용해 서는 안됩니다!<br>기본값은 \"1.0\"입니다."
+
+msgid "If this Node uses NAT for connections to the internet. Default is \"yes\"."
+msgstr "경우이 노드는 인터넷 연결에 대 한 NAT를 사용 합니다. 기본값은 \"yes\"입니다."
+
+msgid "Interface"
+msgstr "인터페이스"
+
+msgid "Interface Mode is used to prevent unnecessary packet forwarding on switched ethernet interfaces. valid Modes are \"mesh\" and \"ether\". Default is \"mesh\"."
+msgstr "인터페이스 모드는 불필요 한 패킷 스위치 드 이더넷 인터페이스에서 전달 되지 않도록 하는 데 사용 됩니다. 유효한 모드는 \"메시\" 및 \"에테르\". 기본값은 \"메시\"입니다."
+
+msgid "Interfaces"
+msgstr "인터페이스"
+
+msgid "Interfaces Defaults"
+msgstr "인터페이스 기본값"
+
+msgid "Internet protocol"
+msgstr "인터넷 프로토콜"
+
+msgid "Interval to poll network interfaces for configuration changes (in seconds). Default is \"2.5\"."
+msgstr "간격 (초)에서 네트워크 인터페이스 구성 변경에 대 한 설문 조사입니다. 기본값은 \"2.5\"입니다."
+
+msgid "Invalid Value for LQMult-Value. Must be between 0.01 and 1.0."
+msgstr "LQMult 값에 대 한 잘못된 값입니다. 0.01에서 1.0 사이 여야 합니다."
+
+msgid "Invalid Value for LQMult-Value. You must use a decimal number between 0.01 and 1.0 here."
+msgstr "LQMult 값에 대 한 잘못된 값입니다. 여기 0.01에서 1.0 사이의 10 진수 번호를 사용 해야 합니다."
+
+msgid "Known OLSR routes"
+msgstr "알려진된 OLSR 라우트"
+
+msgid "LQ"
+msgstr "LQ"
+
+msgid "LQ aging"
+msgstr "LQ 노화"
+
+msgid "LQ algorithm"
+msgstr "LQ 알고리즘"
+
+msgid "LQ fisheye"
+msgstr "LQ fisheye"
+
+msgid "LQ level"
+msgstr "LQ 수준"
+
+msgid "LQMult requires two values (IP address or 'default' and multiplicator) seperated by space."
+msgstr "LQMult 공간으로 구분을 하 여 두 개의 값 (IP 주소 또는 '기본' 및 multiplicator)이 필요합니다."
+
+msgid "Last hop"
+msgstr "마지막 홉"
+
+msgid "Legend"
+msgstr "전설"
+
+msgid "Library"
+msgstr "라이브러리"
+
+msgid "Link Quality Settings"
+msgstr "링크 품질 설정"
+
+msgid "Link quality aging factor (only for lq level 2). Tuning parameter for etx_float and etx_fpm, smaller values mean slower changes of ETX value. (allowed values are between 0.01 and 1.0)"
+msgstr "링크 품질 노화 요인 (lq 레벨 2)에 해당. Etx_float 및 etx_fpm 매개 변수를 조정, 값이 작을수록 ETX 값의 느린 변화를 의미 한다. (허용 되는 값은 0.01에서 1.0 사이)"
+
+msgid "Link quality algorithm (only for lq level 2).<br /><b>etx_float</b>: floating point ETX with exponential aging<br /><b>etx_fpm</b> : same as etx_float, but with integer arithmetic<br /><b>etx_ff</b> : ETX freifunk, an etx variant which use all OLSR traffic (instead of only hellos) for ETX calculation<br /><b>etx_ffeth</b>: incompatible variant of etx_ff that allows ethernet links with ETX 0.1.<br />Defaults to \"etx_ff\""
+msgstr "링크 품질 (lq 레벨 2)에 해당 알고리즘입니다.<br><b>etx_float</b>: 지 수 노화와 포인트 ETX 부동<br><b>etx_fpm</b> : etx_float와 동일 하지만 정수 연산<br><b>etx_ff</b> : ETX freifunk, etx 변종 ETX 계산 (만 hellos) 대신 모든 OLSR 트래픽을 사용 하는<br><b>etx_ffeth</b>: ETX 0.1와 이더넷 링크를 허용 하는 etx_ff의 호환 되지 않는 변종.<br>기본값: \"etx_ff\""
+
+msgid "Link quality level switch between hopcount and cost-based (mostly ETX) routing.<br /><b>0</b> = do not use link quality<br /><b>2</b> = use link quality for MPR selection and routing<br />Default is \"2\""
+msgstr "링크 품질 레벨 스위치 hopcount 사이 및 비용 기반 (주로 ETX) 라우팅.<br><b>0</b> = 링크 품질을 사용 하지 마십시오<br><b>2</b> = 사용 링크 품질 MPR 선택과 라우팅에 대 한<br>기본값은 \"2\""
+
+msgid "LinkQuality Multiplicator"
+msgstr "LinkQuality Multiplicator"
+
+msgid "Links per node (average)"
+msgstr "노드 (평균) 당 링크"
+
+msgid "Links total"
+msgstr "총 링크"
+
+msgid "Local interface IP"
+msgstr "로컬 인터페이스 IP"
+
+msgid "MID"
+msgstr "중간"
+
+msgid "MID interval"
+msgstr "중간 간격"
+
+msgid "MID validity time"
+msgstr "중반 유효 시간"
+
+msgid "MTU"
+msgstr "MTU"
+
+msgid "Main IP"
+msgstr "주요 IP"
+
+msgid "Make sure that OLSRd is running, the \"jsoninfo\" plugin is loaded, configured on port 9090 and accepts connections from \"127.0.0.1\"."
+msgstr "OLSRd 실행 하는, \"jsoninfo\" 플러그인 로드, 포트 9090에서 구성 되 고 \"127.0.0.1\"에서 연결을 수락 되었는지 확인 합니다."
+
+msgid "Metric"
+msgstr "통계"
+
+msgid "Mode"
+msgstr "모드"
+
+msgid "Multiply routes with the factor given here. Allowed values are between 0.01 and 1.0. It is only used when LQ-Level is greater than 0. Examples:<br />reduce LQ to 192.168.0.1 by half: 192.168.0.1 0.5<br />reduce LQ to all nodes on this interface by 20%: default 0.8"
+msgstr "여기에서 주어진 인자와 곱하기 라우트입니다. 허용 되는 값은 0.01와 1.0 사이입니다. LQ 수준 0 보다 큰 경우에 사용 됩니다. 예:<br>LQ 192.168.0.1을 절반 줄일: 192.168.0.1 0.5<br>이 인터페이스에서 모든 노드에 LQ 20% 감소: 0.8 기본"
+
+msgid "Multiply routes with the factor given here. Allowed values are between 0.01 and 1.0. It is only used when LQ-Level is greater than 0. Examples:<br />reduce LQ to fd91:662e:3c58::1 by half: fd91:662e:3c58::1 0.5<br />reduce LQ to all nodes on this interface by 20%: default 0.8"
+msgstr "여기에서 주어진 인자와 곱하기 라우트입니다. 허용 되는 값은 0.01와 1.0 사이입니다. LQ 수준 0 보다 큰 경우에 사용 됩니다. 예:<br>LQ fd91:662e:3 c 58:: 1 절반 줄일: fd91:662e:3 c 58:: 1 0.5<br>이 인터페이스에서 모든 노드에 LQ 20% 감소: 0.8 기본"
+
+msgid "NAT threshold"
+msgstr "NAT 임계값"
+
+msgid "NLQ"
+msgstr "NLQ"
+
+msgid "Neighbors"
+msgstr "이웃"
+
+msgid "Neighbour IP"
+msgstr "이웃 IP"
+
+msgid "Neighbours"
+msgstr "이웃"
+
+msgid "Netmask"
+msgstr "네트워크 마스크"
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "Network address"
+msgstr "네트워크 주소"
+
+msgid "Nic changes poll interval"
+msgstr "닉 변경 폴링 간격"
+
+msgid "Nodes"
+msgstr "노드"
+
+msgid "OLSR"
+msgstr "OLSR"
+
+msgid "OLSR - Display Options"
+msgstr "OLSR-디스플레이 옵션"
+
+msgid "OLSR - HNA-Announcements"
+msgstr "OLSR-HNA 공지"
+
+msgid "OLSR - HNA6-Announcements"
+msgstr "OLSR-HNA6-공지 사항"
+
+msgid "OLSR - Plugins"
+msgstr "OLSR-플러그인"
+
+msgid "OLSR Daemon"
+msgstr "OLSR 데몬"
+
+msgid "OLSR Daemon - Interface"
+msgstr "OLSR 데몬-인터페이스"
+
+msgid "OLSR connections"
+msgstr "OLSR 연결"
+
+msgid "OLSR gateway"
+msgstr "OLSR 게이트웨이"
+
+msgid "OLSR node"
+msgstr "OLSR 노드"
+
+msgid "Orange"
+msgstr "오렌지"
+
+msgid "Overview"
+msgstr "개요"
+
+msgid "Overview of currently active OLSR host net announcements"
+msgstr "현재 활성 OLSR 호스트 net 발표의 개요"
+
+msgid "Overview of currently established OLSR connections"
+msgstr "현재 설정된 OLSR 연결의 개요"
+
+msgid "Overview of currently known OLSR nodes"
+msgstr "현재까지 알려진된 OLSR 노드의 개요"
+
+msgid "Overview of currently known routes to other OLSR nodes"
+msgstr "다른 OLSR 노드에 현재 알려진된 라우트 개요"
+
+msgid "Overview of interfaces where OLSR is running"
+msgstr "OLSR 실행 중인 인터페이스의 개요"
+
+msgid "Overview of known multiple interface announcements"
+msgstr "개요의 알려진 여러 인터페이스 공지"
+
+msgid "Overview of smart gateways in this network"
+msgstr "스마트 게이트웨이이 네트워크의 개요"
+
+msgid "Plugin configuration"
+msgstr "플러그인 구성"
+
+msgid "Plugins"
+msgstr "플러그인"
+
+msgid "Polling rate for OLSR sockets in seconds. Default is 0.05."
+msgstr "초에서 속도 OLSR 소켓에 대 한 폴링. 기본값은 0.05입니다."
+
+msgid "Pollrate"
+msgstr "Pollrate"
+
+msgid "Port"
+msgstr "포트"
+
+msgid "Prefix"
+msgstr "접두사"
+
+msgid "Red"
+msgstr "레드"
+
+msgid "Resolve"
+msgstr "해결"
+
+msgid "Resolve hostnames on status pages. It is generally safe to allow this, but if you use public IPs and have unstable DNS-Setup then those pages will load really slow. In this case disable it here."
+msgstr "상태 페이지에 호스트 이름을 해결 합니다. 그것은 일반적으로 안전이, 공용 Ip를 사용를 불안정 한 DNS 설정 후 해당 페이지 정말 로드 됩니다 천천히 합니다. 이 경우에 그것을 해제 여기."
+
+msgid "Routes"
+msgstr "라우트"
+
+msgid "Secondary OLSR interfaces"
+msgstr "보조 OLSR 인터페이스"
+
+msgid "Sets the main IP (originator ip) of the router. This IP will NEVER change during the uptime of olsrd. Default is 0.0.0.0, which triggers usage of the IP of the first interface."
+msgstr "라우터의 기본 IP (송신자 ip)를 설정합니다. 이 IP는 olsrd의 가동 시간 동안 변화 하지 않습니다. 기본값은 0.0.0.0, 첫 번째 인터페이스의 IP의 사용을 유발 합니다."
+
+msgid "Sets the main IP (originator ip) of the router. This IP will NEVER change during the uptime of olsrd. Default is ::, which triggers usage of the IP of the first interface."
+msgstr "라우터의 기본 IP (송신자 ip)를 설정합니다. 이 IP는 olsrd의 가동 시간 동안 변화 하지 않습니다. 기본값은::, 있는 첫 번째 인터페이스의 IP의 사용을 유발 합니다."
+
+msgid "Show IPv4"
+msgstr "I p v 4를 표시"
+
+msgid "Show IPv6"
+msgstr "IPv6 보기"
+
+msgid "Signal Noise Ratio in dB"
+msgstr "Db에서 신호 대 잡음 비율"
+
+msgid "SmartGW"
+msgstr "SmartGW"
+
+msgid "SmartGW announcements"
+msgstr "SmartGW 발표"
+
+msgid "SmartGateway is not configured on this system."
+msgstr "SmartGateway이이 시스템에 구성 되지 않습니다."
+
+msgid "Source address"
+msgstr "원본 주소"
+
+msgid "Specifies the speed of the uplink in kilobits/s. First parameter is upstream, second parameter is downstream. Default is \"128 1024\"."
+msgstr "킬로 비트/s는 업링크 속도를 지정합니다. 첫 번째 매개 변수는 업스트림, 두 번째 매개 변수는 다운스트림. 기본값은 \"128 1024\"."
+
+msgid "Speed of the uplink"
+msgstr "업링크 속도"
+
+msgid "State"
+msgstr "상태"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Still usable (20 > SNR > 5)"
+msgstr "아직 사용할 수 (20 &gt; SNR &gt; 5)"
+
+msgid "Still usable (4 < ETX < 10)"
+msgstr "아직 사용할 수 (4 < ETX < 10)"
+
+msgid "Success rate of packages received from the neighbour"
+msgstr "패키지는 이웃에서의 성공률"
+
+msgid "Success rate of packages sent to the neighbour"
+msgstr "이웃 사람에 게 전송의 성공 속도"
+
+msgid "TC"
+msgstr "TC"
+
+msgid "TC interval"
+msgstr "TC 간격"
+
+msgid "TC validity time"
+msgstr "TC 유효 시간"
+
+msgid "TOS value"
+msgstr "TOS 값"
+
+msgid "The OLSR daemon is an implementation of the Optimized Link State Routing protocol. As such it allows mesh routing for any network equipment. It runs on any wifi card that supports ad-hoc mode and of course on any ethernet device. Visit <a href='http://www.olsr.org'>olsrd.org</a> for help and documentation."
+msgstr "OLSR 데몬 최적화 링크 상태 라우팅 프로토콜의 구현입니다. 같은 메쉬 네트워크 장비에 대 한 라우팅 수 있습니다. 그것은 애드혹 모드를 지 원하는 어떤 무선랜 카드에 그리고 과정의 모든 이더넷 장치에 실행 됩니다. 도움말 및 문서에 대 한 <a href='http://www.olsr.org'>olsrd.org</a> 를 방문 하십시오."
+
+msgid "The fixed willingness to use. If not set willingness will be calculated dynamically based on battery/power status. Default is \"3\"."
+msgstr "사용 하 여 고정된 지입니다. 하지 설정된 지 동적으로 계산 됩니다 경우 배터리/전원 상태에 따라. 기본값은 \"3\"입니다."
+
+msgid "The interface OLSRd should serve."
+msgstr "인터페이스 OLSRd 봉사 해야 한다."
+
+msgid "The port OLSR uses. This should usually stay at the IANA assigned port 698. It can have a value between 1 and 65535."
+msgstr "포트 OLSR를 사용합니다. 이 일반적으로 할당된 포트 698 IANA에서 체류 해야 합니다. 그것은 1과 65535 사이의 값을 가질 수 있습니다."
+
+msgid "This can be used to signal the external IPv6 prefix of the uplink to the clients. This might allow a client to change it's local IPv6 address to use the IPv6 gateway without any kind of address translation. The maximum prefix length is 64 bits. Default is \"::/0\" (no prefix)."
+msgstr "이 신호를 업링크의 외부 IPv6 접두사를 사용할 수 있습니다. 이 클라이언트의 로컬 IPv6 주소 주소 변환의 어떤 종류 없이 IPv6 게이트웨이 사용 하 여 변경할 수 있습니다. 최대 접두사 길이 64 비트입니다. 기본값은 \":: / 0\" (접두어)."
+
+msgid "Timing and Validity"
+msgstr "타이밍 및 유효 기간"
+
+msgid "Topology"
+msgstr "토폴로지"
+
+msgid "Type of service value for the IP header of control traffic. Default is \"16\"."
+msgstr "서비스 제어 트래픽이 IP 헤더에 대 한 값의 형식입니다. 기본값은 \"16\"."
+
+msgid "Unable to connect to the OLSR daemon!"
+msgstr "OLSR 데몬에 연결할 수 없습니다!"
+
+msgid "Uplink"
+msgstr "업링크"
+
+msgid "Uplink uses NAT"
+msgstr "업링크는 NAT를 사용 하 여"
+
+msgid "Use hysteresis"
+msgstr "히스테리시스를 사용 하 여"
+
+msgid "Validity Time"
+msgstr "유효 시간"
+
+msgid "Version"
+msgstr "버전"
+
+msgid "Very good (ETX < 2)"
+msgstr "아주 좋은 (ETX < 2)"
+
+msgid "Very good (SNR > 30)"
+msgstr "아주 좋은 (SNR &gt; 30)"
+
+msgid "WLAN"
+msgstr "무선랜"
+
+msgid "Warning: kmod-ipip is not installed. Without kmod-ipip SmartGateway will not work, please install it."
+msgstr "경고: kmod ipip 설정 되지 않습니다. Kmod ipip SmartGateway 작동 하지 것입니다 하지 않고 그것을 설정 하십시오."
+
+msgid "Weight"
+msgstr "무게"
+
+msgid "When multiple links exist between hosts the weight of interface is used to determine the link to use. Normally the weight is automatically calculated by olsrd based on the characteristics of the interface, but here you can specify a fixed value. Olsrd will choose links with the lowest value.<br /><b>Note:</b> Interface weight is used only when LinkQualityLevel is set to 0. For any other value of LinkQualityLevel, the interface ETX value is used instead."
+msgstr "여러 링크 호스트 사이 존재 하는 경우 인터페이스의 무게 사용에 대 한 링크를 결정 하는 데 사용 됩니다. 일반적으로 무게 olsrd 인터페이스의 특성에 기반 하 여 계산 자동으로 되지만 여기 고정된 값을 지정할 수 있습니다. Olsrd는 가장 낮은 값을 가진 링크를 선택 합니다.<br><b>참고:</b> 인터페이스 무게는 LinkQualityLevel가 0으로 설정 하는 경우에 사용 됩니다. LinkQualityLevel의 다른 값에 대 한 인터페이스 ETX 값 대신 사용 됩니다."
+
+msgid "Which kind of uplink is exported to the other mesh nodes. An uplink is detected by looking for a local HNA of 0.0.0.0/0, ::ffff:0:0/96 or 2000::/3. Default setting is \"both\"."
+msgstr "업링크의 어떤 종류를 다른 메시 노드에 내보내집니다. 업링크 0.0.0.0/0, 로컬 HNA 찾아 검색:: ffff:0:0 / 96 또는 2000:: / 3. 기본 설정은 \"둘 다\"입니다."
+
+msgid "Which kind of uplink is exported to the other mesh nodes. An uplink is detected by looking for a local HNA6 ::ffff:0:0/96 or 2000::/3. Default setting is \"both\"."
+msgstr "업링크의 어떤 종류를 다른 메시 노드에 내보내집니다. 업링크 지역 HNA6를 찾아 검색:: ffff:0:0 / 96 또는 2000:: / 3. 기본 설정은 \"둘 다\"입니다."
+
+msgid "Willingness"
+msgstr "지"
+
+msgid "Yellow"
+msgstr "노란색"
+
+msgid "no"
+msgstr "아니"
+
+msgid "yes"
+msgstr "예"
+

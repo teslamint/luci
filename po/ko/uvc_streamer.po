@@ -1,0 +1,42 @@
+#  uvc_streamer.pot
+#  generated from ./applications/luci-uvc_streamer/luasrc/i18n/uvc_streamer.en.lua
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: uvc_streamer.po\n"
+"Language: ko\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+
+#. Frames per second
+#: applications/luci-uvc_streamer/luasrc/i18n/uvc_streamer.en.lua:1
+msgid "Frames per second"
+msgstr "초당 프레임"
+
+#. Resolution
+#: applications/luci-uvc_streamer/luasrc/i18n/uvc_streamer.en.lua:2
+msgid "Resolution"
+msgstr "해상도"
+
+#. Settings
+#: applications/luci-uvc_streamer/luasrc/i18n/uvc_streamer.en.lua:3
+msgid "Settings"
+msgstr "설정"
+
+#. Webcam streaming
+#: applications/luci-uvc_streamer/luasrc/i18n/uvc_streamer.en.lua:4
+msgid "Webcam streaming"
+msgstr "스트리밍 웹캠"
+
+#. Configure your Linux-UVC compatible webcam. Point your browser to e.g. <a href=\"http://%s:%i/\">http://%s:%i/</a>
+#: applications/luci-uvc_streamer/luasrc/i18n/uvc_streamer.en.lua:5
+msgid "Configure your Linux-UVC compatible webcam. Point your browser to e.g. <a href=\"http://%s:%i/\">http://%s:%i/</a>"
+msgstr "리눅스 UVC 호환 웹캠을 구성 합니다. 예를 들어 브라우저를 가리킨 <a href=\"http://%s:%i/\">http://%s:%i /</a>"
+

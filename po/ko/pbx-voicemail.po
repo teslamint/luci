@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: pbx-voicemail.po\n"
+"Language: ko\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+
+msgid "Email Addresses that Receive Voicemail"
+msgstr "이메일 주소는 수신 음성 메일"
+
+msgid "Enable Voicemail"
+msgstr "음성 메일을 사용 하도록 설정"
+
+msgid "Global Voicemail Setup"
+msgstr "글로벌 음성 메일 설정"
+
+msgid "Here you can configure a global voicemail for this PBX. Since this system is intended to run on embedded systems like routers, there is no local storage of voicemail - it must be sent out by email. Therefore you need to configure an outgoing mail (SMTP) server (for example your ISP's, Google's, or Yahoo's SMTP server), and provide a list of addresses that receive recorded voicemail."
+msgstr "여기이 PBX에 대 한 글로벌 음성 메일을 구성할 수 있습니다. 이후이 시스템은 음성 메일-아니 로컬 저장소는 라우터 같은 임베디드 시스템에 실행 하기 위한 전자 우편에 의하여 밖으로 전송 되어야 합니다. 따라서 보내는 메일 (SMTP) 서버를 구성 해야 합니다 (예를 들어 ISP의, 구글, 또는 야 후의 SMTP 서버), 수신 하는 주소 목록을 기록 음성 메일 제공."
+
+msgid "In order for this PBX to send emails containing voicemail recordings, you need to set up an SMTP server here. Your ISP usually provides an SMTP server for that purpose. You can also set up a third party SMTP server such as the one provided by Google or Yahoo."
+msgstr "이 PBX 음성 메일 녹음을 포함 하는 이메일을 보내기 위해서, 여기에 SMTP 서버를 설정 해야 합니다. ISP는 일반적으로 그 목적을 위해 SMTP 서버를 제공합니다. 또한 구글이 나 야 후에서 제공 하는 것과 같은 제 3 자 SMTP 서버를 설정할 수 있습니다."
+
+msgid "Last Sent Voicemail Log"
+msgstr "최근 보낸된 음성 메일 로그"
+
+msgid "Local Storage Directory"
+msgstr "로컬 저장소 디렉터리"
+
+msgid "No"
+msgstr "없음"
+
+msgid "Outgoing mail (SMTP) Server"
+msgstr "보내는 메일 (SMTP) 서버"
+
+msgid "SMTP Password"
+msgstr "SMTP 비밀 번호"
+
+msgid "SMTP Port Number"
+msgstr "SMTP 포트 번호"
+
+msgid "SMTP Server Authentication"
+msgstr "SMTP 서버 인증"
+
+msgid "SMTP Server Hostname or IP Address"
+msgstr "SMTP 서버 호스트 이름 또는 IP 주소"
+
+msgid "SMTP User Name"
+msgstr "SMTP 사용자 이름"
+
+msgid "Secure Connection Using TLS"
+msgstr "보안 연결에 TLS를 사용 하 여"
+
+msgid "Voicemail Setup"
+msgstr "음성 메일 설정"
+
+msgid "When you enable voicemail, you will have the opportunity to specify email addresses that receive recorded voicemail. You must also set up an SMTP server below."
+msgstr "음성 메일을 사용 하면 수신 하는 이메일 주소 기록 음성 메일 지정 하려면 기회를 해야한다. 또한 아래의 SMTP 서버를 설정 해야 합니다."
+
+msgid "Yes"
+msgstr "예"
+
+msgid "You can also retain copies of voicemail messages on the device running your PBX. The path specified here will be created if it doesn't exist. Beware of limited space on embedded devices like routers, and enable this option only if you know what you are doing."
+msgstr "또한 PBX를 실행 하는 장치에 음성 메일 메시지의 복사본을 유지할 수 있습니다. 존재 하지 않는 경우 여기에 지정된 경로가 만들어집니다. 라우터, 같은 임베디드 디바이스에 제한된 공간의 조심하고 무엇을하고 알고 있는 경우에이 옵션을 사용."
+
+msgid "Your real SMTP password is not shown for your protection. It will be changed only when you change the value in this box."
+msgstr "실제 SMTP 비밀 번호 보호에 대 한 표시 되지 않습니다. 이 상자의 값을 변경 하는 경우에 변경 됩니다."
+

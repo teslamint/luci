@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-19 19:35+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: polipo.po\n"
+"Language: ko\n"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Allowed clients"
+msgstr "허용된 클라이언트"
+
+msgid "Always use system DNS resolver"
+msgstr "항상 시스템 DNS 확인자를 사용 하 여"
+
+msgid "Basic HTTP authentication supported. Provide username and password in username:password format."
+msgstr "기본 HTTP 인증 지원입니다. 사용자 이름 및 암호 username:password 형식으로 제공 합니다."
+
+msgid "Configuration"
+msgstr "구성"
+
+msgid "DNS and Query Settings"
+msgstr "DNS 및 쿼리 설정"
+
+msgid "DNS server address"
+msgstr "DNS 서버 주소"
+
+msgid "Delete cache files time"
+msgstr "캐시 파일 시간을 삭제"
+
+msgid "Disk cache location"
+msgstr "디스크 캐시 위치"
+
+msgid "Do not query IPv6"
+msgstr "I p v 6를 쿼리하지 않습니다"
+
+msgid "Enable if cache (proxy) is shared by multiple users."
+msgstr "캐시 (프록시)을 여러 사용자가 공유 하는 경우 사용 합니다."
+
+msgid "First PMM segment size (in bytes)"
+msgstr "첫 번째 PMM 세그먼트 크기 (바이트)"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "How much RAM should Polipo use for its cache."
+msgstr "얼마나 많은 RAM Polipo 캐시가 사용 해야 합니다."
+
+msgid "In RAM cache size (in bytes)"
+msgstr "RAM 캐시 크기 (바이트)에서"
+
+msgid "Listen address"
+msgstr "수신 주소"
+
+msgid "Listen port"
+msgstr "수신 대기 포트"
+
+msgid "Location where polipo will cache files permanently. Use of external storage devices is recommended, because the cache can grow considerably. Leave it empty to disable on-disk cache."
+msgstr "위치 polipo 영구적으로 파일을 캐시 합니다 어디. 캐시는 상당히 커질 수 있으므로 외부 저장 장치의 사용은 권장 됩니다. 비워에 디스크 캐시를 사용 하지 않도록 합니다."
+
+msgid "Log file location"
+msgstr "로그 파일 위치"
+
+msgid "Log to syslog"
+msgstr "Syslog를 로그"
+
+msgid "Logging and RAM"
+msgstr "로깅 및 RAM"
+
+msgid "Never use system DNS resolver"
+msgstr "시스템 DNS 확인자를 사용 하지 마십시오"
+
+msgid "On-Disk Cache"
+msgstr "디스크에 캐시"
+
+msgid "PMM segments size (in bytes)"
+msgstr "PMM 세그먼트 크기 (바이트)"
+
+msgid "Parent Proxy"
+msgstr "부모 프록시"
+
+msgid "Parent proxy address"
+msgstr "부모 프록시 주소"
+
+msgid "Parent proxy address (in host:port format), to which Polipo will forward the requests."
+msgstr "부모 프록시 주소 (호스트: 포트 형식)는 Polipo 요청을 전달 합니다."
+
+msgid "Parent proxy authentication"
+msgstr "부모 프록시 인증"
+
+msgid "Polipo"
+msgstr "Polipo"
+
+msgid "Polipo Status"
+msgstr "Polipo 상태"
+
+msgid "Polipo is a small and fast caching web proxy."
+msgstr "Polipo 작고 빠른 캐싱 웹 프록시입니다."
+
+msgid "Poor Man's Multiplexing"
+msgstr "불 쌍 한 남자의 다중화"
+
+msgid "Poor Man's Multiplexing (PMM) is a technique that simulates multiplexing by requesting an instance in multiple segments. It tries to lower the latency caused by the weakness of HTTP protocol. NOTE: some sites may not work with PMM enabled."
+msgstr "가난한 사람의 멀티플렉싱 (PMM) 여러 세그먼트에서 인스턴스를 요청 하 여 멀티플렉싱 시뮬레이션 기술입니다. HTTP 프로토콜의 약점으로 인 한 대기 시간이 낮은 시도 합니다. 참고: 일부 사이트 PMM 활성화와 함께 작동 하지 않을 수 있습니다."
+
+msgid "Port on which Polipo will listen"
+msgstr "포트 Polipo 듣지 것입니다"
+
+msgid "Proxy"
+msgstr "프록시"
+
+msgid "Query DNS by hostname"
+msgstr "호스트 이름에서 DNS 쿼리"
+
+msgid "Query DNS directly, fallback to system resolver"
+msgstr "쿼리 DNS 직접 대체 시스템 확인자"
+
+msgid "Query DNS directly, for unknown hosts fall back to system resolver"
+msgstr "직접 시스템 확인자를 다시가 알 수 없는 호스트에 대 한 DNS 쿼리"
+
+msgid "Query DNS for IPv6"
+msgstr "I p v 6에 대 한 DNS 쿼리"
+
+msgid "Query IPv4 and IPv6, prefer IPv4"
+msgstr "쿼리 i p v 4와 IPv6, IPv4 선호"
+
+msgid "Query IPv4 and IPv6, prefer IPv6"
+msgstr "쿼리 i p v 4와 IPv6, IPv6 선호"
+
+msgid "Query only IPv6"
+msgstr "I p v 6만을 쿼리합니다"
+
+msgid "Set the DNS server address to use, if you want Polipo to use different DNS server than the host system."
+msgstr "Polipo 호스트 시스템 보다 다른 DNS 서버를 사용 하도록 DNS 서버 주소 사용을 설정 합니다."
+
+msgid "Shared cache"
+msgstr "공유 캐시"
+
+msgid "Size of the first PMM segment. If not defined, it defaults to twice the PMM segment size."
+msgstr "첫 번째 PMM 세그먼트의 크기입니다. 정의 되지 않은 경우 기본값은 PMM 세그먼트 크기의 두 배."
+
+msgid "Size to which cached files should be truncated"
+msgstr "캐시된 파일이 잘립니다 해야 크기"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Syslog facility"
+msgstr "Syslog 시설"
+
+msgid "The interface on which Polipo will listen. To listen on all interfaces use 0.0.0.0 or :: (IPv6)."
+msgstr "인터페이스 Polipo 듣지 것입니다. 사용할 모든 인터페이스에서 수신 0.0.0.0 또는:: (IPv6)."
+
+msgid "Time after which cached files will be deleted"
+msgstr "캐시된 파일은 삭제 후 시간"
+
+msgid "Time after which cached files will be truncated"
+msgstr "시간 후 캐시된 파일이 잘립니다"
+
+msgid "To enable PMM, PMM segment size must be set to some positive value."
+msgstr "PMM을 사용 하려면 PMM 세그먼트 크기는 양수 값으로 설정 해야 합니다."
+
+msgid "Truncate cache files size (in bytes)"
+msgstr "캐시 파일 크기 (바이트) 자를"
+
+msgid "Truncate cache files time"
+msgstr "잘라내기 캐시 파일 시간"
+
+msgid "Use of external storage device is recommended, because the log file is written frequently and can grow considerably."
+msgstr "로그 파일 자주 작성은 상당히 커질 수 있기 때문에 외부 저장 장치의 사용은 권장 됩니다."
+
+msgid "When listen address is set to 0.0.0.0 or :: (IPv6), you must list clients that are allowed to connect. The format is IP address or network address (192.168.1.123, 192.168.1.0/24, 2001:660:116::/48 (IPv6))"
+msgstr "수신 주소 0.0.0.0으로 설정된 경우 또는:: (IPv6) 연결할 수 있는 클라이언트 나열 해야 합니다. 형식으로 IP 주소 또는 네트워크 주소 (192.168.1.123, 192.168.1.0/24, 2001:660:116:: / 48 (IPv6))"
+
+msgid "enable"
+msgstr "활성화"
+

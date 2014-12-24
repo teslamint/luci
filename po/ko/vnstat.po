@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: vnstat.po\n"
+"Language: ko\n"
+
+msgid "Configuration"
+msgstr "구성"
+
+msgid "Daily traffic"
+msgstr "일일 트래픽"
+
+msgid "Graphs"
+msgstr "그래프"
+
+msgid "Hourly traffic"
+msgstr "시간별 트래픽"
+
+msgid "Monitor selected interfaces"
+msgstr "선택한 인터페이스 모니터"
+
+msgid "Monthly traffic"
+msgstr "월간 트래픽"
+
+msgid "No database has been set up yet. Go to the VnStat configuration and enable monitoring for one or more interfaces."
+msgstr "데이터베이스가 설정 되었습니다 아직. VnStat 구성 이동한 하나 이상의 인터페이스에 대 한 모니터링을 사용 하도록 설정 합니다."
+
+msgid "Restart VnStat"
+msgstr "VnStat 다시 시작"
+
+msgid "Summary display"
+msgstr "요약 표시"
+
+msgid "Top 10 display"
+msgstr "상단 10 표시"
+
+msgid "Update »"
+msgstr "업데이트 »"
+
+msgid "VnStat"
+msgstr "VnStat"
+
+msgid "VnStat Graphs"
+msgstr "VnStat 그래프"
+
+msgid "VnStat Traffic Monitor"
+msgstr "VnStat 트래픽 모니터"
+
+msgid "VnStat is a network traffic monitor for Linux that keeps a log of network traffic for the selected interface(s)."
+msgstr "VnStat 리눅스 선택한 인터페이스에 대 한 네트워크 트래픽의 로그를 유지 네트워크 트래픽을 모니터링입니다."
+

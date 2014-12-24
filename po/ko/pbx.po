@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: pbx.po\n"
+"Language: ko\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Available"
+msgstr "이용 가능"
+
+msgid "Avoid using anything but alpha-numeric characters, space, comma, and period."
+msgstr "하지만 영숫자 문자, 공간, 쉼표 그리고 기간 무엇이 든을 사용 하지 마십시오."
+
+msgid "Away"
+msgstr "멀리"
+
+msgid "Blacklisted Numbers"
+msgstr "블랙 리스트 번호"
+
+msgid "Call Routing"
+msgstr "라우팅 호출"
+
+msgid "Call-back Numbers"
+msgstr "콜백 번호"
+
+msgid "Call-back Provider"
+msgstr "콜백 공급자"
+
+msgid "Call-through Numbers"
+msgstr "호출을 통해 숫자"
+
+msgid "Copy-paste large lists of numbers here."
+msgstr "복사-붙여넣기 여기 숫자의 큰 목록."
+
+msgid "Designate numbers that are allowed to call through this system and which user's privileges they will have."
+msgstr "이 시스템 그리고 그들은 어떤 사용자 권한을 통해 호출할 수 있는 번호를 지정 합니다."
+
+msgid "Designate numbers to whom the system will hang up and call back, which provider will be used to call them, and which user's privileges will be granted to them."
+msgstr "시스템 전화를 끊고 것입니다 누구 전화 다시, 그들을 호출 하는 공급자가 사용 될 그리고 그들에 게 어떤 사용자의 권한을 부여 하는 번호를 지정 합니다."
+
+msgid "Dials numbers unmatched elsewhere"
+msgstr "다른 곳에서 일치 하지 않는 번호를 다이얼"
+
+msgid "Do Not Disturb"
+msgstr "방해 하지 마십시오"
+
+msgid "Domain/IP Address/Dynamic Domain"
+msgstr "도메인/i P 주소/동적 도메인"
+
+msgid "Dynamic List of Blacklisted Numbers"
+msgstr "블랙 리스트 수 동적 목록"
+
+msgid "Email"
+msgstr "메일 주소"
+
+msgid "Enable Incoming Calls (Register via SIP)"
+msgstr "들어오는 호출 (SIP 통해 레지스터)를 사용 하도록 설정"
+
+msgid "Enable Incoming Calls (set Status below)"
+msgstr "들어오는 호출 (아래 설정된 상태)를 사용 하도록 설정"
+
+msgid "Enable Outgoing Calls"
+msgstr "나가는 호출을 사용 하도록 설정"
+
+msgid "Enabled"
+msgstr "사용 가능"
+
+msgid "Enter a VoIP provider to use for call-back in the format username@some.host.name, as listed in \"Outgoing Calls\" above. It's easiest to copy and paste the providers from above. Invalid entries, including providers not enabled for outgoing calls, will be rejected silently."
+msgstr "위의 \"발신 전화\"에 나열된 대로 콜백 형식 username@some.host.name에서 사용 하는 VoIP 공급자를 입력 합니다. 복사 하 여 위에서 공급자 쉽습니다. 발신 전화를 사용할 수 없는 공급자를 포함 하 여 잘못된 항목은 자동으로 거부 됩니다."
+
+msgid "Enter phone numbers that you want to decline calls from automatically. You should probably omit the country code and any leading zeroes, but please experiment to make sure you are blocking numbers from your desired area successfully."
+msgstr "자동으로 전화를 거절 하려는 전화 번호를 입력 합니다. 아마 국가 코드 및 모든 앞에 0, 생략 하지만 하시기 바랍니다 원하는 영역에서 숫자를 성공적으로 차단 하는 확인 실험 한다."
+
+msgid "Enter this IP (or IP:port) in the Server/Registrar setting of SIP devices you will use ONLY locally and never from a remote location."
+msgstr "입력이 IP (ip: port) 서버/등록에서 로컬로 사용 하는 SIP 장치 및 원격 위치에서 결코 설정."
+
+msgid "Enter this hostname (or hostname:port) in the Server/Registrar setting of SIP devices you will use from a remote location (they will work locally too)."
+msgstr "이 호스트 이름 (또는 hostname:port) 서버/등록에서 입력 설정 SIP 장치 (그들은 작동 합니다 로컬 도) 원격 위치에서 사용 됩니다."
+
+msgid "External SIP Port"
+msgstr "외부 SIP 포트"
+
+msgid "For each provider enabled for incoming calls, here you can restrict which users to ring on incoming calls. If the list is empty, the system will indicate that all users enabled for incoming calls will ring. Invalid usernames will be rejected silently. Also, entering a username here overrides the user's setting to not receive incoming calls. This way, you can make certain users ring only for specific providers. Entries can be made in a space-separated list, and/or one per line by hitting enter after every one."
+msgstr "여기 들어오는 호출에 사용할 각 공급자에 대 한 들어오는 호출에 반지에 있는 사용자를 제한할 수 있습니다. 목록이 비어 있으면 시스템 모든 사용자가 들어오는 호출에 대 한 활성화 반지 것입니다 표시 됩니다. 잘못된 사용자 이름은 자동으로 거부 됩니다. 또한, 여기에 이름을 입력 하지 들어오는 전화를 받을 사용자의 설정을 무시 합니다. 이 방법은 특정 공급자에 대 한 특정 사용자가 반지를 만들 수 있습니다. 공백으로 구분된 목록에 항목을 만들 수 있습니다 및/또는 각자 후 타격 하 여 줄에 하나씩 입력 합니다."
+
+msgid "For each user enabled for outgoing calls you can restrict what providers the user can use for outgoing calls. By default all users can use all providers. To show up in the list below the user should be allowed to make outgoing calls in the \"User Accounts\" page. Enter VoIP providers in the format username@some.host.name, as listed in \"Outgoing Calls\" above. It's easiest to copy and paste the providers from above. Invalid entries, including providers not enabled for outgoing calls, will be rejected silently. Entries can be made in a space-separated list, and/or one per line by hitting enter after every one."
+msgstr "발신 전화 어떤 공급자를 제한할 수 있습니다 사용 하는 각 사용자에 대 한 나가는 호출에 대 한 사용할 수 있습니다. 기본적으로 모든 사용자는 모든 공급자를 사용할 수 있습니다. 아래 목록에 표시 하는 사용자 \"사용자 계정\" 페이지에서 나가는 호출을 허용 되어야 한다. \"\" 위의 발신 전화에 VoIP 공급자 형식 username@some.host.name에서 입력 합니다. 복사 하 여 위에서 공급자 쉽습니다. 발신 전화를 사용할 수 없는 공급자를 포함 하 여 잘못된 항목은 자동으로 거부 됩니다. 공백으로 구분된 목록에 항목을 만들 수 있습니다 및/또는 각자 후 타격 하 여 줄에 하나씩 입력 합니다."
+
+msgid "Full Name"
+msgstr "전체 이름"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "Google Accounts"
+msgstr "구글 계정"
+
+msgid "Google Talk Status"
+msgstr "Google 토크 상태"
+
+msgid "Google Talk Status Message"
+msgstr "Google 토크의 상태 메시지"
+
+msgid "Google Voice/Talk Accounts"
+msgstr "구글 음성/토크 계정"
+
+msgid "Hang-up Delay"
+msgstr "끊기 지연"
+
+msgid "Here you must configure at least one SIP account, that you will use to register with this service. Use this account either in an Analog Telephony Adapter (ATA), or in a SIP software like CSipSimple, Linphone, or Sipdroid on your smartphone, or Ekiga, Linphone, or X-Lite on your computer. By default, all SIP accounts will ring simultaneously if a call is made to one of your VoIP provider accounts or GV numbers."
+msgstr "여기 당신이이 서비스에 등록 하는 데 사용할 하나 이상의 SIP 계정을 구성 해야 합니다. 아날로그 전화 어댑터 (ATA), 또는 컴퓨터에 스마트폰, 또는 Ekiga, Linphone, 또는 X-라이트 CSipSimple, Linphone, 또는 Sipdroid 같은 SIP 소프트웨어에서이 계정을 사용 합니다. 기본적으로 모든 SIP 계정을 반지 것입니다 동시에 VoIP 공급자 계정 또는 GV 숫자 중 하나를 호출 하는 경우."
+
+msgid "How long to wait before hanging up. If the provider you use to dial automatically forwards to voicemail, you can set this value to a delay that will allow you to hang up before your call gets forwarded and you get billed for it."
+msgstr "전화 끊기 전 대기 시간. 공급자를 사용 하 여 다이얼 자동으로 음성 메일을 전달, 당신의 호출이 전달 되 면 그것에 대 한 청구를 얻을 전에 끊지 수 있는 지연에이 값을 설정할 수 있습니다."
+
+msgid "If setting Server/Registrar to %s or %s does not work for you, try setting it to %s or %s and entering this port number in a separate field that specifies the Server/Registrar port number. Beware that some devices have a confusing setting that sets the port where SIP requests originate from on the SIP device itself (the bind port). The port specified on this page is NOT this bind port but the port this service listens on."
+msgstr "%s 또는 %s 서버/등록을 설정 하는 경우, %s 또는 %s로 설정하고 서버/등록 포트 번호를 지정 하는 별도 필드에이 포트 번호를 입력 당신을 위해 작동 하지 않습니다. 일부 장치는 SIP 장치 자체 (바인딩 포트)에서 SIP 요청에서 발생 하는 포트를 설정 하는 혼란 설정 조심 하십시오. 이 페이지에서 지정한 포트 바인딩 포트 하지만이 서비스에서 수신 대기 하는 포트 하지 않습니다."
+
+msgid "If you experience jittery or high latency audio during heavy downloads, you may want to enable QoS. QoS prioritizes traffic to and from your network for specified ports and IP addresses, resulting in better latency and throughput for sound in our case. If enabled below, a QoS rule for this service will be configured by the PBX automatically, but you must visit the QoS configuration page (Network->QoS) to configure other critical QoS settings like Download and Upload speed."
+msgstr "신경 과민 또는 높은 대기 시간이 오디오 무거운 다운로드 하는 동안 발생 하는 경우 QoS를 사용 하도록 할 수 있습니다. QoS 우선순위 지정된 포트 및 IP 주소에 대 한 네트워크 트래픽을 더 나은 대기 시간 및 처리량 우리의 경우 소리에 대 한 결과. 아래 사용 하는 경우이 서비스에 대 한 QoS 규칙 구성 됩니다 PBX에 의해 자동으로, 하지만 다운로드와 업로드 속도 같은 다른 중요 한 QoS 설정을 구성 하려면 QoS 구성 페이지 (QoS-> 네트워크)를 방문 해야 합니다."
+
+msgid "If you have more than one account that can make outgoing calls, you should enter a list of phone numbers and/or prefixes in the following fields for each provider listed. Invalid prefixes are removed silently, and only 0-9, X, Z, N, #, *, and + are valid characters. The letter X matches 0-9, Z matches 1-9, and N matches 2-9. For example to make calls to Germany through a provider, you can enter 49. To make calls to North America, you can enter 1NXXNXXXXXX. If one of your providers can make \"local\" calls to an area code like New York's 646, you can enter 646NXXXXXX for that provider. You should leave one account with an empty list to make calls with it by default, if no other provider's prefixes match. The system will automatically replace an empty list with a message that the provider dials all numbers not matched by another provider's prefixes. Be as specific as possible (i.e. 1NXXNXXXXXX is better than 1). Please note all international dial codes are discarded (e.g. 00, 011, 010, 0011). Entries can be made in a space-separated list, and/or one per line by hitting enter after every one."
+msgstr "나가는 호출을 만들 수 있는 하나 이상의 계정이 있는 경우 나열된 각 공급자에 대 한 전화 번호의 접두사 목록 다음 필드에 입력 해야 합니다. 잘못된 접두사는 자동으로 제거하고 0-9, X, Z, N, #, *, 그리고 올바른 문자 +. 0-9를 일치 하는 문자 X, Z 일치 1-9, 및 N 일치 2-9. 예를 들어 공급자를 통해 독일에 대 한 호출 수 있도록, 49를 입력할 수 있습니다. 북미 지역에 대 한 호출 수 있도록, 1NXXNXXXXXX를 입력할 수 있습니다. 당신의 공급자 중 하나는 뉴욕의 646 같은 지역 번호를 \"로컬\" 통화를 할 수, 해당 공급자에 대 한 646NXXXXXX를 입력할 수 있습니다. 다른 공급자의 접두사 일치 없는 경우 기본적으로 그것으로 통화를 할 빈 목록을 가진 계정 하나를 떠나야 한다. 시스템이 자동으로 공급자 다른 공급자의 접두사 일치 하지 않는 모든 숫자 다이얼 메시지와 함께 빈 목록을 대체 합니다. 구체적으로 가능한 (즉, 1NXXNXXXXXX는 1 보다 더 나은). 참고로 모든 국제 전화 걸기 코드 삭제 됩니다 (예: 00, 011, 010, 0011). 공백으로 구분된 목록에 항목을 만들 수 있습니다 및/또는 각자 후 타격 하 여 줄에 하나씩 입력 합니다."
+
+msgid "Incoming Calls"
+msgstr "들어오는 호출"
+
+msgid "Insert QoS Rules"
+msgstr "QoS 규칙 삽입"
+
+msgid "Makes Outgoing Calls"
+msgstr "발신 전화 하는 게"
+
+msgid "NOTE: There are no Google or SIP provider accounts configured."
+msgstr "참고: Google 또는 SIP 공급자 계정이 없는 구성 됩니다."
+
+msgid "NOTE: There are no Google or SIP provider accounts enabled for incoming calls."
+msgstr "참고: Google 또는 SIP 공급자 계정이 없는 들어오는 호출에 대해 사용할 수 있습니다."
+
+msgid "NOTE: There are no Google or SIP provider accounts enabled for outgoing calls."
+msgstr "참고: Google 또는 SIP 공급자 계정이 없는 발신 전화에 대 한 사용할 수 있습니다."
+
+msgid "NOTE: There are no local user accounts configured."
+msgstr "참고: 구성 없음 로컬 사용자 계정이 있습니다."
+
+msgid "NOTE: There are no local user accounts enabled for outgoing calls."
+msgstr "참고: 발신 전화에 대 한 사용할 수 없는 로컬 사용자 계정이 있다."
+
+msgid "No"
+msgstr "없음"
+
+msgid "Number of Seconds to Ring"
+msgstr "시간 (초) 반지"
+
+msgid "Outbound Proxy"
+msgstr "아웃 바운드 프록시"
+
+msgid "Outgoing Calls"
+msgstr "나가는 호출"
+
+msgid "PBX Main Page"
+msgstr "PBX 메인 페이지"
+
+msgid "PBX Service Status"
+msgstr "PBX 서비스 상태"
+
+msgid "PIN"
+msgstr "핀"
+
+msgid "Password"
+msgstr "비밀 번호"
+
+msgid "Pick a random port number between 6500 and 9500 for the service to listen on. Do not pick the standard 5060, because it is often subject to brute-force attacks. When finished, (1) click \"Save and Apply\", and (2) look in the \"SIP Device/Softphone Accounts\" section for updated Server and Port settings for your SIP Devices/Softphones."
+msgstr "수신 대기 하도록 6500와 서비스에 대 한 9500 사이의 임의 포트 번호를 선택 하십시오. 그것은 자주 짐승-강제 공격을 받을 수 있기 때문에 표준 5060을 선택 하지 마십시오. 완료 되 면, (1) 저장하고 \"적용\", 클릭하고 (2) 당신의 SIP 장치/소프트폰에 대 한 업데이트된 서버와 포트 설정에 대 한 \"SIP 장치/소프트 계정\" 섹션에서 봐."
+
+msgid "Port Setting for SIP Devices"
+msgstr "SIP 장치 포트 설정"
+
+msgid "Providers Used for Outgoing Calls"
+msgstr "나가는 호출에 사용 되는 공급자"
+
+msgid "QoS Settings"
+msgstr "QoS 설정"
+
+msgid "RTP Port Range End"
+msgstr "RTP 포트 범위 끝"
+
+msgid "RTP Port Range Start"
+msgstr "RTP 포트 범위 시작"
+
+msgid "RTP traffic carries actual voice packets. This is the start of the port range that will be used for setting up RTP communication. It's usually OK to leave this at the default value."
+msgstr "RTP 트래픽 실제 음성 패킷을 전달합니다. 이것은 RTP 통신을 설정 하는 데 사용 됩니다 포트 범위의 시작 이다. 그것은 일반적으로 기본 값에서 이것을 두고 확인입니다."
+
+msgid "Receives Incoming Calls"
+msgstr "들어오는 호출을 수신"
+
+msgid "Remote Usage"
+msgstr "원격 사용"
+
+msgid "Rings users enabled for incoming calls"
+msgstr "사용자가 들어오는 호출에 대 한 활성화를 반지합니다"
+
+msgid "SIP Accounts"
+msgstr "SIP 계정"
+
+msgid "SIP Device/Softphone Accounts"
+msgstr "SIP 장치/소프트 계정"
+
+msgid "SIP Provider Accounts"
+msgstr "SIP 공급자 계정"
+
+msgid "SIP Realm (needed by some providers)"
+msgstr "SIP 영역 (일부 업체에 의해 필요)"
+
+msgid "SIP Server/Registrar"
+msgstr "SIP 서버/등록"
+
+msgid "SIP Server/Registrar Port"
+msgstr "SIP 서버/등록 포트"
+
+msgid "Server Setting"
+msgstr "서버 설정"
+
+msgid "Server Setting for Local SIP Devices"
+msgstr "로컬 SIP 장치를 위한 서버 설정"
+
+msgid "Server Setting for Remote SIP Devices"
+msgstr "원격 SIP 장치를 위한 서버 설정"
+
+msgid "Service Status"
+msgstr "서비스 상태"
+
+msgid "Set the number of seconds to ring users upon incoming calls before hanging up or going to voicemail, if the voicemail is installed and enabled."
+msgstr "전에 끊 나 음성 메일, 음성 메일 설정 및 사용 하는 경우 들어오는 호출에 반지 사용자에 게 초 수를 설정 합니다."
+
+msgid "Space-Separated List of Blacklisted Numbers"
+msgstr "블랙 리스트 숫자의 공백으로 구분된 목록"
+
+msgid "Specify numbers individually here. Press enter to add more numbers."
+msgstr "여기에 지정한 숫자 개별적으로. 더 많은 숫자를 추가 하려면 enter 키를 누릅니다."
+
+msgid "Specify numbers individually here. Press enter to add more numbers. You will have to experiment with what country and area codes you need to add to the number."
+msgstr "여기에 지정한 숫자 개별적으로. 더 많은 숫자를 추가 하려면 enter 키를 누릅니다. 번호를 추가 해야 하는 어떤 국가 및 지역 번호와 함께 실험을 해야 합니다."
+
+msgid "The number(s) specified above will be able to dial out with this user's providers. Invalid usernames, including users not enabled for outgoing calls, are dropped silently. Please verify that the entry was accepted."
+msgstr "위에서 지정한 번호가이 사용자의이 공급자와 함께 전화를 수 있을 것입니다. 잘못된 사용자 이름, 발신 전화를 사용할 수 없는 사용자를 포함 하 여 자동으로 삭제 됩니다. 항목은 허용 하는 것을 확인 하십시오."
+
+msgid "This configuration page allows you to configure a phone system (PBX) service which permits making phone calls through multiple Google and SIP (like Sipgate, SipSorcery, and Betamax) accounts and sharing them among many SIP devices. Note that Google accounts, SIP accounts, and local user accounts are configured in the \"Google Accounts\", \"SIP Accounts\", and \"User Accounts\" sub-sections. You must add at least one User Account to this PBX, and then configure a SIP device or softphone to use the account, in order to make and receive calls with your Google/SIP accounts. Configuring multiple users will allow you to make free calls between all users, and share the configured Google and SIP accounts. If you have more than one Google and SIP accounts set up, you should probably configure how calls to and from them are routed in the \"Call Routing\" page. If you're interested in using your own PBX from anywhere in the world, then visit the \"Remote Usage\" section in the \"Advanced Settings\" page."
+msgstr "이 구성 페이지를 사용 하 여 여러 Google 통해 전화 및 계정 (예: Sipgate, SipSorcery, 및 베타) 모금 및 많은 SIP 장치 간에 공유를 허용 하는 전화 시스템 (PBX) 서비스를 구성할 수 있습니다. Google 계정, SIP 계정 및 로컬 사용자 계정 \",\" SIP 계정 \",\" Google 계정에 구성 되어 및 \"사용자 계정\" 하위 섹션 note. 이 PBX를 하나 이상의 사용자 계정을 추가하고 SIP 장치 또는 소프트폰 만들 위하여 Google/SIP 계정으로 전화를 받을 계정을 사용 하도록 구성 해야 합니다. 여러 사용자 구성 모든 사용자 간의 무료 통화를 할 수 있게 되며 구성된 Google 및 SIP 계정을 공유. 하나 이상의 google SIP 계정을 설정 하는 경우 당신은 아마 \"호출 라우팅\" 페이지에서 호출하고 그들 로부터 라우팅되는 방법을 구성 해야 합니다. 당신이 당신의 자신의 PBX를 사용 하 여 관심이 있다면 어디서 나 세계에서 다음 방문 \"고급 설정\" 페이지에서 \"원격 사용\" 섹션."
+
+msgid "This is the name that the VoIP server will use to identify itself when registering to VoIP (SIP) providers. Some providers require this to a specific string matching a hardware SIP device."
+msgstr "VoIP 서버 VoIP (SIP) 공급자에 등록할 때 자신을 식별 하는 데 사용할 이름입니다. 일부 공급자는 하드웨어 SIP 장치를 일치 하는 특정 문자열을이 필요 합니다."
+
+msgid "This is where you indicate which Google/SIP accounts are used to call what country/area codes, which users can use what SIP/Google accounts, how incoming calls are routed, what numbers can get into this PBX with a password, and what numbers are blacklisted."
+msgstr "이건 어디 있는 구글/SIP 계정을 어떤 사용자가 어떤 SIP/Google 계정을 사용할 수 있습니다, 어떤 국가/지역 코드를 호출 하는 데 사용 됩니다 지정할 숫자 암호,이 PBX로 얻을 수 있으며 어떤 숫자는 블랙 리스트 어떻게 들어오는 호출이 라우팅됩니다."
+
+msgid "This is where you set up your Google (Talk and Voice) Accounts, in order to start using them for dialing and receiving calls (voice chat and real phone calls). Please make at least one voice call using the Google Talk plugin installable through the GMail interface, and then log out from your account everywhere. Click \"Add\" to add as many accounts as you wish."
+msgstr "당신이 전화 통화 (음성 채팅 및 실시간 전화 통화)을 받기 위해 그들을 사용 하 여 시작 하려면 (이야기와 음성) 구글 계정 설정입니다. 적어도 하나의 음성 통화 GMail 인터페이스를 통해 설정 가능한 Google 토크 플러그인을 사용 하 여 다음 어디서 나 귀하의 계정에서 로그 아웃을 확인 하시기 바랍니다. \"\" 당신이 원하는대로 많은 계정을 추가 하려면 추가 클릭 합니다."
+
+msgid "This is where you set up your SIP (VoIP) accounts ts like Sipgate, SipSorcery, the popular Betamax providers, and any other providers with SIP settings in order to start using them for dialing and receiving calls (SIP uri and real phone calls). Click \"Add\" to add as many accounts as you wish."
+msgstr "이것은 당신은 전화 걸기 호출 (SIP uri와 실제 전화 통화)을 받기 위해 그들을 사용 하 여 시작 하려면 Sipgate, SipSorcery, 인기 있는 베타맥스 공급자 및 SIP 설정으로 다른 공급자 처럼 SIP (VoIP) 계정 ts를 설정. \"\" 당신이 원하는대로 많은 계정을 추가 하려면 추가 클릭 합니다."
+
+msgid "This option should be set to \"Yes\" if you have a DID (real telephone number) associated with this SIP account or want to receive SIP uri calls through this provider."
+msgstr "경우는 DID \"Yes\"로이 옵션을 설정 해야 (진짜 전화 번호) 또는 연결 된이 SIP 계정이이 공급자를 통해 SIP uri 전화를 받을 싶어요."
+
+msgid "This section contains settings that do not need to be changed under normal circumstances. In addition, here you can configure your system for use with remote SIP devices, and resolve call quality issues by enabling the insertion of QoS rules."
+msgstr "이 섹션에는 정상적인 상황에서 변경 해야 할 설정이 포함 되어 있습니다. 또한, 여기 구성할 수 있습니다 사용을 위한 시스템 원격 SIP 장치 및 통화 품질 문제를 해결의 QoS 규칙 삽입 함으로써."
+
+msgid "Use (four to five digit) numeric user name if you are connecting normal telephones with ATAs to this system (so they can dial user names)."
+msgstr "사용 (4 ~ 5 자리) 숫자 사용자 이름을 연결 하는 경우 정상적인 전화 상단으로이 시스템에 (그래서 사용자 이름 전화 수 있습니다)."
+
+msgid "Use this account to make outgoing calls as configured in the \"Call Routing\" section."
+msgstr "이 계정을 사용 하 여 \"전화 라우팅\" 섹션에 구성된 대로 나가는 호출을 확인 합니다."
+
+msgid "Use this account to make outgoing calls."
+msgstr "이 계정을 사용 하 여 나가는 호출을 확인 합니다."
+
+msgid "User Accounts"
+msgstr "사용자 계정"
+
+msgid "User Agent String"
+msgstr "사용자 에이전트 문자열"
+
+msgid "User Name"
+msgstr "사용자 이름"
+
+msgid "Uses providers enabled for outgoing calls"
+msgstr "나가는 호출에 대 한 설정 공급자를 사용 하 여"
+
+msgid "When somebody starts voice chat with your GTalk account or calls the GVoice, number (if you have Google Voice), the call will be forwarded to any users that are online (registered using a SIP device or softphone) and permitted to receive the call. If you have Google Voice, you must go to your GVoice settings and forward calls to Google chat in order to actually receive calls made to your GVoice number. If you have trouble receiving calls from GVoice, experiment with the Call Screening option in your GVoice Settings. Finally, make sure no other client is online with this account (browser in gmail, mobile/desktop Google Talk App) as it may interfere."
+msgstr "때 누군가가 GTalk 계정으로 음성 채팅을 시작 나는 GVoice, (만약) Google 음성 번호, 전화 호출 온라인 (SIP 장치 또는 소프트를 사용 하 여 등록)는 모든 사용자에 게 전달 되며 전화를 받을 수 있습니다. 구글 보이스가 GVoice 설정으로 이동하고 실제로 GVoice 번호 호출을 받으려면 Google 채팅에 대 한 호출을 전달 해야 합니다. GVoice에서 호출을 받는 데 문제가 있으면 GVoice 설정에서 차단 호출 옵션와 실험. 마지막으로, 다른 클라이언트는이 계정 (gmail, Google 토크 애플 리 케이 션 모바일/데스크탑 브라우저)으로 온라인을 방해 수 있습니다 확인 하십시오."
+
+msgid "When your password is saved, it disappears from this field and is not displayed for your protection. The previously saved password will be changed only when you enter a value different from the saved one."
+msgstr "암호가 저장 되 면이 필드에서 사라하고 당신의 보호를 위해 표시 되지 않습니다. 이전에 저장된 암호는 저장된 다른 값을 입력 하는 경우에 변경 됩니다."
+
+msgid "Yes"
+msgstr "예"
+
+msgid "You can enter your domain name, external IP address, or dynamic domain name here. The best thing to input is a static IP address. If your IP address is dynamic and it changes, your configuration will become invalid. Hence, it's recommended to set up Dynamic DNS in this case. and enter your Dynamic DNS hostname here. You can configure Dynamic DNS with the luci-app-ddns package."
+msgstr "도메인 이름, 외부 IP 주소 또는 동적 도메인 이름 여기를 입력할 수 있습니다. 입력에 좋은 점은 고정 IP 주소입니다. 당신의 IP 주소는 동적 변경 하는 경우 구성을 잘못 될 것 이다. 따라서,이 경우에 동적 DNS를 설정 하는 것이 좋습니다. 그리고 여기 당신의 동적 DNS 호스트 이름을 입력 합니다. Luci-애플 리 케이 션-ddns 패키지와 함께 동적 DNS를 구성할 수 있습니다."
+
+msgid "You can specify a real name to show up in the Caller ID here."
+msgstr "호출자 ID는 여기에 표시를 실제 이름을 지정할 수 있습니다."
+
+msgid "You can use your SIP devices/softphones with this system from a remote location as well, as long as your Internet Service Provider gives you a public IP. You will be able to call other local users for free (e.g. other Analog Telephone Adapters (ATAs)) and use your VoIP providers to make calls as if you were local to the PBX. After configuring this tab, go back to where users are configured and see the new Server and Port setting you need to configure the remote SIP devices with. Please note that if this PBX is not running on your router/gateway, you will need to configure port forwarding (NAT) on your router/gateway. Please forward the ports below (SIP port and RTP range) to the IP address of the device running this PBX."
+msgstr "인터넷 서비스 공급자는 당신에 게 공용 IP 제공으로 당신의 SIP 장치/소프트폰이 시스템 뿐만 아니라, 원격 위치에서 사용할 수 있습니다. 다른 로컬 전화를 수 있습니다. 사용자 (예: 다른 아날로그 전화 어댑터 (상단)) 자유롭고 당신의 VoIP 공급자를 사용 하 여 마치 로컬 pbx 통화를 할 수 있습니다. 이 탭을 구성 후 사용자가 구성하고 새 서버를 참조 하 돌아가서 포트 설정으로 원격 SIP 장치를 구성 해야 합니다. 제발 note이 PBX에 당신의 라우터/게이트웨이에 실행 되 고 있지, 만약 당신이 당신의 라우터/게이트웨이에 포트 포워딩 (NAT)을 구성 해야 합니다. 이 PBX를 실행 하는 장치에 대 한 IP 주소를 (SIP 포트 및 RTP 범위) 아래의 포트를 전달 하시기 바랍니다."
+
+msgid "Your PIN disappears when saved for your protection. It will be changed only when you enter a value different from the saved one. Leaving the PIN empty is possible, but please beware of the security implications."
+msgstr "비밀 번호 보호를 위해 저장 하면 사라집니다. 저장된 다른 값을 입력 하는 경우에 변경 됩니다. 핀 빈 떠나 가능 하지만 보안 문제에 주의 하시기 바랍니다."
+
+msgid "Your password disappears when saved for your protection. It will be changed only when you enter a value different from the saved one."
+msgstr "비밀 번호 보호를 위해 저장 하면 사라집니다. 저장된 다른 값을 입력 하는 경우에 변경 됩니다."
+

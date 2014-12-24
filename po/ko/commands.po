@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: commands.po\n"
+"Language: ko\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+
+msgid "A short textual description of the configured command"
+msgstr "구성된 명령의 짧은 텍스트 설명"
+
+msgid "Access command with"
+msgstr "액세스 명령"
+
+msgid "Allow executing the command and downloading its output without prior authentication"
+msgstr "명령을 실행하고 사전 인증 없이 출력 다운로드 허용"
+
+msgid "Allow the user to provide additional command line arguments"
+msgstr "추가 명령줄 인수를 제공 하려면 사용자를 허용"
+
+msgid "Arguments:"
+msgstr "인수:"
+
+msgid "Binary data not displayed, download instead."
+msgstr "표시 되지 않는 이진 데이터 대신 다운로드."
+
+msgid "Code:"
+msgstr "코드:"
+
+msgid "Collecting data..."
+msgstr "데이터를 수집..."
+
+msgid "Command"
+msgstr "명령"
+
+msgid "Command failed"
+msgstr "명령 실패"
+
+msgid "Command line to execute"
+msgstr "명령줄 실행"
+
+msgid "Command successful"
+msgstr "명령 성공"
+
+msgid "Command:"
+msgstr "명령:"
+
+msgid "Configure"
+msgstr "구성"
+
+msgid "Custom Commands"
+msgstr "사용자 지정 명령"
+
+msgid "Custom arguments"
+msgstr "사용자 지정 인수"
+
+msgid "Dashboard"
+msgstr "대시보드"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Failed to execute command!"
+msgstr "명령을 실행 하지 못했습니다!"
+
+msgid "Link"
+msgstr "링크"
+
+msgid "Loading"
+msgstr "로드"
+
+msgid "Public access"
+msgstr "공용 액세스"
+
+msgid "Run"
+msgstr "실행"
+
+msgid "This page allows you to configure custom shell commands which can be easily invoked from the web interface."
+msgstr "이 페이지를 사용 하 여 쉽게 웹 인터페이스에서 호출할 수 있는 사용자 지정 셸 명령을 구성할 수 있습니다."
+
+msgid "Waiting for command to complete..."
+msgstr "명령이 완료를 기다리고..."
+

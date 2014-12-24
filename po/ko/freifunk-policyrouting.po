@@ -1,0 +1,27 @@
+msgid "All traffic from interfaces belonging to these zones will be sent via a gateway in the mesh network."
+msgstr "이 영역에 속하는 인터페이스에서 모든 트래픽은 메쉬 네트워크에서 게이트웨이 통해 전송 됩니다."
+
+msgid "Enable Policy Routing"
+msgstr "정책 라우팅 사용"
+
+msgid "Fallback to mesh"
+msgstr "대체 메시"
+
+msgid "Firewall zones"
+msgstr "방화벽 영역"
+
+msgid "If no default route is received from the mesh network then traffic which belongs to the selected firewall zones is routed via your internet connection as a fallback. If you do not want this and instead block that traffic then you should select this option."
+msgstr "기본 경로가 메쉬 네트워크에서 수신 되 면 선택한 방화벽 영역에 속하는 트래픽 대체도 당신의 인터넷 연결을 통해 라우팅됩니다. 이 고 대신 트래픽을 차단 하는 경우 다음이 옵션을 선택 해야 합니다."
+
+msgid "If your own gateway is not available then fallback to the mesh default gateway."
+msgstr "자신의 게이트웨이 사용할 수 없는 경우 다음 메시 기본 게이트웨이를 대체 합니다."
+
+msgid "Policy Routing"
+msgstr "정책 라우팅"
+
+msgid "Strict Filtering"
+msgstr "엄격한 필터링"
+
+msgid "These pages can be used to setup policy routing for certain firewall zones. This is useful if you need to use your own internet connection for yourself but you don't want to share it with others (thats why it can also be called 'Ego Mode'). Your own traffic is then sent via your internet connection while traffic originating from the mesh will use another gateway in the mesh."
+msgstr "이 페이지는 라우팅 방화벽 영역 특정 정책 설정에 사용할 수 있습니다. 이것은 자신에 대 한 자신의 인터넷 연결을 사용 해야 하지만 다른 사용자와 공유 하지 않으려는 경우 유용 (그래서 그것은 또한 ' 자아 모드 '를 호출할 수 있습니다). 망상에서 발생 하는 트래픽을 것입니다 메시에 있는 다른 게이트웨이 사용하고 있다 하는 동안 자신의 트래픽은 다음 인터넷 연결을 통해 전송 됩니다."
+

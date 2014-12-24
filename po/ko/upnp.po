@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-19 19:36+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: upnp.po\n"
+"Language: ko\n"
+
+msgid "ACLs specify which external ports may be redirected to which internal addresses and ports"
+msgstr "Acl 지정 외부 포트 내부 주소와 포트에 리디렉션할 수 있습니다."
+
+msgid "Action"
+msgstr "동작"
+
+msgid "Active UPnP Redirects"
+msgstr "활성 UPnP 리디렉션"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Allow adding forwards only to requesting ip addresses"
+msgstr "전달 ip 주소 요청에 추가 허용"
+
+msgid "Announced model number"
+msgstr "모델 번호를 발표 했다"
+
+msgid "Announced serial number"
+msgstr "발표 일련번호"
+
+msgid "Clean rules interval"
+msgstr "깨끗 한 규칙 간격"
+
+msgid "Clean rules threshold"
+msgstr "깨끗 한 규칙 임계값"
+
+msgid "Client Address"
+msgstr "클라이언트 주소"
+
+msgid "Client Port"
+msgstr "클라이언트 포트"
+
+msgid "Collecting data..."
+msgstr "데이터를 수집..."
+
+msgid "Comment"
+msgstr "코멘트"
+
+msgid "Delete Redirect"
+msgstr "리디렉션 삭제"
+
+msgid "Device UUID"
+msgstr "장치의 UUID"
+
+msgid "Downlink"
+msgstr "다운 링크"
+
+msgid "Enable NAT-PMP functionality"
+msgstr "NAT PMP 기능을 활성화"
+
+msgid "Enable UPnP functionality"
+msgstr "UPnP 기능을 활성화"
+
+msgid "Enable additional logging"
+msgstr "추가 로깅을 사용 하도록 설정"
+
+msgid "Enable secure mode"
+msgstr "보안 모드를 사용 하도록 설정"
+
+msgid "External Port"
+msgstr "외부 포트"
+
+msgid "External ports"
+msgstr "외부 포트"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "Internal addresses"
+msgstr "내부 주소"
+
+msgid "Internal ports"
+msgstr "내부 포트"
+
+msgid "MiniUPnP ACLs"
+msgstr "MiniUPnP Acl"
+
+msgid "MiniUPnP settings"
+msgstr "MiniUPnP 설정"
+
+msgid "Notify interval"
+msgstr "알림 간격"
+
+msgid "Port"
+msgstr "포트"
+
+msgid "Presentation URL"
+msgstr "프레 젠 테이 션 URL"
+
+msgid "Protocol"
+msgstr "프로토콜"
+
+msgid "Puts extra debugging information into the system log"
+msgstr "시스템 로그에 추가 디버깅 정보를 박 았"
+
+msgid "Report system instead of daemon uptime"
+msgstr "데몬 가동 대신 보고서 시스템"
+
+msgid "Start UPnP and NAT-PMP service"
+msgstr "UPnP 및 NAT-PMP 서비스 시작"
+
+msgid "There are no active redirects."
+msgstr "없음 활성 리디렉션 있다."
+
+msgid "UPNP"
+msgstr "UPNP"
+
+msgid "UPnP allows clients in the local network to automatically configure the router."
+msgstr "UPnP는 자동으로 라우터를 구성 하려면 로컬 네트워크에 있는 클라이언트를 수 있습니다."
+
+msgid "UPnP lease file"
+msgstr "UPnP 임대 파일"
+
+msgid "Universal Plug & Play"
+msgstr "범용 플러그 & 플레이"
+
+msgid "Uplink"
+msgstr "업링크"
+
+msgid "Value in KByte/s, informational only"
+msgstr "만 KByte/s, 정보 가치"
+

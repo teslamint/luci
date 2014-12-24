@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-19 00:29+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: wol.po\n"
+"Language: ko\n"
+
+msgid "Broadcast on all interfaces"
+msgstr "모든 인터페이스에서 방송"
+
+msgid "Choose the host to wake up or enter a custom MAC address to use"
+msgstr "일어나 거 나 사용 하는 사용자 정의 MAC 주소 입력을 호스트 선택"
+
+msgid "Host to wake up"
+msgstr "일어나 호스트"
+
+msgid "Network interface to use"
+msgstr "네트워크 인터페이스 사용"
+
+msgid "Sometimes only one of the two tools works. If one fails, try the other one"
+msgstr "두 도구 중 하나만 때로는 작동합니다. 하나가 실패 하면 다른 하나를 시도"
+
+msgid "Specifies the interface the WoL packet is sent on"
+msgstr "WoL 패킷을 전송 하는 인터페이스를 지정 합니다."
+
+msgid "Starting WoL utility:"
+msgstr "WoL 유틸리티 시작:"
+
+msgid "Wake on LAN"
+msgstr "Wake on LAN"
+
+msgid "Wake on LAN is a mechanism to remotely boot computers in the local network."
+msgstr "LAN 깨우기는 로컬 네트워크에 있는 원격 부팅 컴퓨터 메커니즘입니다."
+
+msgid "Wake up host"
+msgstr "호스트 일어나"
+
+msgid "WoL program"
+msgstr "WoL 프로그램"
+

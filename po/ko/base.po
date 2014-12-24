@@ -1,0 +1,2693 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-10 03:40+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: base.po\n"
+
+msgid "(%d minute window, %d second interval)"
+msgstr "(%d 분 창, %d 초 간격)"
+
+msgid "(%s available)"
+msgstr "(%s 가능)"
+
+msgid "(empty)"
+msgstr "(비어 있음)"
+
+msgid "(no interfaces attached)"
+msgstr "(연결된 아무 인터페이스)"
+
+msgid "-- Additional Field --"
+msgstr "-- 추가 필드 --"
+
+msgid "-- Please choose --"
+msgstr "-- 선택하세요 --"
+
+msgid "-- custom --"
+msgstr "-- 사용자 지정 --"
+
+msgid "1 Minute Load:"
+msgstr "1 분 로드:"
+
+msgid "15 Minute Load:"
+msgstr "15 분 부하:"
+
+msgid "5 Minute Load:"
+msgstr "5 분 로드:"
+
+msgid "<abbr title=\"Basic Service Set Identifier\">BSSID</abbr>"
+msgstr "<abbr title=\"Basic Service Set Identifier\">BSSID</abbr>"
+
+msgid "<abbr title=\"Domain Name System\">DNS</abbr> query port"
+msgstr "<abbr title=\"Domain Name System\">DNS</abbr> 쿼리 포트"
+
+msgid "<abbr title=\"Domain Name System\">DNS</abbr> server port"
+msgstr "<abbr title=\"Domain Name System\">DNS</abbr> 서버 포트"
+
+msgid "<abbr title=\"Domain Name System\">DNS</abbr> servers will be queried in the order of the resolvfile"
+msgstr "<abbr title=\"Domain Name System\">DNS</abbr> 서버는 resolvfile의 순서 대로 쿼리 됩니다."
+
+msgid "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
+msgstr "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
+
+msgid "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Address"
+msgstr "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-주소"
+
+msgid "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Gateway"
+msgstr "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-게이트웨이"
+
+msgid "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Netmask"
+msgstr "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>네트워크 마스크"
+
+msgid "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Address or Network (CIDR)"
+msgstr "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-주소 또는 네트워크 (CIDR)"
+
+msgid "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Gateway"
+msgstr "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-게이트웨이"
+
+msgid "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Suffix (hex)"
+msgstr "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-접미사 (16 진수)"
+
+msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> Configuration"
+msgstr "<abbr title=\"Light Emitting Diode\">LED</abbr> 구성"
+
+msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> Name"
+msgstr "<abbr title=\"Light Emitting Diode\">LED</abbr> 이름"
+
+msgid "<abbr title=\"Media Access Control\">MAC</abbr>-Address"
+msgstr "<abbr title=\"Media Access Control\">맥</abbr>-주소"
+
+msgid "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr> leases"
+msgstr "<abbr title=\"maximal\">최대</abbr> <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr> 임대"
+
+msgid "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Extension Mechanisms for Domain Name System\">EDNS0</abbr> packet size"
+msgstr "<abbr title=\"maximal\">최대</abbr> <abbr title=\"Extension Mechanisms for Domain Name System\">EDNS0</abbr> 패킷 크기"
+
+msgid "<abbr title=\"maximal\">Max.</abbr> concurrent queries"
+msgstr "<abbr title=\"maximal\">최대</abbr> 동시 쿼리"
+
+msgid "<abbr title='Pairwise: %s / Group: %s'>%s - %s</abbr>"
+msgstr "<abbr title='Pairwise: %s / Group: %s'>%s-%s</abbr>"
+
+msgid "ADSL"
+msgstr "ADSL"
+
+msgid "ADSL Status"
+msgstr "ADSL 상태"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "AR Support"
+msgstr "AR 지원"
+
+msgid "ARP retry threshold"
+msgstr "ARP 재시도 임계값"
+
+msgid "ATM Bridges"
+msgstr "ATM 브리지"
+
+msgid "ATM Virtual Channel Identifier (VCI)"
+msgstr "ATM 가상 채널 식별자 (VCI)"
+
+msgid "ATM Virtual Path Identifier (VPI)"
+msgstr "ATM 가상 경로 식별자 (VPI)"
+
+msgid "ATM bridges expose encapsulated ethernet in AAL5 connections as virtual Linux network interfaces which can be used in conjunction with DHCP or PPP to dial into the provider network."
+msgstr "ATM 교량 AAL5 연결에서 캡슐화된 이더넷 공급자 네트워크로 전화를 DHCP 또는 PPP와 함께에서 사용 될 수 있는 가상 리눅스 네트워크 인터페이스 노출."
+
+msgid "ATM device number"
+msgstr "ATM 장치 번호"
+
+msgid "Access Concentrator"
+msgstr "액세스 집중 장치"
+
+msgid "Access Point"
+msgstr "액세스 포인트"
+
+msgid "Action"
+msgstr "동작"
+
+msgid "Actions"
+msgstr "작업"
+
+msgid "Activate this network"
+msgstr "이 네트워크를 활성화"
+
+msgid "Active <abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Routes"
+msgstr "활성 <abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-라우트"
+
+msgid "Active <abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Routes"
+msgstr "활성 <abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-라우트"
+
+msgid "Active Connections"
+msgstr "활성 연결"
+
+msgid "Active DHCP Leases"
+msgstr "활성 DHCP 임대"
+
+msgid "Active DHCPv6 Leases"
+msgstr "활성 DHCPv6 임대"
+
+msgid "Ad-Hoc"
+msgstr "Ad-Hoc"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Add local domain suffix to names served from hosts files"
+msgstr "로컬 도메인 접미사를 추가 하는 호스트 파일에서 제공 하는 이름"
+
+msgid "Add new interface..."
+msgstr "새로운 인터페이스 추가..."
+
+msgid "Additional Hosts files"
+msgstr "추가 호스트 파일"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Address to access local relay bridge"
+msgstr "로컬 릴레이 다리에 액세스 하려면 주소"
+
+msgid "Administration"
+msgstr "관리"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Alert"
+msgstr "경으십시오"
+
+msgid "Allow <abbr title=\"Secure Shell\">SSH</abbr> password authentication"
+msgstr "<abbr title=\"Secure Shell\">SSH</abbr> 암호 인증 허용"
+
+msgid "Allow all except listed"
+msgstr "제외하고 모두 허용 목록"
+
+msgid "Allow listed only"
+msgstr "허용만 나열 된"
+
+msgid "Allow localhost"
+msgstr "Localhost를 허용"
+
+msgid "Allow remote hosts to connect to local SSH forwarded ports"
+msgstr "원격 호스트 로컬 SSH 포트 전달에 연결 허용"
+
+msgid "Allow root logins with password"
+msgstr "루트 암호를 가진 로그인을 허용"
+
+msgid "Allow the <em>root</em> user to login with password"
+msgstr "<em>루트</em> 사용자가 암호를 가진 로그인"
+
+msgid "Allow upstream responses in the 127.0.0.0/8 range, e.g. for RBL services"
+msgstr "RBL 서비스에 대 한 예를 들어 127.0.0.0/8 범위에서 업스트림 응답이 허용"
+
+msgid "Always announce default router"
+msgstr "항상 기본 라우터 발표"
+
+msgid "Always use 40MHz channels even if the secondary channel overlaps. Using this option does not comply with IEEE 802.11n-2009!"
+msgstr "보조 채널 중첩 하는 경우에 항상 40mhz 채널을 사용 합니다. 이 옵션을 사용 하 여 준수 하지 않는 IEEE 802.11 n-2009!"
+
+msgid "An additional network will be created if you leave this unchecked."
+msgstr "추가 네트워크가 검사 받지 않는 남겨 두는 경우에 생성 됩니다."
+
+msgid "Announce as default router even if no public prefix is available."
+msgstr "공용 접두사가 없는 사용할 수 있는 경우에 기본 라우터 발표."
+
+msgid "Announced DNS domains"
+msgstr "발표된 DNS 도메인"
+
+msgid "Announced DNS servers"
+msgstr "DNS 서버 발표"
+
+msgid "Antenna 1"
+msgstr "안테나 1"
+
+msgid "Antenna 2"
+msgstr "안테나 2"
+
+msgid "Antenna Configuration"
+msgstr "안테나 구성"
+
+msgid "Any zone"
+msgstr "모든 영역"
+
+msgid "Apply"
+msgstr "적용"
+
+msgid "Applying changes"
+msgstr "변경 사항 적용 중"
+
+msgid "Assign a part of given length of every public IPv6-prefix to this interface"
+msgstr "할당의 일부는이 인터페이스를 모든 공용 IPv6 접두사의 길이 주어진"
+
+msgid "Assign interfaces..."
+msgstr "인터페이스 할당..."
+
+msgid "Assign prefix parts using this hexadecimal subprefix ID for this interface."
+msgstr "이 16진수 subprefix ID를 사용하여 이 인터페이스에 대한 접두사 부분을 할당합니다."
+
+msgid "Associated Stations"
+msgstr "연결된 역"
+
+msgid "Atheros 802.11%s Wireless Controller"
+msgstr "Atheros 802.11%s 무선 컨트롤러"
+
+msgid "Authentication"
+msgstr "인증"
+
+msgid "Authoritative"
+msgstr "신뢰할 수 있는"
+
+msgid "Authorization Required"
+msgstr "인증 필요"
+
+msgid "Auto Refresh"
+msgstr "자동 새로고침"
+
+msgid "Automatic"
+msgstr "자동"
+
+msgid "Automatic Homenet (HNCP)"
+msgstr "자동 Homenet (HNCP)"
+
+msgid "Available"
+msgstr "이용 가능"
+
+msgid "Available packages"
+msgstr "사용 가능한 패키지"
+
+msgid "Average:"
+msgstr "평균:"
+
+msgid "BSSID"
+msgstr "BSSID"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid "Back to Overview"
+msgstr "개요로 돌아가기"
+
+msgid "Back to configuration"
+msgstr "구성으로 돌아가기"
+
+msgid "Back to overview"
+msgstr "개요로 돌아가기"
+
+msgid "Back to scan results"
+msgstr "스캔 결과로 돌아가기"
+
+msgid "Background Scan"
+msgstr "백그라운드 검색"
+
+msgid "Backup / Flash Firmware"
+msgstr "백업 / 펌웨어 올리기"
+
+msgid "Backup / Restore"
+msgstr "백업/복원"
+
+msgid "Backup file list"
+msgstr "백업 파일 목록"
+
+msgid "Bad address specified!"
+msgstr "잘못된 주소 지정!"
+
+msgid "Band"
+msgstr "밴드"
+
+msgid "Below is the determined list of files to backup. It consists of changed configuration files marked by opkg, essential base files and the user defined backup patterns."
+msgstr "다음은 백업 파일의 결정된 목록이입니다. Opkg, 필수 기본 파일 및 사용자 정의 백업 패턴에 의해 표시된 변경된 구성 파일의 구성 됩니다."
+
+msgid "Bitrate"
+msgstr "비트 전송률"
+
+msgid "Bogus NX Domain Override"
+msgstr "가짜 NX 도메인 재정"
+
+msgid "Bridge"
+msgstr "다리"
+
+msgid "Bridge interfaces"
+msgstr "브리지 인터페이스"
+
+msgid "Bridge unit number"
+msgstr "다리 단위 번호"
+
+msgid "Bring up on boot"
+msgstr "부팅 시 시작"
+
+msgid "Broadcom 802.11%s Wireless Controller"
+msgstr "Broadcom 802.11%s 무선 컨트롤러"
+
+msgid "Broadcom BCM%04x 802.11 Wireless Controller"
+msgstr "Broadcom BCM%04x 802.11 무선 컨트롤러"
+
+msgid "Buffered"
+msgstr "버퍼링"
+
+msgid "Buttons"
+msgstr "단추"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "CPU usage (%)"
+msgstr "CPU 사용률 (%)"
+
+msgid "Cached"
+msgstr "캐시"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Category"
+msgstr "카테고리"
+
+msgid "Chain"
+msgstr "체인"
+
+msgid "Changes"
+msgstr "변경"
+
+msgid "Changes applied."
+msgstr "변경 내용이 적용됨."
+
+msgid "Changes the administrator password for accessing the device"
+msgstr "장치에 접근하기 위해 관리자 암호를 변경"
+
+msgid "Channel"
+msgstr "채널"
+
+msgid "Check"
+msgstr "확인"
+
+msgid "Checksum"
+msgstr "체크섬"
+
+msgid "Choose the firewall zone you want to assign to this interface. Select <em>unspecified</em> to remove the interface from the associated zone or fill out the <em>create</em> field to define a new zone and attach the interface to it."
+msgstr "이 인터페이스에 할당할 방화벽 영역을 선택 합니다. <em>지정 되지 않은</em> 연결된된 영역에서 인터페이스를 제거 하거나 새 영역을 정의하고 그것에 연결할 인터페이스를 <em>생성</em> 하는 필드를 작성을 선택 합니다."
+
+msgid "Choose the network(s) you want to attach to this wireless interface or fill out the <em>create</em> field to define a new network."
+msgstr "이 무선 인터페이스에 연결 하거나 새 네트워크를 정의 하기 위해 필드 <em>만들기</em> 작성 하려는 네트워크를 선택 합니다."
+
+msgid "Cipher"
+msgstr "암호화"
+
+msgid "Click \"Generate archive\" to download a tar archive of the current configuration files. To reset the firmware to its initial state, click \"Perform reset\" (only possible with squashfs images)."
+msgstr "\"아카이브 생성\" 클릭 하 여 현재 구성 파일의 tar 아카이브를 다운로드 하려면. 펌웨어를 초기 상태로 다시 설정 하려면 \"리셋\" (유일 하 게 가능한 squashfs 이미지와 함께)."
+
+msgid "Client"
+msgstr "클라이언트"
+
+msgid "Client ID to send when requesting DHCP"
+msgstr "때 DHCP 요청을 보내는 클라이언트 ID"
+
+msgid "Close inactive connection after the given amount of seconds, use 0 to persist connection"
+msgstr "주어진된 양의 초 후 비활성 연결을 닫고, 0을 사용 하 여 연결 유지"
+
+msgid "Close list..."
+msgstr "닫기 목록..."
+
+msgid "Collecting data..."
+msgstr "데이터를 수집..."
+
+msgid "Command"
+msgstr "명령"
+
+msgid "Common Configuration"
+msgstr "일반적인 구성"
+
+msgid "Compression"
+msgstr "압축"
+
+msgid "Configuration"
+msgstr "구성"
+
+msgid "Configuration applied."
+msgstr "구성 적용입니다."
+
+msgid "Configuration files will be kept."
+msgstr "구성 파일이 보관 됩니다."
+
+msgid "Configures this mount as overlay storage for block-extroot"
+msgstr "이 마운트 블록 extroot에 대 한 오버레이 스토리지로 구성"
+
+msgid "Confirmation"
+msgstr "확인"
+
+msgid "Connect"
+msgstr "연결"
+
+msgid "Connected"
+msgstr "연결"
+
+msgid "Connection Limit"
+msgstr "연결 제한"
+
+msgid "Connections"
+msgstr "연결"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Country Code"
+msgstr "국가 코드"
+
+msgid "Cover the following interface"
+msgstr "다음과 같은 인터페이스를 커버"
+
+msgid "Cover the following interfaces"
+msgstr "다음 인터페이스 커버"
+
+msgid "Create / Assign firewall-zone"
+msgstr "만들기/방화벽 영역 할당"
+
+msgid "Create Interface"
+msgstr "인터페이스 만들기"
+
+msgid "Create a bridge over multiple interfaces"
+msgstr "여러 인터페이스를 통해 다리를 만들"
+
+msgid "Critical"
+msgstr "심각"
+
+msgid "Cron Log Level"
+msgstr "Cron 로그 레벨"
+
+msgid "Custom Interface"
+msgstr "사용자 지정 인터페이스"
+
+msgid "Custom delegated IPv6-prefix"
+msgstr "사용자 지정 위임 IPv6 접두사"
+
+msgid "Customizes the behaviour of the device <abbr title=\"Light Emitting Diode\">LED</abbr>s if possible."
+msgstr "가능 하면 장치 <abbr title=\"Light Emitting Diode\">LED</abbr>s의 동작을 사용자 지정합니다."
+
+msgid "DHCP Leases"
+msgstr "DHCP 임대"
+
+msgid "DHCP Server"
+msgstr "DHCP 서버"
+
+msgid "DHCP and DNS"
+msgstr "DHCP 및 DNS"
+
+msgid "DHCP client"
+msgstr "DHCP 클라이언트"
+
+msgid "DHCP-Options"
+msgstr "DHCP 옵션"
+
+msgid "DHCPv6 Leases"
+msgstr "DHCPv6 임대"
+
+msgid "DHCPv6 client"
+msgstr "DHCPv6 클라이언트"
+
+msgid "DHCPv6-Mode"
+msgstr "DHCPv6 모드"
+
+msgid "DHCPv6-Service"
+msgstr "DHCPv6 서비스"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS forwardings"
+msgstr "DNS 포워딩"
+
+msgid "DNS-Label / FQDN"
+msgstr "DNS 레이블 / FQDN"
+
+msgid "DS-Lite AFTR address"
+msgstr "DS 라이트 AFTR 주소"
+
+msgid "DUID"
+msgstr "DUID"
+
+msgid "Debug"
+msgstr "디버그"
+
+msgid "Default %d"
+msgstr "기본 %d"
+
+msgid "Default gateway"
+msgstr "기본 게이트웨이"
+
+msgid "Default state"
+msgstr "기본 상태"
+
+msgid "Define a name for this network."
+msgstr "이 네트워크의 이름을 정합니다."
+
+msgid "Define additional DHCP options, for example \"<code>6,192.168.2.1,192.168.2.2</code>\" which advertises different DNS servers to clients."
+msgstr "예를 들어 추가 DHCP 옵션이 정의 \" <code>6,192.168.2.1,192.168.2.2</code> \"는 고객에 게 다른 DNS 서버를 알립니다."
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Delete this interface"
+msgstr "이 인터페이스 삭제"
+
+msgid "Delete this network"
+msgstr "이 네트워크 삭제"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Design"
+msgstr "디자인"
+
+msgid "Destination"
+msgstr "대상"
+
+msgid "Device"
+msgstr "장치"
+
+msgid "Device Configuration"
+msgstr "장치 구성"
+
+msgid "Diagnostics"
+msgstr "진단"
+
+msgid "Directory"
+msgstr "디렉터리"
+
+msgid "Disable"
+msgstr "사용 안 함"
+
+msgid "Disable <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr> for this interface."
+msgstr "이 인터페이스에 대해 <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr> 를 비활성화 합니다."
+
+msgid "Disable DNS setup"
+msgstr "DNS 설정 프로그램을 사용 하지 않도록 설정"
+
+msgid "Disable HW-Beacon timer"
+msgstr "HW 신호 타이머를 사용 하지 않도록 설정"
+
+msgid "Disabled"
+msgstr "사용 안 함"
+
+msgid "Discard upstream RFC1918 responses"
+msgstr "업스트림 RFC1918 응답 삭제"
+
+msgid "Displaying only packages containing"
+msgstr "포함된 패키지만 표시"
+
+msgid "Distance Optimization"
+msgstr "거리 최적화"
+
+msgid "Distance to farthest network member in meters."
+msgstr "미터에서 먼 네트워크 멤버 까지의 거리입니다."
+
+msgid "Diversity"
+msgstr "다양성"
+
+msgid "Dnsmasq is a combined <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>-Server and <abbr title=\"Domain Name System\">DNS</abbr>-Forwarder for <abbr title=\"Network Address Translation\">NAT</abbr> firewalls"
+msgstr "Dnsmasq 이다 결합된 <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>-서버와 <abbr title=\"Domain Name System\">DNS</abbr>- <abbr title=\"Network Address Translation\">NAT</abbr> 방화벽에 대 한 전달자"
+
+msgid "Do not cache negative replies, e.g. for not existing domains"
+msgstr "예: 존재 하지 않는 대 한 부정적인 응답을 캐시 하지 않습니다 도메인"
+
+msgid "Do not forward requests that cannot be answered by public name servers"
+msgstr "공개 이름 서버에서 해결할 수 없는 요청을 전달 하지 않기"
+
+msgid "Do not forward reverse lookups for local networks"
+msgstr "앞으로 지역 네트워크에 대 한 조회를 후진 하지 마"
+
+msgid "Do not send probe responses"
+msgstr "프로브 응답을 보내지 마십시오"
+
+msgid "Domain required"
+msgstr "필요한 도메인"
+
+msgid "Domain whitelist"
+msgstr "도메인 화이트 리스트"
+
+msgid "Don't forward <abbr title=\"Domain Name System\">DNS</abbr>-Requests without <abbr title=\"Domain Name System\">DNS</abbr>-Name"
+msgstr "<abbr title=\"Domain Name System\">DNS</abbr>전달 하지 않기- <abbr title=\"Domain Name System\">DNS</abbr>요청-이름"
+
+msgid "Download and install package"
+msgstr "다운로드하고 패키지를 설정"
+
+msgid "Download backup"
+msgstr "백업을 다운로드 해 라"
+
+msgid "Dropbear Instance"
+msgstr "Dropbear 인스턴스"
+
+msgid "Dropbear offers <abbr title=\"Secure Shell\">SSH</abbr> network shell access and an integrated <abbr title=\"Secure Copy\">SCP</abbr> server"
+msgstr "Dropbear는 <abbr title=\"Secure Shell\">SSH</abbr> 네트워크 셸 액세스 및 통합된 <abbr title=\"Secure Copy\">SCP</abbr> 서버 제공"
+
+msgid "Dual-Stack Lite (RFC6333)"
+msgstr "듀얼 스택 라이트 (RFC6333)"
+
+msgid "Dynamic <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>"
+msgstr "동적 <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>"
+
+msgid "Dynamic tunnel"
+msgstr "동적 터널"
+
+msgid "Dynamically allocate DHCP addresses for clients. If disabled, only clients having static leases will be served."
+msgstr "클라이언트에 대 한 DHCP 주소를 동적으로 할당 합니다. 비활성화, 클라이언트로 정적 임대 하는 데 제공 됩니다."
+
+msgid "EAP-Method"
+msgstr "EAP 방법"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Edit this interface"
+msgstr "이 인터페이스를 편집"
+
+msgid "Edit this network"
+msgstr "이 네트워크를 편집"
+
+msgid "Emergency"
+msgstr "비상"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Enable <abbr title=\"Spanning Tree Protocol\">STP</abbr>"
+msgstr "<abbr title=\"Spanning Tree Protocol\">STP</abbr> 를 활성화합니다"
+
+msgid "Enable HE.net dynamic endpoint update"
+msgstr "HE.net 동적 끝점 업데이트"
+
+msgid "Enable IPv6 negotiation on the PPP link"
+msgstr "PPP 링크에서 협상 IPv6을 사용"
+
+msgid "Enable Jumbo Frame passthrough"
+msgstr "점보 프레임 통과 사용 하도록 설정"
+
+msgid "Enable NTP client"
+msgstr "NTP 클라이언트 사용"
+
+msgid "Enable TFTP server"
+msgstr "TFTP 서버를 사용 하도록 설정"
+
+msgid "Enable VLAN functionality"
+msgstr "VLAN 기능을 사용"
+
+msgid "Enable learning and aging"
+msgstr "학습 및 노화"
+
+msgid "Enable this mount"
+msgstr "이 마운트 사용"
+
+msgid "Enable this swap"
+msgstr "이 스왑 사용"
+
+msgid "Enable/Disable"
+msgstr "활성화/비활성화"
+
+msgid "Enabled"
+msgstr "사용 가능"
+
+msgid "Enables the Spanning Tree Protocol on this bridge"
+msgstr "이 다리에 스패닝 트리 프로토콜"
+
+msgid "Encapsulation mode"
+msgstr "캡슐화 모드"
+
+msgid "Encryption"
+msgstr "암호화"
+
+msgid "Erasing..."
+msgstr "지우기..."
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Ethernet Adapter"
+msgstr "이더넷 어댑터"
+
+msgid "Ethernet Switch"
+msgstr "이더넷 스위치"
+
+msgid "Expand hosts"
+msgstr "호스트 확장"
+
+msgid "Expires"
+msgstr "만료"
+
+msgid "Expiry time of leased addresses, minimum is 2 minutes (<code>2m</code>)."
+msgstr "최소 임대 주소 만료 시간은 2 분 ( <code>2m</code> )."
+
+msgid "External"
+msgstr "외부"
+
+msgid "External system log server"
+msgstr "외부 시스템 로그 서버"
+
+msgid "External system log server port"
+msgstr "외부 시스템 로그 서버 포트"
+
+msgid "Fast Frames"
+msgstr "빠른 프레임"
+
+msgid "File"
+msgstr "파일"
+
+msgid "Filename of the boot image advertised to clients"
+msgstr "부팅 이미지의 파일 이름을 클라이언트에 게 광고"
+
+msgid "Filesystem"
+msgstr "파일 시스템"
+
+msgid "Filter"
+msgstr "필터"
+
+msgid "Filter private"
+msgstr "전용 필터"
+
+msgid "Filter useless"
+msgstr "쓸모 없는 필터"
+
+msgid "Find and join network"
+msgstr "찾기 및 가입 네트워크"
+
+msgid "Find package"
+msgstr "패키지 찾기"
+
+msgid "Finish"
+msgstr "마무리"
+
+msgid "Firewall"
+msgstr "방화벽"
+
+msgid "Firewall Settings"
+msgstr "방화벽 설정"
+
+msgid "Firewall Status"
+msgstr "방화벽 상태"
+
+msgid "Firmware Version"
+msgstr "펌웨어 버전"
+
+msgid "Fixed source port for outbound DNS queries"
+msgstr "아웃 바운드 DNS 쿼리에 대 한 고정된 소스 포트"
+
+msgid "Flags"
+msgstr "플래그"
+
+msgid "Flash Firmware"
+msgstr "플래시 펌웨어"
+
+msgid "Flash image..."
+msgstr "플래시 이미지..."
+
+msgid "Flash new firmware image"
+msgstr "새로운 펌웨어 이미지 플래시"
+
+msgid "Flash operations"
+msgstr "플래시 작업"
+
+msgid "Flashing..."
+msgstr "점멸..."
+
+msgid "Force"
+msgstr "강제"
+
+msgid "Force 40MHz mode"
+msgstr "40MHz 모드 강제"
+
+msgid "Force CCMP (AES)"
+msgstr "힘 CCMP (AES)"
+
+msgid "Force DHCP on this network even if another server is detected."
+msgstr "다른 서버를 검색 하는 경우에이 네트워크에 DHCP를 강제로."
+
+msgid "Force TKIP"
+msgstr "힘 TKIP"
+
+msgid "Force TKIP and CCMP (AES)"
+msgstr "TKIP 및 CCMP (AES)"
+
+msgid "Forward DHCP traffic"
+msgstr "DHCP 트래픽을 포워드"
+
+msgid "Forward broadcast traffic"
+msgstr "브로드캐스트 트래픽을 전달합니다"
+
+msgid "Forwarding mode"
+msgstr "전달 모드"
+
+msgid "Fragmentation Threshold"
+msgstr "단편화 임계값"
+
+msgid "Frame Bursting"
+msgstr "프레임 버스팅"
+
+msgid "Free"
+msgstr "무료"
+
+msgid "Free space"
+msgstr "여유 공간"
+
+msgid "Frequency Hopping"
+msgstr "주파수 호핑"
+
+msgid "GHz"
+msgstr "G h z"
+
+msgid "GPRS only"
+msgstr "GPRS만"
+
+msgid "Gateway"
+msgstr "게이트웨이"
+
+msgid "Gateway ports"
+msgstr "게이트웨이 포트"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "General Setup"
+msgstr "일반 설정"
+
+msgid "Generate archive"
+msgstr "아카이브 생성"
+
+msgid "Generic 802.11%s Wireless Controller"
+msgstr "일반 802.11%s 무선 컨트롤러"
+
+msgid "Given password confirmation did not match, password not changed!"
+msgstr "비밀번호 확인이 일치하지 않아 암호가 변경되지 않았습니다!"
+
+msgid "Global network options"
+msgstr "글로벌 네트워크 옵션"
+
+msgid "Go to password configuration..."
+msgstr "암호 설정으로 이동..."
+
+msgid "Go to relevant configuration page"
+msgstr "관련 구성 페이지로 이동"
+
+msgid "Guest"
+msgstr "게스트"
+
+msgid "HE.net password"
+msgstr "HE.net 암호"
+
+msgid "HE.net username"
+msgstr "HE.net 사용자 이름"
+
+msgid "HT mode (802.11n)"
+msgstr "HT 모드 (802.11 n)"
+
+msgid "Handler"
+msgstr "처리기"
+
+msgid "Hang Up"
+msgstr "끊다"
+
+msgid "Here you can configure the basic aspects of your device like its hostname or the timezone."
+msgstr "여기 그것의 호스트 이름 또는 시간대 같은 장치의 기본적인 측면을 구성할 수 있습니다."
+
+msgid "Here you can paste public SSH-Keys (one per line) for SSH public-key authentication."
+msgstr "여기 공용 SSH 키 (선 당 하나) SSH 공개 키 인증을 붙여넣을 수 있습니다."
+
+msgid "Hermes 802.11b Wireless Controller"
+msgstr "헤르메스 802.11 b 무선 컨트롤러"
+
+msgid "Hide <abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
+msgstr "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr> 를 숨기기"
+
+msgid "Host entries"
+msgstr "호스트 항목"
+
+msgid "Host expiry timeout"
+msgstr "호스트 만료 시간 제한"
+
+msgid "Host-<abbr title=\"Internet Protocol Address\">IP</abbr> or Network"
+msgstr "호스트-<abbr title=\"Internet Protocol Address\">IP</abbr> 또는 네트워크"
+
+msgid "Hostname"
+msgstr "호스트 이름"
+
+msgid "Hostname to send when requesting DHCP"
+msgstr "DHCP 요청을 보낼 때 사용할 호스트 이름"
+
+msgid "Hostnames"
+msgstr "호스트 이름"
+
+msgid "IP address"
+msgstr "IP 주소"
+
+msgid "IPv4"
+msgstr "IPv4"
+
+msgid "IPv4 Firewall"
+msgstr "IPv4 방화벽"
+
+msgid "IPv4 WAN Status"
+msgstr "IPv4 WAN 상태"
+
+msgid "IPv4 address"
+msgstr "IPv4 주소"
+
+msgid "IPv4 and IPv6"
+msgstr "IPv4 및 IPv6"
+
+msgid "IPv4 assignment length"
+msgstr "IPv4 할당 길이"
+
+msgid "IPv4 broadcast"
+msgstr "IPv4 브로드캐스트"
+
+msgid "IPv4 gateway"
+msgstr "IPv4 게이트웨이"
+
+msgid "IPv4 netmask"
+msgstr "IPv4 네트워크 마스크"
+
+msgid "IPv4 only"
+msgstr "IPv4 전용"
+
+msgid "IPv4 prefix length"
+msgstr "IPv4 접두사 길이"
+
+msgid "IPv4-Address"
+msgstr "IPv4 주소"
+
+msgid "IPv6"
+msgstr "IPv6"
+
+msgid "IPv6 Firewall"
+msgstr "IPv6 방화벽"
+
+msgid "IPv6 Settings"
+msgstr "IPv6 설정"
+
+msgid "IPv6 ULA-Prefix"
+msgstr "IPv6 울 라 접두사"
+
+msgid "IPv6 WAN Status"
+msgstr "IPv6 WAN 상태"
+
+msgid "IPv6 address"
+msgstr "IPv6 주소"
+
+msgid "IPv6 assignment hint"
+msgstr "IPv6 할당 힌트"
+
+msgid "IPv6 assignment length"
+msgstr "IPv6 할당 길이"
+
+msgid "IPv6 gateway"
+msgstr "IPv6 게이트웨이"
+
+msgid "IPv6 only"
+msgstr "I p v 6만"
+
+msgid "IPv6 prefix"
+msgstr "IPv6 접두사"
+
+msgid "IPv6 prefix length"
+msgstr "IPv6 접두사 길이"
+
+msgid "IPv6 routed prefix"
+msgstr "IPv6 라우트된 접두사"
+
+msgid "IPv6-Address"
+msgstr "IPv6 주소"
+
+msgid "IPv6-in-IPv4 (RFC4213)"
+msgstr "IPv4에서 IPv6 (RFC4213)"
+
+msgid "IPv6-over-IPv4 (6rd)"
+msgstr "I p v 6에 i p v 4 (6rd)"
+
+msgid "IPv6-over-IPv4 (6to4)"
+msgstr "IPv6-이상-IPv4 (6to4)"
+
+msgid "Identity"
+msgstr "신원"
+
+msgid "If specified, mount the device by its UUID instead of a fixed device node"
+msgstr "지정 하는 경우 고정된 장치 노드 대신 그것의 UUID에 의해 장치를 탑재"
+
+msgid "If specified, mount the device by the partition label instead of a fixed device node"
+msgstr "지정 하는 경우 고정된 장치 노드 대신 파티션 레이블 장치 장착"
+
+msgid "If unchecked, no default route is configured"
+msgstr "기본 경로가 구성 선택 취소"
+
+msgid "If unchecked, the advertised DNS server addresses are ignored"
+msgstr "광고 DNS 서버 주소는 무시 됩니다 선택 취소"
+
+msgid "If your physical memory is insufficient unused data can be temporarily swapped to a swap-device resulting in a higher amount of usable <abbr title=\"Random Access Memory\">RAM</abbr>. Be aware that swapping data is a very slow process as the swap-device cannot be accessed with the high datarates of the <abbr title=\"Random Access Memory\">RAM</abbr>."
+msgstr "실제 메모리가 부족 한 경우 스왑 장치 사용 가능한 <abbr title=\"Random Access Memory\">RAM</abbr>의 높은 금액에 따른 사용 되지 않는 데이터를 일시적으로 교환할 수 있다. 교환 데이터는 매우 느린 프로세스 <abbr title=\"Random Access Memory\">RAM</abbr>의 높은 datarates와 스왑 장치를 액세스할 수 없습니다 것을 유의 하십시오."
+
+msgid "Ignore Hosts files"
+msgstr "호스트 파일을 무시"
+
+msgid "Ignore interface"
+msgstr "인터페이스를 무시"
+
+msgid "Ignore resolve file"
+msgstr "해결 파일 무시"
+
+msgid "Image"
+msgstr "이미지"
+
+msgid "In"
+msgstr "에서"
+
+msgid "Inactivity timeout"
+msgstr "비활성 시간 제한"
+
+msgid "Inbound:"
+msgstr "인바운드:"
+
+msgid "Info"
+msgstr "정보"
+
+msgid "Initscript"
+msgstr "Initscript"
+
+msgid "Initscripts"
+msgstr "Initscripts"
+
+msgid "Install"
+msgstr "설정"
+
+msgid "Install iputils-traceroute6 for IPv6 traceroute"
+msgstr "IPv6 경로 추적에 대 한 iputils traceroute6 설정"
+
+msgid "Install package %q"
+msgstr "%q 패키지를 설정"
+
+msgid "Install protocol extensions..."
+msgstr "프로토콜 확장 설정..."
+
+msgid "Installed packages"
+msgstr "설정된 패키지"
+
+msgid "Interface"
+msgstr "인터페이스"
+
+msgid "Interface Configuration"
+msgstr "인터페이스 구성"
+
+msgid "Interface Overview"
+msgstr "인터페이스 개요"
+
+msgid "Interface is reconnecting..."
+msgstr "인터페이스는 다시 연결..."
+
+msgid "Interface is shutting down..."
+msgstr "인터페이스 종료..."
+
+msgid "Interface not present or not connected yet."
+msgstr "인터페이스 하지 존재 또는 연결 되지 않음 아직."
+
+msgid "Interface reconnected"
+msgstr "다시 연결 하는 인터페이스"
+
+msgid "Interface shut down"
+msgstr "인터페이스 종료"
+
+msgid "Interfaces"
+msgstr "인터페이스"
+
+msgid "Internal Server Error"
+msgstr "내부 서버 오류"
+
+msgid "Invalid"
+msgstr "올바르지 않은"
+
+msgid "Invalid VLAN ID given! Only IDs between %d and %d are allowed."
+msgstr "잘못된 VLAN ID 부여! %d와 %d 사이 Id만 사용할 수 있습니다."
+
+msgid "Invalid VLAN ID given! Only unique IDs are allowed"
+msgstr "잘못된 VLAN ID 부여! 고유 Id만 사용할 수 있습니다."
+
+msgid "Invalid username and/or password! Please try again."
+msgstr "잘못된 사용자 이름 / 비밀 번호! 다시 시도 하십시오."
+
+msgid "It appears that you are trying to flash an image that does not fit into the flash memory, please verify the image file!"
+msgstr "플래시 메모리에 맞지 않는 이미지를 플래시 하려는 나타나는 이미지 파일을 확인 하십시오!"
+
+msgid "Java Script required!"
+msgstr "자바스크립트가 필요합니다!"
+
+msgid "Join Network"
+msgstr "네트워크에 가입"
+
+msgid "Join Network: Settings"
+msgstr "네트워크에 가입: 설정"
+
+msgid "Join Network: Wireless Scan"
+msgstr "네트워크에 가입: 무선 스캔"
+
+msgid "Keep settings"
+msgstr "설정 유지"
+
+msgid "Kernel Log"
+msgstr "커널 로그"
+
+msgid "Kernel Version"
+msgstr "커널 버전"
+
+msgid "Key"
+msgstr "키"
+
+msgid "Key #%d"
+msgstr "키 #%d"
+
+msgid "Kill"
+msgstr "죽 일"
+
+msgid "L2TP"
+msgstr "L2TP"
+
+msgid "L2TP Server"
+msgstr "L2TP 서버"
+
+msgid "LCP echo failure threshold"
+msgstr "LCP echo 오류 임계값"
+
+msgid "LCP echo interval"
+msgstr "LCP 에코 간격"
+
+msgid "LLC"
+msgstr "LLC"
+
+msgid "Label"
+msgstr "레이블"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Language and Style"
+msgstr "언어와 스타일"
+
+msgid "Lease validity time"
+msgstr "임대 유효 시간"
+
+msgid "Leasefile"
+msgstr "Leasefile"
+
+msgid "Leasetime"
+msgstr "Leasetime"
+
+msgid "Leasetime remaining"
+msgstr "남아 Leasetime"
+
+msgid "Leave empty to autodetect"
+msgstr "자동 검색을 비워"
+
+msgid "Leave empty to use the current WAN address"
+msgstr "현재 WAN 주소를 사용 하 여 빈 공간으로 두십시오"
+
+msgid "Legend:"
+msgstr "전설:"
+
+msgid "Limit"
+msgstr "제한"
+
+msgid "Line Attenuation"
+msgstr "라인 감쇠"
+
+msgid "Line Speed"
+msgstr "회선 속도"
+
+msgid "Line State"
+msgstr "선 상태"
+
+msgid "Link On"
+msgstr "에 연결"
+
+msgid "List of <abbr title=\"Domain Name System\">DNS</abbr> servers to forward requests to"
+msgstr "요청을 전달 하도록 <abbr title=\"Domain Name System\">DNS</abbr> 서버 목록"
+
+msgid "List of domains to allow RFC1918 responses for"
+msgstr "RFC1918에 대 한 응답을 허용 하도록 도메인 목록"
+
+msgid "List of hosts that supply bogus NX domain results"
+msgstr "가짜 NX 도메인 결과 제공 하는 호스트의 목록"
+
+msgid "Listen only on the given interface or, if unspecified, on all"
+msgstr "지정된 인터페이스 에서만 수신 대기 또는 지정 되지 않은 모든 경우"
+
+msgid "Listening port for inbound DNS queries"
+msgstr "인바운드 DNS 쿼리에 대 한 수신 대기 포트"
+
+msgid "Load"
+msgstr "부하"
+
+msgid "Load Average"
+msgstr "평균 로드"
+
+msgid "Loading"
+msgstr "로드"
+
+msgid "Local IPv4 address"
+msgstr "로컬 IPv4 주소"
+
+msgid "Local IPv6 address"
+msgstr "로컬 IPv6 주소"
+
+msgid "Local Startup"
+msgstr "로컬 시작"
+
+msgid "Local Time"
+msgstr "현지 시간"
+
+msgid "Local domain"
+msgstr "로컬 도메인"
+
+msgid "Local domain specification. Names matching this domain are never forwarded and are resolved from DHCP or hosts files only"
+msgstr "로컬 도메인 사양입니다. 이 도메인을 일치 하는 이름을 결코 전달 및 DHCP 또는 호스트 파일에서 확인"
+
+msgid "Local domain suffix appended to DHCP names and hosts file entries"
+msgstr "로컬 도메인 접미사 DHCP 이름에 추가하고 호스트 파일 항목"
+
+msgid "Local server"
+msgstr "로컬 서버"
+
+msgid "Localise hostname depending on the requesting subnet if multiple IPs are available"
+msgstr "여러 개의 Ip를 사용할 수 있는 경우 요청 서브넷에 따라 호스트를 둘다"
+
+msgid "Localise queries"
+msgstr "쿼리를 둘다"
+
+msgid "Locked to channel %d used by %s"
+msgstr "%s에서 사용 하는 채널 %d에 잠겨"
+
+msgid "Log output level"
+msgstr "로그 출력 레벨"
+
+msgid "Log queries"
+msgstr "로그 쿼리"
+
+msgid "Logging"
+msgstr "로깅"
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "Logout"
+msgstr "로그 아웃"
+
+msgid "Lowest leased address as offset from the network address."
+msgstr "네트워크 주소에서의 오프셋으로 최저 임대 주소."
+
+msgid "MAC-Address"
+msgstr "MAC 주소"
+
+msgid "MAC-Address Filter"
+msgstr "맥 주소 필터"
+
+msgid "MAC-Filter"
+msgstr "MAC 필터"
+
+msgid "MAC-List"
+msgstr "맥-목록"
+
+msgid "MB/s"
+msgstr "MB/s"
+
+msgid "MHz"
+msgstr "MHz"
+
+msgid "MTU"
+msgstr "MTU"
+
+msgid "Maximum Rate"
+msgstr "최대 속도"
+
+msgid "Maximum allowed number of active DHCP leases"
+msgstr "최대 활성 DHCP 임대 횟수"
+
+msgid "Maximum allowed number of concurrent DNS queries"
+msgstr "허용 되는 최대 동시 DNS 쿼리 수"
+
+msgid "Maximum allowed size of EDNS.0 UDP packets"
+msgstr "EDNS.0 UDP 패킷 크기에 허용 되는 최대"
+
+msgid "Maximum amount of seconds to wait for the modem to become ready"
+msgstr "모뎀 준비가 될 때까지 기다리는 시간 (초)의 최대 크기"
+
+msgid "Maximum hold time"
+msgstr "최대 지속 시간"
+
+msgid "Maximum number of leased addresses."
+msgstr "임대 주소의 최대 수입니다."
+
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+msgid "Memory"
+msgstr "메모리"
+
+msgid "Memory usage (%)"
+msgstr "메모리 사용률 (%)"
+
+msgid "Metric"
+msgstr "통계"
+
+msgid "Minimum Rate"
+msgstr "최소 속도"
+
+msgid "Minimum hold time"
+msgstr "최소 지속 시간"
+
+msgid "Missing protocol extension for proto %q"
+msgstr "프로토콜 %q에 대한 누락된 프로토콜 확장"
+
+msgid "Mode"
+msgstr "모드"
+
+msgid "Model"
+msgstr "모델"
+
+msgid "Modem device"
+msgstr "모뎀 장치"
+
+msgid "Modem init timeout"
+msgstr "모뎀 초기화 시간 제한"
+
+msgid "Monitor"
+msgstr "모니터"
+
+msgid "Mount Entry"
+msgstr "산 항목"
+
+msgid "Mount Point"
+msgstr "탑재 지점"
+
+msgid "Mount Points"
+msgstr "탑재 지점"
+
+msgid "Mount Points - Mount Entry"
+msgstr "마운트 포인트-마운트 항목"
+
+msgid "Mount Points - Swap Entry"
+msgstr "마운트 포인트-스왑 항목"
+
+msgid "Mount Points define at which point a memory device will be attached to the filesystem"
+msgstr "탑재 지점을 정의 어느 시점에서 메모리 장치 파일 시스템에 첨부 됩니다."
+
+msgid "Mount options"
+msgstr "마운트 옵션"
+
+msgid "Mount point"
+msgstr "탑재 지점"
+
+msgid "Mounted file systems"
+msgstr "마운트된 파일 시스템"
+
+msgid "Move down"
+msgstr "아래로 이동"
+
+msgid "Move up"
+msgstr "위로 이동"
+
+msgid "Multicast Rate"
+msgstr "멀티 캐스트 속도"
+
+msgid "Multicast address"
+msgstr "멀티 캐스트 주소"
+
+msgid "NAS ID"
+msgstr "NAS ID"
+
+msgid "NDP-Proxy"
+msgstr "신 민 당 프록시"
+
+msgid "NTP server candidates"
+msgstr "NTP 서버 후보"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Name of the new interface"
+msgstr "새 인터페이스의 이름"
+
+msgid "Name of the new network"
+msgstr "새로운 네트워크의 이름"
+
+msgid "Navigation"
+msgstr "탐색"
+
+msgid "Netmask"
+msgstr "네트워크 마스크"
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "Network Utilities"
+msgstr "네트워크 유틸리티"
+
+msgid "Network boot image"
+msgstr "네트워크 부팅 이미지"
+
+msgid "Network without interfaces."
+msgstr "네트워크 인터페이스 없이."
+
+msgid "Next »"
+msgstr "다음»"
+
+msgid "No DHCP Server configured for this interface"
+msgstr "이 인터페이스에 대해 구성된 DHCP 서버가 없는"
+
+msgid "No chains in this table"
+msgstr "이 표에 없는 체인"
+
+msgid "No files found"
+msgstr "찾을 파일이 없습니다"
+
+msgid "No information available"
+msgstr "정보가 없습니다"
+
+msgid "No negative cache"
+msgstr "부정 캐시"
+
+msgid "No network configured on this device"
+msgstr "이 장치에 구성된 없음 네트워크"
+
+msgid "No network name specified"
+msgstr "지정된 네트워크 이름 없음"
+
+msgid "No package lists available"
+msgstr "아니 패키지 목록을 사용할 수"
+
+msgid "No password set!"
+msgstr "없음 암호 세트!"
+
+msgid "No rules in this chain"
+msgstr "이 체인의 규칙"
+
+msgid "No zone assigned"
+msgstr "없음 영역 할당"
+
+msgid "Noise"
+msgstr "잡음"
+
+msgid "Noise Margin"
+msgstr "노이즈 마진"
+
+msgid "Noise:"
+msgstr "소음:"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Normal"
+msgstr "정상"
+
+msgid "Not Found"
+msgstr "찾을 수 없습니다"
+
+msgid "Not associated"
+msgstr "연결 되지 않은"
+
+msgid "Not connected"
+msgstr "연결 되지 않음"
+
+msgid "Note: Configuration files will be erased."
+msgstr "참고: 설정 파일 삭제 됩니다."
+
+msgid "Notice"
+msgstr "주의 사항"
+
+msgid "Nslookup"
+msgstr "Nslookup"
+
+msgid "OK"
+msgstr "괜찮았던 것"
+
+msgid "OPKG-Configuration"
+msgstr "OPKG 구성"
+
+msgid "Off-State Delay"
+msgstr "오프 상태 지연"
+
+msgid "On this page you can configure the network interfaces. You can bridge several interfaces by ticking the \"bridge interfaces\" field and enter the names of several network interfaces separated by spaces. You can also use <abbr title=\"Virtual Local Area Network\">VLAN</abbr> notation <samp>INTERFACE.VLANNR</samp> (<abbr title=\"for example\">e.g.</abbr>: <samp>eth0.1</samp>)."
+msgstr "이 페이지에서 네트워크 인터페이스를 구성할 수 있습니다. \"브리지 인터페이스\" 필드에 체크 함으로써 여러 인터페이스를 다리 고 공백으로 구분 하 여 여러 네트워크 인터페이스의 이름을 입력 하십시오 수 있습니다. 또한 <abbr title=\"Virtual Local Area Network\">VLAN</abbr> 표기를 사용 하 여 <samp>INTERFACE.VLANNR</samp> (<abbr title=\"for example\">예</abbr>: <samp>eth0.1</samp> )."
+
+msgid "On-State Delay"
+msgstr "지연 상태"
+
+msgid "One of hostname or mac address must be specified!"
+msgstr "호스트 이름 또는 mac 주소 중 하나를 지정 해야 합니다!"
+
+msgid "One or more fields contain invalid values!"
+msgstr "하나 이상의 필드에 잘못된 값 포함!"
+
+msgid "One or more required fields have no value!"
+msgstr "하나 이상의 필수 필드 값을가지고!"
+
+msgid "Open list..."
+msgstr "열기 목록..."
+
+msgid "Option changed"
+msgstr "옵션 변경"
+
+msgid "Option removed"
+msgstr "옵션 제거"
+
+msgid "Options"
+msgstr "옵션"
+
+msgid "Other:"
+msgstr "기타:"
+
+msgid "Out"
+msgstr "밖으로"
+
+msgid "Outbound:"
+msgstr "아웃 바운드:"
+
+msgid "Outdoor Channels"
+msgstr "옥외 채널"
+
+msgid "Override MAC address"
+msgstr "MAC 주소를 재정의"
+
+msgid "Override MTU"
+msgstr "MTU를 무시"
+
+msgid "Override the gateway in DHCP responses"
+msgstr "DHCP 응답에서 게이트웨이 재정의"
+
+msgid "Override the netmask sent to clients. Normally it is calculated from the subnet that is served."
+msgstr "클라이언트에 보낸 넷마스크를 재정의 합니다. 일반적으로 서비스 되는 서브넷에서 계산 됩니다."
+
+msgid "Override the table used for internal routes"
+msgstr "재정의 하는 내부 경로 사용 하는 테이블"
+
+msgid "Overview"
+msgstr "개요"
+
+msgid "Owner"
+msgstr "소유자"
+
+msgid "PAP/CHAP password"
+msgstr "PAP 또는 CHAP 암호"
+
+msgid "PAP/CHAP username"
+msgstr "PAP 또는 CHAP 사용자 이름"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "PIN"
+msgstr "핀"
+
+msgid "PPP"
+msgstr "PPP"
+
+msgid "PPPoA Encapsulation"
+msgstr "PPPoA 캡슐화"
+
+msgid "PPPoATM"
+msgstr "PPPoATM"
+
+msgid "PPPoE"
+msgstr "PPPoE"
+
+msgid "PPtP"
+msgstr "PPtP"
+
+msgid "Package libiwinfo required!"
+msgstr "패키지 libiwinfo 필요!"
+
+msgid "Package lists are older than 24 hours"
+msgstr "패키지 목록 24 시간 보다 오래 된"
+
+msgid "Package name"
+msgstr "패키지 이름"
+
+msgid "Packets"
+msgstr "패킷"
+
+msgid "Part of zone %q"
+msgstr "존 %q의 부분"
+
+msgid "Password"
+msgstr "비밀 번호"
+
+msgid "Password authentication"
+msgstr "암호 인증"
+
+msgid "Password of Private Key"
+msgstr "개인 키의 암호"
+
+msgid "Password successfully changed!"
+msgstr "암호가는 성공적으로 변경!"
+
+msgid "Path to CA-Certificate"
+msgstr "CA 인증서 경로"
+
+msgid "Path to Client-Certificate"
+msgstr "클라이언트 인증서 경로"
+
+msgid "Path to Private Key"
+msgstr "개인 키에 대 한 경로"
+
+msgid "Path to executable which handles the button event"
+msgstr "버튼 이벤트를 처리 하는 실행 파일 경로"
+
+msgid "Peak:"
+msgstr "피크:"
+
+msgid "Perform reboot"
+msgstr "재 부 팅을 수행"
+
+msgid "Perform reset"
+msgstr "재설정을 수행"
+
+msgid "Phy Rate:"
+msgstr "Phy 속도:"
+
+msgid "Physical Settings"
+msgstr "실제 설정"
+
+msgid "Ping"
+msgstr "핑"
+
+msgid "Pkts."
+msgstr "Pkts입니다."
+
+msgid "Please enter your username and password."
+msgstr "사용자 이름 및 암호를 입력 해 주시기 바랍니다."
+
+msgid "Please wait: Device rebooting..."
+msgstr "잠시 기다려주십시오: 장치 재부팅..."
+
+msgid "Policy"
+msgstr "정책"
+
+msgid "Port"
+msgstr "포트"
+
+msgid "Port %d"
+msgstr "포트 %d"
+
+msgid "Port %d is untagged in multiple VLANs!"
+msgstr "포트 %d 여러 Vlan에 태그 하지 않습니다!"
+
+msgid "Port status:"
+msgstr "포트 상태:"
+
+msgid "Presume peer to be dead after given amount of LCP echo failures, use 0 to ignore failures"
+msgstr "죽은 후 LCP 에코 실패의 양을 감안할 때, 0을 사용 하 여 오류를 무시 하는 피어를 추정"
+
+msgid "Prevents client-to-client communication"
+msgstr "클라이언트-클라이언트 통신을 방지"
+
+msgid "Prism2/2.5/3 802.11b Wireless Controller"
+msgstr "Prism2/2.5/3 802.11 b 무선 컨트롤러"
+
+msgid "Proceed"
+msgstr "진행"
+
+msgid "Processes"
+msgstr "프로세스"
+
+msgid "Prot."
+msgstr "보호"
+
+msgid "Protocol"
+msgstr "프로토콜"
+
+msgid "Protocol family"
+msgstr "프로토콜 패밀리"
+
+msgid "Protocol of the new interface"
+msgstr "새로운 인터페이스의 프로토콜"
+
+msgid "Protocol support is not installed"
+msgstr "프로토콜 지원이 설정 되어 있지 않습니다."
+
+msgid "Provide NTP server"
+msgstr "NTP 서버 제공"
+
+msgid "Provide new network"
+msgstr "새로운 네트워크 제공"
+
+msgid "Pseudo Ad-Hoc (ahdemo)"
+msgstr "의사 애드혹 (ahdemo)"
+
+msgid "Public prefix routed to this device for distribution to clients."
+msgstr "공용 접두사 클라이언트 배포를 위해이 장치에 전달 합니다."
+
+msgid "Quality"
+msgstr "품질"
+
+msgid "RTS/CTS Threshold"
+msgstr "RTS/CTS 임계값"
+
+msgid "RX"
+msgstr "RX"
+
+msgid "RX Rate"
+msgstr "RX 속도"
+
+msgid "RaLink 802.11%s Wireless Controller"
+msgstr "RaLink 802.11%s 무선 컨트롤러"
+
+msgid "Radius-Accounting-Port"
+msgstr "Radius 계정 포트"
+
+msgid "Radius-Accounting-Secret"
+msgstr "Radius 계정 비밀"
+
+msgid "Radius-Accounting-Server"
+msgstr "Radius 계정 서버"
+
+msgid "Radius-Authentication-Port"
+msgstr "Radius 인증 포트"
+
+msgid "Radius-Authentication-Secret"
+msgstr "Radius 인증 비밀"
+
+msgid "Radius-Authentication-Server"
+msgstr "Radius 인증 서버"
+
+msgid "Read <code>/etc/ethers</code> to configure the <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>-Server"
+msgstr "읽기 <code>/etc/ethers</code> <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>구성 하려면-서버"
+
+msgid "Really delete this interface? The deletion cannot be undone!\\nYou might lose access to this device if you are connected via this interface."
+msgstr "이 인터페이스는 정말 삭제? 삭제는 실행 취소할 수 없습니다! \\nYou가이 인터페이스를 통해 연결 되어 있는 경우이 장치에 대 한 액세스를 잃을 수도 있습니다."
+
+msgid "Really delete this wireless network? The deletion cannot be undone!\\nYou might lose access to this device if you are connected via this network."
+msgstr "정말이 무선 네트워크 삭제? 삭제는 실행 취소할 수 없습니다! \\nYou가이 네트워크를 통해 연결 되어 있는 경우이 장치에 대 한 액세스를 잃을 수도 있습니다."
+
+msgid "Really reset all changes?"
+msgstr "정말 모든 변경 내용을 재설정?"
+
+msgid "Really shut down network?\\nYou might lose access to this device if you are connected via this interface."
+msgstr "정말 네트워크 종료? \\nYou가이 인터페이스를 통해 연결 되어 있는 경우이 장치에 대 한 액세스를 잃을 수도 있습니다."
+
+msgid "Really shutdown interface \"%s\" ?\\nYou might lose access to this device if you are connected via this interface."
+msgstr "정말 종료 인터페이스 \"%s\"? \\nYou가이 인터페이스를 통해 연결 되어 있는 경우이 장치에 대 한 액세스를 잃을 수도 있습니다."
+
+msgid "Really switch protocol?"
+msgstr "정말 프로토콜 전환?"
+
+msgid "Realtime Connections"
+msgstr "실시간 연결"
+
+msgid "Realtime Graphs"
+msgstr "실시간 그래프"
+
+msgid "Realtime Load"
+msgstr "실시간 부하"
+
+msgid "Realtime Traffic"
+msgstr "실시간 트래픽"
+
+msgid "Realtime Wireless"
+msgstr "실시간 무선"
+
+msgid "Rebind protection"
+msgstr "보호를 다시 바인딩"
+
+msgid "Reboot"
+msgstr "재 부 팅"
+
+msgid "Rebooting..."
+msgstr "재부팅..."
+
+msgid "Reboots the operating system of your device"
+msgstr "운영 체제의 당신의 장치를 재부팅"
+
+msgid "Receive"
+msgstr "수신"
+
+msgid "Receiver Antenna"
+msgstr "수신기 안테나"
+
+msgid "Reconnect this interface"
+msgstr "이 인터페이스를 다시 연결"
+
+msgid "Reconnecting interface"
+msgstr "인터페이스를 다시 연결"
+
+msgid "References"
+msgstr "참조"
+
+msgid "Regulatory Domain"
+msgstr "규제 도메인"
+
+msgid "Relay"
+msgstr "릴레이"
+
+msgid "Relay Bridge"
+msgstr "릴레이 다리"
+
+msgid "Relay between networks"
+msgstr "네트워크 간에 릴레이"
+
+msgid "Relay bridge"
+msgstr "릴레이 다리"
+
+msgid "Remote IPv4 address"
+msgstr "원격 IPv4 주소"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Repeat scan"
+msgstr "검색을 반복"
+
+msgid "Replace entry"
+msgstr "대체 항목"
+
+msgid "Replace wireless configuration"
+msgstr "무선 구성 바꾸기"
+
+msgid "Request IPv6-address"
+msgstr "IPv6 주소 요청"
+
+msgid "Request IPv6-prefix of length"
+msgstr "요청 IPv6 접두사 길이"
+
+msgid "Required for certain ISPs, e.g. Charter with DOCSIS 3"
+msgstr "필요한 특정 Isp, 예를 들면 DOCSIS 3 헌장"
+
+msgid "Reset"
+msgstr "리셋"
+
+msgid "Reset Counters"
+msgstr "카운터 재설정"
+
+msgid "Reset to defaults"
+msgstr "기본값으로 재설정"
+
+msgid "Resolv and Hosts Files"
+msgstr "Resolv 및 호스트 파일"
+
+msgid "Resolve file"
+msgstr "파일 확인"
+
+msgid "Restart"
+msgstr "다시 시작"
+
+msgid "Restart Firewall"
+msgstr "방화벽을 다시 시작"
+
+msgid "Restore backup"
+msgstr "백업 복원"
+
+msgid "Reveal/hide password"
+msgstr "비밀 번호 표시/숨기기"
+
+msgid "Revert"
+msgstr "되돌리기"
+
+msgid "Root"
+msgstr "루트"
+
+msgid "Root directory for files served via TFTP"
+msgstr "TFTP를 통해 제공 하는 파일의 루트 디렉터리"
+
+msgid "Router Advertisement-Service"
+msgstr "라우터 광고 서비스"
+
+msgid "Router Password"
+msgstr "라우터 비밀 번호"
+
+msgid "Routes"
+msgstr "라우트"
+
+msgid "Routes specify over which interface and gateway a certain host or network can be reached."
+msgstr "라우트 지정 인터페이스 및 게이트웨이 호스트 또는 네트워크 도달 될 수 있다."
+
+msgid "Rule #"
+msgstr "# 규칙"
+
+msgid "Run a filesystem check before mounting the device"
+msgstr "장치를 장착 하기 전에 파일 시스템 검사를 실행"
+
+msgid "Run filesystem check"
+msgstr "파일 시스템 검사를 실행"
+
+msgid "SSH Access"
+msgstr "SSH 액세스"
+
+msgid "SSH-Keys"
+msgstr "SSH 키"
+
+msgid "SSID"
+msgstr "SSID"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Save & Apply"
+msgstr "저장 & 적용"
+
+msgid "Save &#38; Apply"
+msgstr "저장 &#38; 적용"
+
+msgid "Scan"
+msgstr "스캔"
+
+msgid "Scheduled Tasks"
+msgstr "예약된 작업"
+
+msgid "Section added"
+msgstr "섹션 추가"
+
+msgid "Section removed"
+msgstr "섹션 제거"
+
+msgid "See \"mount\" manpage for details"
+msgstr "\"마운트\" 자세한 내용은 매뉴얼 페이지를 참조"
+
+msgid "Send LCP echo requests at the given interval in seconds, only effective in conjunction with failure threshold"
+msgstr "초, 유일 하 게 효과적인 오류 임계값과 함께에서 주어진된 간격에 LCP 에코 요청을 보낼"
+
+msgid "Separate Clients"
+msgstr "고객 구분"
+
+msgid "Separate WDS"
+msgstr "WDS를 분리"
+
+msgid "Server Settings"
+msgstr "서버 설정"
+
+msgid "Service Name"
+msgstr "서비스 이름"
+
+msgid "Service Type"
+msgstr "서비스 유형"
+
+msgid "Services"
+msgstr "서비스"
+
+msgid "Set up Time Synchronization"
+msgstr "시간 동기화 설정"
+
+msgid "Setup DHCP Server"
+msgstr "DHCP 서버 설정"
+
+msgid "Show current backup file list"
+msgstr "현재 백업 파일 목록 표시"
+
+msgid "Shutdown this interface"
+msgstr "셧다운이이 인터페이스"
+
+msgid "Shutdown this network"
+msgstr "셧다운이이 네트워크"
+
+msgid "Signal"
+msgstr "신호"
+
+msgid "Signal:"
+msgstr "신호:"
+
+msgid "Size"
+msgstr "크기"
+
+msgid "Skip"
+msgstr "건너뛰기"
+
+msgid "Skip to content"
+msgstr "컨텐츠로 가기"
+
+msgid "Skip to navigation"
+msgstr "네비게이션으로"
+
+msgid "Slot time"
+msgstr "슬롯 시간"
+
+msgid "Software"
+msgstr "소프트웨어"
+
+msgid "Some fields are invalid, cannot save values!"
+msgstr "일부 필드는 사용할 수 없습니다, 값을 저장할 수 없습니다!"
+
+msgid "Sorry, the object you requested was not found."
+msgstr "죄송 합니다, 요청한 개체를 찾을 수 없습니다."
+
+msgid "Sorry, the server encountered an unexpected error."
+msgstr "죄송 합니다, 서버가 예기치 않은 오류가 발생 했습니다."
+
+msgid "Sorry, there is no sysupgrade support present; a new firmware image must be flashed manually. Please refer to the OpenWrt wiki for device specific install instructions."
+msgstr "죄송 합니다, sysupgrade는 지원 되지 않습니다. 새 펌웨어 이미지를 수동으로 내 보였다 해야 합니다. 장치 특정 설정 지침에 대 한 OpenWrt 위 키를 참조 하십시오."
+
+msgid "Sort"
+msgstr "정렬"
+
+msgid "Source"
+msgstr "소스"
+
+msgid "Specifies the button state to handle"
+msgstr "처리 하기 위해 단추 상태를 지정 합니다."
+
+msgid "Specifies the directory the device is attached to"
+msgstr "장치에 연결된 디렉터리를 지정 합니다."
+
+msgid "Specifies the listening port of this <em>Dropbear</em> instance"
+msgstr "이 <em>Dropbear</em> 인스턴스의 수신 대기 포트를 지정 합니다."
+
+msgid "Specifies the maximum amount of failed ARP requests until hosts are presumed to be dead"
+msgstr "호스트는 죽은 것으로 추정 될 때까지 실패 한 ARP 요청의 최대 크기를 지정"
+
+msgid "Specifies the maximum amount of seconds after which hosts are presumed to be dead"
+msgstr "초 후 호스트 죽은 것으로 추정 되의 최대 크기를 지정"
+
+msgid "Specify the secret encryption key here."
+msgstr "여기는 비밀 암호화 키를 지정 합니다."
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Start priority"
+msgstr "우선 시작"
+
+msgid "Startup"
+msgstr "시작"
+
+msgid "Static IPv4 Routes"
+msgstr "정적 IPv4 라우트"
+
+msgid "Static IPv6 Routes"
+msgstr "정적 IPv6 경로"
+
+msgid "Static Leases"
+msgstr "정적 임대"
+
+msgid "Static Routes"
+msgstr "고정 경로"
+
+msgid "Static WDS"
+msgstr "정적 WDS"
+
+msgid "Static address"
+msgstr "정적 주소"
+
+msgid "Static leases are used to assign fixed IP addresses and symbolic hostnames to DHCP clients. They are also required for non-dynamic interface configurations where only hosts with a corresponding lease are served."
+msgstr "정적 임대는 DHCP 클라이언트에 고정된 IP 주소와 심볼릭 호스트 이름을 할당 하는 데 사용 됩니다. 그들은 또한 비 동적인 인터페이스 구성에 필요한 호스트만 해당 임대와 함께 제공 됩니다."
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Stop"
+msgstr "중지"
+
+msgid "Strict order"
+msgstr "엄격한 순서"
+
+msgid "Submit"
+msgstr "전송"
+
+msgid "Swap"
+msgstr "스왑"
+
+msgid "Swap Entry"
+msgstr "스왑 항목"
+
+msgid "Switch"
+msgstr "스위치"
+
+msgid "Switch %q"
+msgstr "스위치 %q"
+
+msgid "Switch %q (%s)"
+msgstr "스위치 %q (%s)"
+
+msgid "Switch protocol"
+msgstr "스위치 프로토콜"
+
+msgid "Sync with browser"
+msgstr "브라우저와 동기화"
+
+msgid "Synchronizing..."
+msgstr "동기화..."
+
+msgid "System"
+msgstr "시스템"
+
+msgid "System Log"
+msgstr "시스템 로그"
+
+msgid "System Properties"
+msgstr "시스템 속성"
+
+msgid "System log buffer size"
+msgstr "시스템 로그 버퍼 크기"
+
+msgid "TCP:"
+msgstr "TCP:"
+
+msgid "TFTP Settings"
+msgstr "TFTP 설정"
+
+msgid "TFTP server root"
+msgstr "TFTP 서버 루트"
+
+msgid "TX"
+msgstr "TX"
+
+msgid "TX Rate"
+msgstr "텍사스 비율"
+
+msgid "Table"
+msgstr "테이블"
+
+msgid "Target"
+msgstr "대상"
+
+msgid "Terminate"
+msgstr "종료"
+
+msgid "The <em>Device Configuration</em> section covers physical settings of the radio hardware such as channel, transmit power or antenna selection which are shared among all defined wireless networks (if the radio hardware is multi-SSID capable). Per network settings like encryption or operation mode are grouped in the <em>Interface Configuration</em>."
+msgstr "<em>장치 구성</em> 섹션 채널 등 라디오 하드웨어의 물리적 설정, 전원 또는 안테나 선택 (라디오 하드웨어 멀티 SSID 가능한 경우) 모든 정의된 무선 네트워크 중 공유 전송. 네트워크 당 암호화 또는 작업 모드 같은 설정은 <em>인터페이스 구성</em>에서 그룹화 됩니다."
+
+msgid "The <em>libiwinfo-lua</em> package is not installed. You must install this component for working wireless configuration!"
+msgstr "<em>Libiwinfo-루아</em> 패키지가 설정 되지 않습니다. 무선 구성 작업에 대 한이 구성 요소를 설정 해야 합니다!"
+
+msgid "The HE.net endpoint update configuration changed, you must now use the plain username instead of the user ID!"
+msgstr "HE.net 끝점 업데이트 구성 변경 이제 사용자 ID 대신 일반 사용자를 사용 해야 합니다!"
+
+msgid "The IPv6 prefix assigned to the provider, usually ends with <code>::</code>"
+msgstr "공급자에 할당된 IPv6 접두사 일반적으로 끝나는<code>::</code>"
+
+msgid "The allowed characters are: <code>A-Z</code>, <code>a-z</code>, <code>0-9</code> and <code>_</code>"
+msgstr "허용된 문자는: <code>A-Z</code> , <code>a-z</code> , <code>0-9</code> 및<code>_</code>"
+
+msgid "The device file of the memory or partition (<abbr title=\"for example\">e.g.</abbr> <code>/dev/sda1</code>)"
+msgstr "메모리 또는 파티션의 장치 파일 (<abbr title=\"for example\">예:</abbr> <code>/dev/sda1</code> )"
+
+msgid "The filesystem that was used to format the memory (<abbr title=\"for example\">e.g.</abbr> <samp><abbr title=\"Third Extended Filesystem\">ext3</abbr></samp>)"
+msgstr "메모리를 포맷 하는 데 사용된 파일 시스템 (<abbr title=\"for example\">예:</abbr> <samp><abbr title=\"Third Extended Filesystem\">ext3</abbr></samp> )"
+
+msgid "The flash image was uploaded. Below is the checksum and file size listed, compare them with the original file to ensure data integrity.<br /> Click \"Proceed\" below to start the flash procedure."
+msgstr "플래시 이미지 업로드 되었습니다. 아래는 체크섬 파일 크기 표시, 데이터 무결성을 보장 하기 위해 원래 파일 비교.<br>\"진행\" 아래의 플래시 절차를 시작 하려면 클릭 합니다."
+
+msgid "The following changes have been committed"
+msgstr "다음 변경 내용 커밋 되었습니다."
+
+msgid "The following changes have been reverted"
+msgstr "다음과 같이 변경 되 돌"
+
+msgid "The following rules are currently active on this system."
+msgstr "다음 규칙은 현재이 시스템에서 활성화 합니다."
+
+msgid "The given network name is not unique"
+msgstr "주어진된 네트워크 이름이 고유 하지 않습니다."
+
+msgid "The hardware is not multi-SSID capable and the existing configuration will be replaced if you proceed."
+msgstr "하드웨어 멀티 SSID 지원 이며 기존 구성을 진행 하는 경우 대체 될 것 이다."
+
+msgid "The length of the IPv4 prefix in bits, the remainder is used in the IPv6 addresses."
+msgstr "길이 비트에서 IPv4 접두사의 나머지는 IPv6 주소에 사용 됩니다."
+
+msgid "The length of the IPv6 prefix in bits"
+msgstr "비트에서 IPv6 접두사 길이"
+
+msgid "The network ports on this device can be combined to several <abbr title=\"Virtual Local Area Network\">VLAN</abbr>s in which computers can communicate directly with each other. <abbr title=\"Virtual Local Area Network\">VLAN</abbr>s are often used to separate different network segments. Often there is by default one Uplink port for a connection to the next greater network like the internet and other ports for a local network."
+msgstr "이 장치에 네트워크 포트를 여러 <abbr title=\"Virtual Local Area Network\">VLAN의</abbr>컴퓨터 서로 직접 통신할 수 있습니다 조합할 수 있습니다. <abbr title=\"Virtual Local Area Network\">VLAN</abbr>s 종종 다른 네트워크 세그먼트를 분리 하는 데 사용 됩니다. 종종 인터넷 같은 다음 더 큰 네트워크에 연결에 대 한 기본 1 개의 업링크 포트 및 로컬 네트워크에 대 한 다른 포트입니다."
+
+msgid "The selected protocol needs a device assigned"
+msgstr "선택한 프로토콜 장치 할당 필요"
+
+msgid "The system is erasing the configuration partition now and will reboot itself when finished."
+msgstr "지금 구성 파티션 지우기는 시스템과 자체 완료 되 면 재부팅 됩니다."
+
+msgid "The system is flashing now.<br /> DO NOT POWER OFF THE DEVICE!<br /> Wait a few minutes before you try to reconnect. It might be necessary to renew the address of your computer to reach the device again, depending on your settings."
+msgstr "시스템을 지금 깜박입니다.<br>장치에서 전원 하지!<br>다시 연결을 시도 하기 전에 몇 분 정도 기다립니다. 그것은 다시, 설정에 따라 장치를 연결할 컴퓨터의 주소를 갱신 해야 할 수 있습니다."
+
+msgid "The uploaded image file does not contain a supported format. Make sure that you choose the generic image format for your platform."
+msgstr "업로드된 이미지 파일 지원 되는 형식에 포함 되지 않습니다. 사용 중인 플랫폼에 대 한 일반적인 이미지 포맷을 선택 하는 것을 확인 하십시오."
+
+msgid "There are no active leases."
+msgstr "없음 활성 임대 있다."
+
+msgid "There are no pending changes to apply!"
+msgstr "아니 보류 중인 변경 내용을 적용 하는!"
+
+msgid "There are no pending changes to revert!"
+msgstr "아니 보류 중인 변경 내용이 되돌릴 수 있습니다!"
+
+msgid "There are no pending changes!"
+msgstr "보류 중인 변경 됩니다!"
+
+msgid "There is no device assigned yet, please attach a network device in the \"Physical Settings\" tab"
+msgstr "아직 할당 장치가 없습니다, 제발 \"물리적 설정\" 탭에서 네트워크 장치에 연결"
+
+msgid "There is no password set on this router. Please configure a root password to protect the web interface and enable SSH."
+msgstr "이 라우터에서 설정 비밀 번호가입니다. 웹 인터페이스를 보호하고 SSH를 사용 하는 루트 암호를 구성 하십시오."
+
+msgid "This IPv4 address of the relay"
+msgstr "릴레이의 IPv4 주소가"
+
+msgid "This is a list of shell glob patterns for matching files and directories to include during sysupgrade. Modified files in /etc/config/ and certain other configurations are automatically preserved."
+msgstr "이것은 쉘 glob 패턴과 일치 하는 파일 및 sysupgrade 포함 하는 디렉터리에 대 한 목록입니다. / Etc/구성/및 특정 다른 구성에서 수정된 파일을 자동으로 유지 됩니다."
+
+msgid "This is either the \"Update Key\" configured for the tunnel or the account password if no update key has been configured"
+msgstr "이것은 어느 것이 든 \"업데이트 키\" 터널 또는 계정 암호 업데이트 키가 구성된 경우 구성"
+
+msgid "This is the content of /etc/rc.local. Insert your own commands here (in front of 'exit 0') to execute them at the end of the boot process."
+msgstr "이것은 /etc/rc.local의 콘텐츠입니다. 여기에 자신만 명령을 삽입 과정 (의 앞에 ' 종료 0') 부팅의 끝에 그들을 실행 합니다."
+
+msgid "This is the local endpoint address assigned by the tunnel broker, it usually ends with <code>:2</code>"
+msgstr "이 터널 브로커에 의해 할당된 로컬 끝점 주소, 일반적으로 끝나는<code>:2</code>"
+
+msgid "This is the only <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr> in the local network"
+msgstr "이것은 로컬 네트워크에 있는 유일한 <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>"
+
+msgid "This is the plain username for logging into the account"
+msgstr "이것은 계정에 로그인에 대 한 일반 사용자"
+
+msgid "This is the prefix routed to you by the tunnel broker for use by clients"
+msgstr "이것은 클라이언트에서 사용 하기 위해 터널 브로커에 의해 당신에 게 전달 하는 접두사"
+
+msgid "This is the system crontab in which scheduled tasks can be defined."
+msgstr "이것은 시스템 crontab에 예약된 작업을 정의할 수 있습니다."
+
+msgid "This is usually the address of the nearest PoP operated by the tunnel broker"
+msgstr "이것은 일반적으로 터널 브로커에 의해 운영 하는 가장 가까운 PoP의 주소"
+
+msgid "This list gives an overview over currently running system processes and their status."
+msgstr "이 목록은 현재 시스템 프로세스 및 그들의 상태를 실행 하는 동안 개요를 제공 합니다."
+
+msgid "This page allows the configuration of custom button actions"
+msgstr "이 페이지에서는 사용자 지정 단추 동작의 구성"
+
+msgid "This page gives an overview over currently active network connections."
+msgstr "이 페이지는 현재 활성 네트워크 연결을 통해에 대 한 개요를 제공합니다."
+
+msgid "This section contains no values yet"
+msgstr "이 섹션에서는 값이 없습니다 아직"
+
+msgid "Time Synchronization"
+msgstr "시간 동기화"
+
+msgid "Time Synchronization is not configured yet."
+msgstr "시간 동기화는 아직 구성 되어 있지 않습니다."
+
+msgid "Timezone"
+msgstr "표준 시간대"
+
+msgid "To restore configuration files, you can upload a previously generated backup archive here."
+msgstr "구성 파일을 복원 하려면 이전에 생성된 백업 아카이브 여기를 업로드할 수 있습니다."
+
+msgid "Total Available"
+msgstr "총 사용 가능"
+
+msgid "Traceroute"
+msgstr "경로 추적"
+
+msgid "Traffic"
+msgstr "트래픽"
+
+msgid "Transfer"
+msgstr "전송"
+
+msgid "Transmission Rate"
+msgstr "전송 속도"
+
+msgid "Transmit"
+msgstr "전송"
+
+msgid "Transmit Power"
+msgstr "전송 전원"
+
+msgid "Transmitter Antenna"
+msgstr "송신기 안테나"
+
+msgid "Trigger"
+msgstr "트리거"
+
+msgid "Trigger Mode"
+msgstr "트리거 모드"
+
+msgid "Tunnel ID"
+msgstr "터널 ID"
+
+msgid "Tunnel Interface"
+msgstr "터널 인터페이스"
+
+msgid "Tunnel Link"
+msgstr "터널 링크"
+
+msgid "Turbo Mode"
+msgstr "터보 모드"
+
+msgid "Tx-Power"
+msgstr "Tx 전력"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "UDP:"
+msgstr "UDP:"
+
+msgid "UMTS only"
+msgstr "UMTS만"
+
+msgid "UMTS/GPRS/EV-DO"
+msgstr "UMTS/GPRS/EV-DO"
+
+msgid "USB Device"
+msgstr "USB 장치"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Unable to dispatch"
+msgstr "발송할 수 없습니다."
+
+msgid "Unknown"
+msgstr "알 수 없는"
+
+msgid "Unknown Error, password not changed!"
+msgstr "알 수 없는 오류, 비밀 번호 변경 되지 않습니다!"
+
+msgid "Unmanaged"
+msgstr "관리 되지 않는"
+
+msgid "Unsaved Changes"
+msgstr "저장 되지 않은 변경 내용"
+
+msgid "Unsupported protocol type."
+msgstr "지원 되지 않는 프로토콜 유형입니다."
+
+msgid "Update lists"
+msgstr "업데이트 목록"
+
+msgid "Upload a sysupgrade-compatible image here to replace the running firmware. Check \"Keep settings\" to retain the current configuration (requires an OpenWrt compatible firmware image)."
+msgstr "Sysupgrade 호환 이미지 여기 대체 실행 중인 펌웨어를 업로드. 체크 \"계속 설정\" 현재 구성을 유지 (필요 OpenWrt 호환 펌웨어 이미지)."
+
+msgid "Upload archive..."
+msgstr "아카이브를 업로드..."
+
+msgid "Uploaded File"
+msgstr "업로드된 파일"
+
+msgid "Uptime"
+msgstr "가동 시간"
+
+msgid "Use <code>/etc/ethers</code>"
+msgstr "사용<code>/etc/ethers</code>"
+
+msgid "Use DHCP gateway"
+msgstr "DHCP 게이트웨이 사용"
+
+msgid "Use DNS servers advertised by peer"
+msgstr "피어가 광고 하는 DNS 서버를 사용 하 여"
+
+msgid "Use ISO/IEC 3166 alpha2 country codes."
+msgstr "ISO/IEC 3166 alpha2 국가 코드를 사용 합니다."
+
+msgid "Use MTU on tunnel interface"
+msgstr "터널 인터페이스에서 MTU 사용 하 여"
+
+msgid "Use TTL on tunnel interface"
+msgstr "사용 터널 인터페이스에서 TTL"
+
+msgid "Use as root filesystem"
+msgstr "루트 파일 시스템으로 사용"
+
+msgid "Use broadcast flag"
+msgstr "방송된 플래그 사용"
+
+msgid "Use builtin IPv6-management"
+msgstr "사용 하 여 기본 IPv6 관리"
+
+msgid "Use custom DNS servers"
+msgstr "사용자 지정 DNS 서버를 사용 하 여"
+
+msgid "Use default gateway"
+msgstr "기본 게이트웨이 사용"
+
+msgid "Use gateway metric"
+msgstr "게이트웨이 메트릭 사용"
+
+msgid "Use routing table"
+msgstr "라우팅 테이블을 사용 하 여"
+
+msgid "Use the <em>Add</em> Button to add a new lease entry. The <em>MAC-Address</em> indentifies the host, the <em>IPv4-Address</em> specifies to the fixed address to use and the <em>Hostname</em> is assigned as symbolic name to the requesting host."
+msgstr "<em>추가</em> 단추를 사용 하 여 새로운 임대 항목을 추가 합니다. <em>MAC 주소</em> 는 호스트 indentifies, <em>i p v 4 주소</em> 고정된 주소를 사용 하도록 지정 합니다 및 <em>호스트 이름</em> 요청 호스트에 기호 이름을 할당 하는."
+
+msgid "Used"
+msgstr "사용"
+
+msgid "Used Key Slot"
+msgstr "사용된 키 슬롯"
+
+msgid "Username"
+msgstr "사용자 이름"
+
+msgid "VC-Mux"
+msgstr "VC 멀티플렉서"
+
+msgid "VLAN Interface"
+msgstr "VLAN 인터페이스"
+
+msgid "VLANs on %q"
+msgstr "%q에 Vlan"
+
+msgid "VLANs on %q (%s)"
+msgstr "%q (%s)에 Vlan"
+
+msgid "VPN Server"
+msgstr "VPN 서버"
+
+msgid "Vendor Class to send when requesting DHCP"
+msgstr "보낼 때 요청 하는 DHCP 공급 업체 클래스"
+
+msgid "Verify"
+msgstr "확인"
+
+msgid "Version"
+msgstr "버전"
+
+msgid "WDS"
+msgstr "WDS"
+
+msgid "WEP Open System"
+msgstr "WEP 오픈 시스템"
+
+msgid "WEP Shared Key"
+msgstr "WEP 공유 키"
+
+msgid "WEP passphrase"
+msgstr "WEP 암호"
+
+msgid "WMM Mode"
+msgstr "WMM 모드"
+
+msgid "WPA passphrase"
+msgstr "WPA 암호"
+
+msgid "WPA-Encryption requires wpa_supplicant (for client mode) or hostapd (for AP and ad-hoc mode) to be installed."
+msgstr "WPA 암호화 (클라이언트 모드)에 대 한 wpa_supplicant 또는 hostapd (AP와 ad hoc 모드)에 대 한 설정에 필요 합니다."
+
+msgid "Waiting for changes to be applied..."
+msgstr "적용할 변경 내용에 대 한 대기..."
+
+msgid "Waiting for command to complete..."
+msgstr "명령이 완료를 기다리고..."
+
+msgid "Warning"
+msgstr "경고"
+
+msgid "Warning: There are unsaved changes that will be lost while rebooting!"
+msgstr "경고: 거기는 구제할 수 없는 변화를 재 부 팅 하는 동안 손실 됩니다!"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Wireless"
+msgstr "무선"
+
+msgid "Wireless Adapter"
+msgstr "무선 어댑터"
+
+msgid "Wireless Network"
+msgstr "무선 네트워크"
+
+msgid "Wireless Overview"
+msgstr "무선 개요"
+
+msgid "Wireless Security"
+msgstr "무선 보안"
+
+msgid "Wireless is disabled or not associated"
+msgstr "무선 비활성화 되거나 연결 되지 않은"
+
+msgid "Wireless is restarting..."
+msgstr "무선 다시 시작..."
+
+msgid "Wireless network is disabled"
+msgstr "무선 네트워크를 사용 하지 않도록 설정"
+
+msgid "Wireless network is enabled"
+msgstr "무선 네트워크를 사용할 수"
+
+msgid "Wireless restarted"
+msgstr "다시 시작 하는 무선"
+
+msgid "Wireless shut down"
+msgstr "무선 종료"
+
+msgid "Write received DNS requests to syslog"
+msgstr "받은 DNS 요청 로그에 쓰기"
+
+msgid "XR Support"
+msgstr "XR 지원"
+
+msgid "You can enable or disable installed init scripts here. Changes will applied after a device reboot.<br /><strong>Warning: If you disable essential init scripts like \"network\", your device might become inaccessible!</strong>"
+msgstr "여기 설정된 init 스크립트를 해제 하거나 설정할 수 있습니다. 변경 장치 재부팅 후 적용 됩니다.<br><strong>경고: \"네트워크\"와 같은 필수 초기화 스크립트를 사용 하지 않도록 설정 하는 경우 장치 수 없게!</strong>"
+
+msgid "You must enable Java Script in your browser or LuCI will not work properly."
+msgstr "브라우저에서 자바 스크립트를 활성화 해야 합니다 또는 LuCI 제대로 작동 하지 않습니다."
+
+msgid "any"
+msgstr "어떤"
+
+msgid "auto"
+msgstr "자동"
+
+msgid "automatic"
+msgstr "자동 번역"
+
+msgid "baseT"
+msgstr "baseT"
+
+msgid "bridged"
+msgstr "브리지"
+
+msgid "create:"
+msgstr "만들기:"
+
+msgid "creates a bridge over specified interface(s)"
+msgstr "지정된 인터페이스를 통해 다리를 만듭니다."
+
+msgid "dB"
+msgstr "dB"
+
+msgid "dBm"
+msgstr "dBm"
+
+msgid "disable"
+msgstr "사용 안 함"
+
+msgid "disabled"
+msgstr "사용 하지 않도록 설정"
+
+msgid "expired"
+msgstr "만료"
+
+msgid "file where given <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>-leases will be stored"
+msgstr "<abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>주어진 곳에 파일-임대 저장 됩니다"
+
+msgid "forward"
+msgstr "앞으로"
+
+msgid "full-duplex"
+msgstr "풀 듀플렉스"
+
+msgid "half-duplex"
+msgstr "하프 듀플렉스"
+
+msgid "help"
+msgstr "도움말"
+
+msgid "hidden"
+msgstr "숨겨진"
+
+msgid "hybrid mode"
+msgstr "하이브리드 모드"
+
+msgid "if target is a network"
+msgstr "대상 네트워크 경우"
+
+msgid "input"
+msgstr "입력"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "kB/s"
+msgstr "kB/s"
+
+msgid "kbit/s"
+msgstr "kbit/s"
+
+msgid "local <abbr title=\"Domain Name System\">DNS</abbr> file"
+msgstr "로컬 <abbr title=\"Domain Name System\">DNS</abbr> 파일"
+
+msgid "no"
+msgstr "아니"
+
+msgid "no link"
+msgstr "링크 없음"
+
+msgid "none"
+msgstr "없음"
+
+msgid "off"
+msgstr "오프"
+
+msgid "on"
+msgstr "에"
+
+msgid "open"
+msgstr "오픈"
+
+msgid "relay mode"
+msgstr "릴레이 모드"
+
+msgid "routed"
+msgstr "라우팅"
+
+msgid "server mode"
+msgstr "서버 모드"
+
+msgid "stateful-only"
+msgstr "상태 저장 전용"
+
+msgid "stateless"
+msgstr "상태 비저장"
+
+msgid "stateless + stateful"
+msgstr "상태 비저장 + 상태 저장"
+
+msgid "tagged"
+msgstr "태그"
+
+msgid "unknown"
+msgstr "알 수 없는"
+
+msgid "unlimited"
+msgstr "무제한"
+
+msgid "unspecified"
+msgstr "지정 되지 않은"
+
+msgid "unspecified -or- create:"
+msgstr "특기 하지 않는-또는-만들기:"
+
+msgid "untagged"
+msgstr "태그가 지정 되지 않은"
+
+msgid "yes"
+msgstr "예"
+
+msgid "« Back"
+msgstr "«이전"
+
