@@ -1,0 +1,96 @@
+msgid "Activate or deactivate IPv6 config globally."
+msgstr "활성화 또는 IPv6 설정 전역적으로 비활성화."
+
+msgid "Channel"
+msgstr "채널"
+
+msgid "Check this to protect your LAN from other nodes or clients"
+msgstr "다른 노드 또는 클라이언트에서 LAN을 보호 하기 위해이 체크"
+
+msgid "Cleanup config"
+msgstr "정리 구성"
+
+msgid "Configure this interface"
+msgstr "이 인터페이스를 구성"
+
+msgid "DHCP IP range"
+msgstr "DHCP IP 범위"
+
+msgid "DHCP will automatically assign ip addresses to clients"
+msgstr "DHCP은 클라이언트에 자동으로 ip 주소를 할당 합니다."
+
+msgid "Enable DHCP"
+msgstr "DHCP를 사용 하도록 설정"
+
+msgid "Enable RA"
+msgstr "RA를 사용 하도록 설정"
+
+msgid "Enabled"
+msgstr "사용 가능"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "IPv6 Settings"
+msgstr "IPv6 설정"
+
+msgid "If this is selected then config is cleaned before setting new config options."
+msgstr "이 옵션을 선택 하는 경우 구성 새 구성 옵션을 설정 하기 전에 청소."
+
+msgid "Interfaces"
+msgstr "인터페이스"
+
+msgid "Mesh IP address"
+msgstr "메쉬 IP 주소"
+
+msgid "Mesh IPv6 address"
+msgstr "메쉬 IPv6 주소"
+
+msgid "Mesh Wizard"
+msgstr "메쉬 마법사"
+
+msgid "Note: this will set up this interface for mesh operation, i.e. add it to zone 'freifunk' and enable olsr."
+msgstr "참고:이 메쉬 작업을 위해이 인터페이스를 설정, 즉 영역 'freifunk'에 추가 되며 olsr를 활성화."
+
+msgid "Protect LAN"
+msgstr "LAN을 보호"
+
+msgid "Select this to allow others to use your connection to access the internet."
+msgstr "다른 연결을 사용 하 여 인터넷에 액세스할 수 있도록이 옵션을 선택 합니다."
+
+msgid "Send router advertisements on this device."
+msgstr "이 장치에서 라우터 알림을 보냅니다."
+
+msgid "Share your internet connection"
+msgstr "인터넷 연결 공유"
+
+msgid "The IP range from which clients are assigned ip addresses (e.g. 10.1.2.1/28). If this is a range inside your mesh network range, then it will be announced as HNA. Any other range will use NAT. If left empty then the defaults from the community profile will be used."
+msgstr "IP 범위에서 클라이언트 ip 주소 (예: 10.1.2.1/28)을 할당 됩니다. 메쉬 네트워크 범위 안에 범위 이면 다음 알려질 것 이다 HNA로. 다른 범위는 NAT.를 사용 합니다. 만약 비어 커뮤니티 프로필에서 기본값으로 사용 됩니다."
+
+msgid "The given IP address is not inside the mesh network range"
+msgstr "지정된 IP 주소는 없습니다 메쉬 네트워크 범위 내"
+
+msgid "This is a unique IPv6 address in CIDR notation (e.g. 2001:1:2:3::1/64) and has to be registered at your local community."
+msgstr "이것이 CIDR 표기법으로 유일한 IPv6 주소 (예: 2001:1:2:3::1 / 64) 및 지역 사회에 등록 될 수 있다."
+
+msgid "This is a unique address in the mesh (e.g. 10.1.1.1) and has to be registered at your local community."
+msgstr "메시 (예: 10.1.1.1) 고유 주소 이며 당신의 지역 사회에 등록 될 수 있다."
+
+msgid "This will setup a new virtual wireless interface in Access Point mode."
+msgstr "이 새로운 가상 무선 인터페이스 액세스 포인트 모드에서 설정 됩니다."
+
+msgid "This wizard will assist you in setting up your router for Freifunk or another similar wireless community network."
+msgstr "이 마법사 Freifunk 또는 비슷한 다른 라우터 설정에서 당신을 원조 할 것 이다 무선 지역 사회 네트워크."
+
+msgid "Virtual Access Point (VAP)"
+msgstr "가상 액세스 포인트 (VAP)"
+
+msgid "Wizard"
+msgstr "마법사"
+
+msgid "Your device and neighbouring nodes have to use the same channel."
+msgstr "장치 및 이웃 노드 동일한 채널을 사용 해야 합니다."
+
+msgid "recommended"
+msgstr "권장"
+

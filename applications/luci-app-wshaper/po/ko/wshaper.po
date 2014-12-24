@@ -1,0 +1,39 @@
+msgid "Downlink"
+msgstr "다운 링크"
+
+msgid "Downstream bandwidth in kbit/s"
+msgstr "다운스트림 kbit/s 대역폭"
+
+msgid "Host or Network in CIDR notation."
+msgstr "호스트나 CIDR 표기법에 네트워크입니다."
+
+msgid "Interface"
+msgstr "인터페이스"
+
+msgid "Low priority destination ports"
+msgstr "우선 순위가 낮은 대상 포트"
+
+msgid "Low priority hosts (Destination)"
+msgstr "우선 순위가 낮은 호스트 (대상)"
+
+msgid "Low priority hosts (Source)"
+msgstr "우선 순위가 낮은 호스트 (소스)"
+
+msgid "Low priority source ports"
+msgstr "우선 순위가 낮은 소스 포트"
+
+msgid "Uplink"
+msgstr "업링크"
+
+msgid "Upstream bandwidth in kbit/s"
+msgstr "Kbit/s에서 업스트림 대역폭"
+
+msgid "Wondershaper"
+msgstr "Wondershaper"
+
+msgid "Wondershaper settings"
+msgstr "Wondershaper 설정"
+
+msgid "Wondershaper shapes traffic to ensure low latencies for interactive traffic even when your internet connection is highly saturated."
+msgstr "Wondershaper 모양 트래픽을 인터넷 연결 높은 포화도 대화형 트래픽에 대 한 낮은 대기 시간을 보장 합니다."
+

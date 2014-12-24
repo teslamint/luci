@@ -1,0 +1,27 @@
+msgid "Block Time"
+msgstr "블록 시간"
+
+msgid "Enable P2P-Block"
+msgstr "P2P-Block 켜기"
+
+msgid "IP-P2P"
+msgstr "IP-P2P"
+
+msgid "Layer7-Protocols"
+msgstr "Layer7 프로토콜"
+
+msgid "P2P-Block"
+msgstr "P2P-Block"
+
+msgid "P2P-Block is a greylisting mechanism to block various peer-to-peer protocols for non-whitelisted clients."
+msgstr "P2P-Block은 허용되지 않은 클라이언트의 다양한 P2P 프로토콜을 차단하는 그레이리스팅 메커니즘입니다."
+
+msgid "Portrange"
+msgstr "포트 범위"
+
+msgid "Whitelisted IPs"
+msgstr "허용된 IP"
+
+msgid "seconds"
+msgstr "초"
+

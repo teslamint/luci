@@ -1,0 +1,108 @@
+#  multiwan.po
+#  generated from /tmp/i18n/luasrc/i18n/multiwan.en.lua
+msgid ""
+msgstr ""
+""
+
+msgid "Attempts Before WAN Failover"
+msgstr "완 장애 조치 하기 전에 시도"
+
+msgid "Attempts Before WAN Recovery"
+msgstr "WAN 복구 하기 전에 시도"
+
+msgid "Auto"
+msgstr "자동"
+
+msgid "Collecting data..."
+msgstr "데이터를 수집..."
+
+msgid "Configure rules for directing outbound traffic through specified WAN Uplinks."
+msgstr "지정된 WAN 업링크를 통해 아웃 바운드 트래픽을 지시에 대 한 규칙을 구성 합니다."
+
+msgid "DNS Server(s)"
+msgstr "DNS 서버"
+
+msgid "Default Route"
+msgstr "기본 경로"
+
+msgid "Destination Address"
+msgstr "대상 주소"
+
+msgid "Disable"
+msgstr "사용 안 함"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Failing"
+msgstr "실패"
+
+msgid "Failover Traffic Destination"
+msgstr "장애 조치 소통 대상"
+
+msgid "Health Monitor ICMP Host(s)"
+msgstr "건강 모니터 ICMP 호스트"
+
+msgid "Health Monitor ICMP Timeout"
+msgstr "건강 모니터 ICMP 시간 초과"
+
+msgid "Health Monitor Interval"
+msgstr "상태 모니터 간격"
+
+msgid "Health Monitor detects and corrects network changes and failed connections."
+msgstr "상태 모니터 감지 및 네트워크 변경 수정하고 연결 실패."
+
+msgid "KO"
+msgstr "코"
+
+msgid "Load Balancer Distribution"
+msgstr "부하 분산 장치 배포"
+
+msgid "Load Balancer(Compatibility)"
+msgstr "로드 Balancer(Compatibility)"
+
+msgid "Load Balancer(Performance)"
+msgstr "로드 Balancer(Performance)"
+
+msgid "Multi-WAN"
+msgstr "멀티 WAN"
+
+msgid "Multi-WAN Status"
+msgstr "멀티 WAN 상태"
+
+msgid "Multi-WAN Traffic Rules"
+msgstr "멀티 WAN 트래픽 규칙"
+
+msgid "Multi-WAN allows for the use of multiple uplinks for load balancing and failover."
+msgstr "멀티 WAN 로드 균형 조정 및 장애 조치에 대 한 여러 개의 업링크를 사용 하 여 수 있습니다."
+
+msgid "None"
+msgstr "없음"
+
+msgid "OK"
+msgstr "괜찮았던 것"
+
+msgid "Ports"
+msgstr "포트"
+
+msgid "Protocol"
+msgstr "프로토콜"
+
+msgid "Recovering"
+msgstr "복구"
+
+msgid "Source Address"
+msgstr "원본 주소"
+
+msgid "Unknown"
+msgstr "알 수 없는"
+
+msgid "WAN Interfaces"
+msgstr "WAN 인터페이스"
+
+msgid "WAN Uplink"
+msgstr "WAN 업링크"
+
+msgid "all"
+msgstr "모든"
+

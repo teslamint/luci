@@ -1,0 +1,276 @@
+msgid "Alternative download speed"
+msgstr "대체 다운로드 속도"
+
+msgid "Alternative speed enabled"
+msgstr "대체 속도 사용"
+
+msgid "Alternative speed time begin"
+msgstr "대체 속도 시간 시작"
+
+msgid "Alternative speed time day"
+msgstr "대체 속도 시간 하루"
+
+msgid "Alternative speed time end"
+msgstr "대체 속도 시간 끝"
+
+msgid "Alternative speed timing enabled"
+msgstr "대체 속도 타이밍 설정"
+
+msgid "Alternative upload speed"
+msgstr "대체 업로드 속도"
+
+msgid "Automatically start added torrents"
+msgstr "자동으로 추가된 급류를 시작"
+
+msgid "Bandwidth settings"
+msgstr "대역폭 설정"
+
+msgid "Binding address IPv4"
+msgstr "바인딩 주소 IPv4"
+
+msgid "Binding address IPv6"
+msgstr "바인딩 주소 IPv6"
+
+msgid "Block list enabled"
+msgstr "차단 목록 사용"
+
+msgid "Blocklist URL"
+msgstr "차단 목록 URL"
+
+msgid "Blocklists"
+msgstr "Blocklists"
+
+msgid "Cache size in MB"
+msgstr "Mb에서 캐시 크기"
+
+msgid "Config file directory"
+msgstr "구성 파일 디렉터리"
+
+msgid "DHT enabled"
+msgstr "DHT 활성화"
+
+msgid "Debug"
+msgstr "디버그"
+
+msgid "Download directory"
+msgstr "다운로드 디렉토리"
+
+msgid "Download queue enabled"
+msgstr "다운로드 큐 활성화"
+
+msgid "Download queue size"
+msgstr "다운로드 큐 크기"
+
+msgid "Enable watch directory"
+msgstr "감시 디렉터리를 사용 하도록 설정"
+
+msgid "Enabled"
+msgstr "사용 가능"
+
+msgid "Encryption"
+msgstr "암호화"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Fast"
+msgstr "빠른"
+
+msgid "Files and Locations"
+msgstr "파일 및 위치"
+
+msgid "Forced"
+msgstr "강제"
+
+msgid "Full"
+msgstr "전체"
+
+msgid "Global peer limit"
+msgstr "글로벌 피어도"
+
+msgid "Global settings"
+msgstr "전역 설정"
+
+msgid "Idle seeding limit"
+msgstr "유휴 시드 제한"
+
+msgid "Idle seeding limit enabled"
+msgstr "유휴 시드도 사용 가능"
+
+msgid "Incomplete directory"
+msgstr "불완전 한 디렉터리"
+
+msgid "Incomplete directory enabled"
+msgstr "불완전 한 디렉터리 사용"
+
+msgid "Info"
+msgstr "정보"
+
+msgid "LPD enabled"
+msgstr "LPD 사용"
+
+msgid "Lazy bitfield enabled"
+msgstr "게으른 비트 필드 사용"
+
+msgid "Message level"
+msgstr "메시지 수준"
+
+msgid "Miscellaneous"
+msgstr "기타"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Number/bitfield. Start with 0, then for each day you want the scheduler enabled, add a value. For Sunday - 1, Monday - 2, Tuesday - 4, Wednesday - 8, Thursday - 16, Friday - 32, Saturday - 64"
+msgstr "번호/비트 필드입니다. 0, 그 후에 매일 사용 하는 스케줄러를 원하는 대 한 시작, 값을 추가 합니다. 일요일-1 월-2, 화요일-4, 수요일-8-16, 금요일-32, 토요일-64"
+
+msgid "Off"
+msgstr "오프"
+
+msgid "Open Web Interface"
+msgstr "오픈 웹 인터페이스"
+
+msgid "PEX enabled"
+msgstr "사용 하는 PEX"
+
+msgid "Peer Port settings"
+msgstr "피어 포트 설정"
+
+msgid "Peer congestion algorithm"
+msgstr "피어 혼잡 알고리즘"
+
+msgid "Peer limit per torrent"
+msgstr "토런트 당 피어도"
+
+msgid "Peer port"
+msgstr "피어 포트"
+
+msgid "Peer port random high"
+msgstr "피어 임의의 높은 포트"
+
+msgid "Peer port random low"
+msgstr "피어 포트 임의의 낮은"
+
+msgid "Peer port random on start"
+msgstr "피어 포트 시작에 무작위"
+
+msgid "Peer settings"
+msgstr "피어 설정"
+
+msgid "Peer socket tos"
+msgstr "피어 소켓 서비스 약관"
+
+msgid "Port forwarding enabled"
+msgstr "포트 포워딩 설정"
+
+msgid "Preferred"
+msgstr "선호"
+
+msgid "Prefetch enabled"
+msgstr "프리페치 사용"
+
+msgid "Queue stalled enabled"
+msgstr "큐 지연 사용"
+
+msgid "Queue stalled minutes"
+msgstr "큐 분 지연"
+
+msgid "Queueing"
+msgstr "큐잉"
+
+msgid "RPC URL"
+msgstr "RPC URL"
+
+msgid "RPC authentication required"
+msgstr "RPC 인증 필요"
+
+msgid "RPC bind address"
+msgstr "RPC 바인딩 주소"
+
+msgid "RPC enabled"
+msgstr "RPC 사용"
+
+msgid "RPC password"
+msgstr "RPC 암호"
+
+msgid "RPC port"
+msgstr "RPC 포트"
+
+msgid "RPC settings"
+msgstr "RPC 설정"
+
+msgid "RPC username"
+msgstr "RPC 사용자 이름"
+
+msgid "RPC whitelist"
+msgstr "RPC 허용"
+
+msgid "RPC whitelist enabled"
+msgstr "사용 하는 RPC 허용"
+
+msgid "Ratio limit"
+msgstr "비율 제한"
+
+msgid "Ratio limit enabled"
+msgstr "비율 제한 사용"
+
+msgid "Rename partial files"
+msgstr "부분 파일 이름 바꾸기"
+
+msgid "Run daemon as user"
+msgstr "사용자로 데몬 실행"
+
+msgid "Scheduling"
+msgstr "일정"
+
+msgid "Scrape paused torrents enabled"
+msgstr "일시 중지된 급류를 사용을 다쳤어요합니다"
+
+msgid "Script torrent done enabled"
+msgstr "스크립트 토런트 완료 사용"
+
+msgid "Script torrent done filename"
+msgstr "스크립트 토런트 파일 완료"
+
+msgid "Seed queue enabled"
+msgstr "씨 큐 사용"
+
+msgid "Seed queue size"
+msgstr "씨 큐 크기"
+
+msgid "Speed limit down"
+msgstr "다운 속도 제한"
+
+msgid "Speed limit down enabled"
+msgstr "다운 속도 제한 사용"
+
+msgid "Speed limit up"
+msgstr "최대 속도 제한"
+
+msgid "Speed limit up enabled"
+msgstr "속도 제한 사용"
+
+msgid "Transmission"
+msgstr "전송"
+
+msgid "Transmission daemon is a simple bittorrent client, here you can configure the settings."
+msgstr "Transmission은 간단한 비트토런트 클라이언트 데몬으로 여기서 설정을 변경할 수 있습니다."
+
+msgid "Trash original torrent files"
+msgstr "쓰레기 원래 토런트 파일"
+
+msgid "Upload slots per torrent"
+msgstr "슬롯 토런트 당 업로드"
+
+msgid "Watch directory"
+msgstr "시계 디렉토리"
+
+msgid "in minutes from midnight"
+msgstr "자정에서 분"
+
+msgid "preallocation"
+msgstr "preallocation"
+
+msgid "uTP enabled"
+msgstr "uTP 활성화"
+

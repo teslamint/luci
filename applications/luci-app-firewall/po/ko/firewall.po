@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-30 17:00+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: firewall.po\n"
+"Language: ko\n"
+
+msgid "%s in %s"
+msgstr "%s에서 %s"
+
+msgid "%s%s with %s"
+msgstr "%s와 %s%s"
+
+msgid "%s, %s in %s"
+msgstr "%s, %s에서 %s"
+
+msgid "(Unnamed Entry)"
+msgstr "(이름 없는 항목)"
+
+msgid "(Unnamed Rule)"
+msgstr "(이름 없는 규칙)"
+
+msgid "(Unnamed SNAT)"
+msgstr "(이름 없는 SNAT)"
+
+msgid "<var>%d</var> pkts. per <var>%s</var>"
+msgstr "<var>%s</var>당 <var>%d</var>패킷"
+
+msgid "<var>%d</var> pkts. per <var>%s</var>, burst <var>%d</var> pkts."
+msgstr "<var>%d</var>pkts입니다. 당 <var>%s</var> , 버스트 <var>%d</var> pkts."
+
+msgid "<var>%s</var> and limit to %s"
+msgstr "<var>%s</var>고도 %s"
+
+msgid "Action"
+msgstr "동작"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Add and edit..."
+msgstr "추가 및 편집..."
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Allow forward from <em>source zones</em>:"
+msgstr "앞으로 <em>소스 영역</em>에서 허용:"
+
+msgid "Allow forward to <em>destination zones</em>:"
+msgstr "앞으로 <em>대상 영역</em>에 허용:"
+
+msgid "Any"
+msgstr "어떤"
+
+msgid "Covered networks"
+msgstr "대상된 네트워크"
+
+msgid "Custom Rules"
+msgstr "사용자 지정 규칙"
+
+msgid ""
+"Custom rules allow you to execute arbritary iptables commands which are not "
+"otherwise covered by the firewall framework. The commands are executed after "
+"each firewall restart, right after the default ruleset has been loaded."
+msgstr ""
+"사용자 지정 규칙을 사용 하면 그렇지 않으면 방화벽 프레임 워크에 포함 되지 않"
+"습니다 arbritary iptables 명령을 실행할 수 있습니다. 기본 규칙 집합을 로드 "
+"한 후에 바로 명령이 방화벽 다시 시작할 때마다 실행 됩니다."
+
+msgid "Destination IP address"
+msgstr "대상 IP 주소"
+
+msgid "Destination address"
+msgstr "대상 주소"
+
+msgid "Destination port"
+msgstr "대상 포트"
+
+msgid "Destination zone"
+msgstr "대상 영역"
+
+msgid "Do not rewrite"
+msgstr "다시 작성 하지 않습니다"
+
+msgid "Drop invalid packets"
+msgstr "잘못된 패킷"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Enable NAT Loopback"
+msgstr "NAT 루프백을 활성화"
+
+msgid "Enable SYN-flood protection"
+msgstr "SYN 홍수 보호를 사용 하도록 설정"
+
+msgid "Enable logging on this zone"
+msgstr "이 영역에서 로깅 사용"
+
+msgid "External IP address"
+msgstr "외부 IP 주소"
+
+msgid "External port"
+msgstr "외부 포트"
+
+msgid "External zone"
+msgstr "외부 영역"
+
+msgid "Extra arguments"
+msgstr "추가 인수"
+
+msgid "Firewall"
+msgstr "방화벽"
+
+msgid "Firewall - Custom Rules"
+msgstr "방화벽-사용자 지정 규칙"
+
+msgid "Firewall - Port Forwards"
+msgstr "방화벽-포트 전달"
+
+msgid "Firewall - Traffic Rules"
+msgstr "방화벽-트래픽 규칙"
+
+msgid "Firewall - Zone Settings"
+msgstr "방화벽-영역 설정"
+
+msgid "Force connection tracking"
+msgstr "강제 연결 추적"
+
+msgid "Forward"
+msgstr "앞으로"
+
+msgid "Forward to"
+msgstr "앞으로"
+
+msgid "Friday"
+msgstr ""
+
+msgid "From %s in %s"
+msgstr "%s에서 %s에서"
+
+msgid "From %s in %s with source %s"
+msgstr "소스 %s와 %s에 %s에서"
+
+msgid "From %s in %s with source %s and %s"
+msgstr "소스 %s와 %s %s에 %s에서"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "IPv4"
+msgstr "IPv4"
+
+msgid "IPv4 and IPv6"
+msgstr "IPv4 및 IPv6"
+
+msgid "IPv4 only"
+msgstr "I p v 4만"
+
+msgid "IPv6"
+msgstr "IPv6"
+
+msgid "IPv6 only"
+msgstr "I p v 6만"
+
+msgid "Input"
+msgstr "입력"
+
+msgid "Inter-Zone Forwarding"
+msgstr "간 영역 전달"
+
+msgid "Internal IP address"
+msgstr "내부 IP 주소"
+
+msgid "Internal port"
+msgstr "내부 포트"
+
+msgid "Internal zone"
+msgstr "내부 영역"
+
+msgid "Limit log messages"
+msgstr "도 로그 메시지"
+
+msgid "MSS clamping"
+msgstr "MSS 클램핑"
+
+msgid "Masquerading"
+msgstr "가장"
+
+msgid "Match"
+msgstr "일치"
+
+msgid "Match ICMP type"
+msgstr "ICMP 형식과 일치"
+
+msgid "Match forwarded traffic to the given destination port or port range."
+msgstr "전달된 트래픽이 특정된 대상 포트 또는 포트 범위를 일치 합니다."
+
+msgid ""
+"Match incoming traffic directed at the given destination port or port range "
+"on this host"
+msgstr ""
+"주어진된 대상 포트 또는 포트 범위가이 호스트에서 들어오는 트래픽에 일치"
+
+msgid ""
+"Match incoming traffic originating from the given source port or port range "
+"on the client host."
+msgstr ""
+"지정된 원본 포트 또는 포트 범위 클라이언트 호스트에서 발생 하는 들어오는 트래"
+"픽이 일치 합니다."
+
+msgid "Monday"
+msgstr ""
+
+msgid "Month Days"
+msgstr ""
+
+msgid "Name"
+msgstr "이름"
+
+msgid "New SNAT rule"
+msgstr "새로운 SNAT 규칙"
+
+msgid "New forward rule"
+msgstr "앞으로 새로운 규칙"
+
+msgid "New input rule"
+msgstr "새로운 입력된 규칙"
+
+msgid "New port forward"
+msgstr "앞으로 새 포트"
+
+msgid "New source NAT"
+msgstr "새로운 소스 NAT"
+
+msgid "Only match incoming traffic directed at the given IP address."
+msgstr "만 특정된 IP 주소에서 들어오는 트래픽에 일치 합니다."
+
+msgid "Only match incoming traffic from these MACs."
+msgstr "만이 맥에서 들어오는 트래픽을 일치 합니다."
+
+msgid "Only match incoming traffic from this IP or range."
+msgstr "만이 IP 또는 범위에서 들어오는 트래픽을 일치 합니다."
+
+msgid ""
+"Only match incoming traffic originating from the given source port or port "
+"range on the client host"
+msgstr ""
+"지정된 원본 포트 또는 포트 범위 클라이언트 호스트에서 발생 하는 들어오는 트래"
+"픽이 일치"
+
+msgid "Open ports on router"
+msgstr "라우터의 포트 개방"
+
+msgid "Other..."
+msgstr "다른..."
+
+msgid "Output"
+msgstr "출력"
+
+msgid "Passes additional arguments to iptables. Use with care!"
+msgstr "Iptables를 추가 인수를 전달합니다. 치료와 함께 사용!"
+
+msgid "Port Forwards"
+msgstr "포트 전달"
+
+msgid ""
+"Port forwarding allows remote computers on the Internet to connect to a "
+"specific computer or service within the private LAN."
+msgstr ""
+"포트 포워딩 특정 컴퓨터나 개인 LAN 내에서 서비스에 연결 하려면 인터넷에서 원"
+"격 컴퓨터를 수 있습니다."
+
+msgid "Protocol"
+msgstr "프로토콜"
+
+msgid ""
+"Redirect matched incoming traffic to the given port on the internal host"
+msgstr "내부 호스트에 지정된 포트로 들어오는 트래픽을 일치 하는 리디렉션"
+
+msgid "Redirect matched incoming traffic to the specified internal host"
+msgstr "지정된된 내부 호스트에 들어오는 트래픽을 일치 하는 리디렉션"
+
+msgid "Restrict Masquerading to given destination subnets"
+msgstr "Masquerading 제한 대상 서브넷 부여 하"
+
+msgid "Restrict Masquerading to given source subnets"
+msgstr "Masquerading 제한 주어진 원본 서브넷"
+
+msgid "Restrict to address family"
+msgstr "주소 패밀리를 제한"
+
+msgid "Rewrite matched traffic to the given address."
+msgstr "주어진된 주소에 일치 트래픽을 다시 작성 합니다."
+
+msgid ""
+"Rewrite matched traffic to the given source port. May be left empty to only "
+"rewrite the IP address."
+msgstr ""
+"일치 트래픽을 지정된 원본 포트를 다시 작성 합니다. 전용 IP 주소를 다시 쓰는 "
+"빈 남아 있을 수 있습니다."
+
+msgid "Rewrite to source %s"
+msgstr "소스 %s를 재 작 성"
+
+msgid "Rewrite to source %s, %s"
+msgstr "소스 %s, %s으로 재 작 성"
+
+msgid "SNAT IP address"
+msgstr "SNAT IP 주소"
+
+msgid "SNAT port"
+msgstr "SNAT 포트"
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Source IP address"
+msgstr "원본 IP 주소"
+
+msgid "Source MAC address"
+msgstr "소스 MAC 주소"
+
+msgid "Source NAT"
+msgstr "소스 NAT"
+
+msgid ""
+"Source NAT is a specific form of masquerading which allows fine grained "
+"control over the source IP used for outgoing traffic, for example to map "
+"multiple WAN addresses to internal subnets."
+msgstr ""
+"소스 NAT는 특정 형태의 가장 잘 배어 든된 나가는 트래픽에 사용 되는 원본 IP 제"
+"어할 수 있는 내부 서브넷 주소 예: 여러 개의 WAN을 지도."
+
+msgid "Source address"
+msgstr "원본 주소"
+
+msgid "Source port"
+msgstr "원본 포트"
+
+msgid "Source zone"
+msgstr "소스 영역"
+
+msgid "Start Date (yyyy-mm-dd)"
+msgstr ""
+
+msgid "Start Time (hh:mm:ss)"
+msgstr ""
+
+msgid "Stop Date (yyyy-mm-dd)"
+msgstr ""
+
+msgid "Stop Time (hh:mm:ss)"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid ""
+"The firewall creates zones over your network interfaces to control network "
+"traffic flow."
+msgstr ""
+"방화벽은 네트워크 트래픽 흐름을 제어 하 여 네트워크 인터페이스를 통해 영역을 "
+"만듭니다."
+
+msgid ""
+"The options below control the forwarding policies between this zone (%s) and "
+"other zones. <em>Destination zones</em> cover forwarded traffic "
+"<strong>originating from %q</strong>. <em>Source zones</em> match forwarded "
+"traffic from other zones <strong>targeted at %q</strong>. The forwarding "
+"rule is <em>unidirectional</em>, e.g. a forward from lan to wan does "
+"<em>not</em> imply a permission to forward from wan to lan as well."
+msgstr ""
+"아래 옵션이 (%s) 영역과 다른 영역 간에 전달 정책을 제어합니다. <em>대상 영역"
+"</em> 커버 <strong>%q에서 발생</strong>하는 트래픽을 전달 합니다. <em>소스 영"
+"역</em> 일치 <strong>대상 %q로</strong>다른 영역에서 트래픽을 전달 합니다. 전"
+"달 규칙은 <em>단방향</em>, 예를 들어 lan 완에 전진 <em>하지</em> 앞으로 wan에"
+"서 lan으로 권한을 암시."
+
+msgid ""
+"This page allows you to change advanced properties of the port forwarding "
+"entry. In most cases there is no need to modify those settings."
+msgstr ""
+"이 페이지를 사용 하 여 항목을 전달 하는 포트의 고급 속성을 변경할 수 있습니"
+"다. 대부분의 경우에서는 그 설정을 수정할 필요가 없습니다."
+
+msgid ""
+"This page allows you to change advanced properties of the traffic rule "
+"entry, such as matched source and destination hosts."
+msgstr ""
+"이 페이지를 사용 하 여 트래픽 규칙 항목 일치 원본 및 대상 호스트 등의 고급 속"
+"성을 변경할 수 있습니다."
+
+msgid ""
+"This section defines common properties of %q. The <em>input</em> and "
+"<em>output</em> options set the default policies for traffic entering and "
+"leaving this zone while the <em>forward</em> option describes the policy for "
+"forwarded traffic between different networks within the zone. <em>Covered "
+"networks</em> specifies which available networks are members of this zone."
+msgstr ""
+"이 섹션 %q 일반적인 속성을 정의합니다. <em>입력</em> 및 <em>출력</em> 옵션 입"
+"력하고 <em>앞으로</em> 옵션 영역 내에서 서로 다른 네트워크 간의 전달된 트래픽"
+"에 대 한 정책을 설명 하는 동안이 영역을 떠나 트래픽에 대 한 기본 정책을 설정 "
+"합니다. <em>대상 네트워크</em> 이 영역의 멤버는 사용 가능한 네트워크를 지정 "
+"합니다."
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Time in UTC"
+msgstr ""
+
+msgid "To %s at %s on <var>this device</var>"
+msgstr "에 %s에서 %s에<var>this device</var>"
+
+msgid "To %s in %s"
+msgstr "%s에서 %s에"
+
+msgid "To %s on <var>this device</var>"
+msgstr "에 %s를<var>this device</var>"
+
+msgid "To %s, %s in %s"
+msgstr "%s, %s에서 %s에"
+
+msgid "To source IP"
+msgstr "소스 IP를"
+
+msgid "To source port"
+msgstr "소스 포트"
+
+msgid "Traffic Rules"
+msgstr "트래픽 규칙"
+
+msgid ""
+"Traffic rules define policies for packets traveling between different zones, "
+"for example to reject traffic between certain hosts or to open WAN ports on "
+"the router."
+msgstr ""
+"특정 호스트 간의 트래픽을 거부하거나 라우터의 WAN 포트를 여는 등, 서로 다른 "
+"영역을 오가는 트래픽 규칙을 정의합니다."
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Via %s"
+msgstr "%s를 통해"
+
+msgid "Via %s at %s"
+msgstr "%s에서 %s를 통해"
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Week Days"
+msgstr ""
+
+msgid ""
+"You may specify multiple by selecting \"-- custom --\" and then entering "
+"protocols separated by space."
+msgstr ""
+"\"-사용자 정의-\"를 선택하고 공백으로 구분된 여러 개의 프로토콜을 입력할 수 "
+"있습니다."
+
+msgid "Zone %q"
+msgstr "존 %q"
+
+msgid "Zone ⇒ Forwardings"
+msgstr "영역 ⇒ 운송"
+
+msgid "Zones"
+msgstr "영역"
+
+msgid "accept"
+msgstr "수락"
+
+msgid "any"
+msgstr "모두"
+
+msgid "any host"
+msgstr "모든 호스트"
+
+msgid "any router IP"
+msgstr "모든 라우터 IP"
+
+msgid "any zone"
+msgstr "모든 영역"
+
+msgid "don't track"
+msgstr "추적 하지"
+
+msgid "drop"
+msgstr "드롭"
+
+msgid "reject"
+msgstr "거부"
+
+msgid "traffic"
+msgstr "트래픽"
+
+#~ msgid "-- Please choose --"
+#~ msgstr "-- 선택하세요 --"
+
+#~ msgid "-- custom --"
+#~ msgstr "-- 사용자 지정 --"

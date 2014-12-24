@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-30 06:42+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: freifunk.po\n"
+
+msgid "BSSID"
+msgstr "BSSID"
+
+msgid "Bad (ETX > 10)"
+msgstr "나쁜 (ETX &gt; 10)"
+
+msgid "Basic Settings"
+msgstr "기본 설정"
+
+msgid "Basic settings"
+msgstr "기본 설정"
+
+msgid "Basic settings are incomplete. Please go to"
+msgstr "기본 설정은 완전 하지 않습니다. 로 이동 하십시오"
+
+msgid "Basic system settings"
+msgstr "기본 시스템 설정"
+
+msgid "Bitrate"
+msgstr "비트 전송률"
+
+msgid "Channel"
+msgstr "채널"
+
+msgid "Check for new firmware versions and perform automatic updates."
+msgstr "새로운 펌웨어 버전 확인하고 자동 업데이트를 수행 합니다."
+
+msgid "Client network size"
+msgstr "클라이언트 네트워크 크기"
+
+msgid "Community"
+msgstr "커뮤니티"
+
+msgid "Community profile"
+msgstr "사회 프로필"
+
+msgid "Community settings"
+msgstr "커뮤니티 설정"
+
+msgid "Confirm Upgrade"
+msgstr "업그레이드를 확인"
+
+msgid "Contact"
+msgstr "연락처"
+
+msgid "Contact information is incomplete. Please go to"
+msgstr "연락처 정보는 완전 하지 않습니다. 로 이동 하십시오"
+
+msgid "Coordinates"
+msgstr "좌표"
+
+msgid "Country code"
+msgstr "국가 코드"
+
+msgid "Default routes"
+msgstr "기본 경로"
+
+msgid "Disable default content"
+msgstr "기본 콘텐츠를 사용 하지 않도록 설정"
+
+msgid "Diversity is enabled for device"
+msgstr "다양성 장치 사용"
+
+msgid "E-Mail"
+msgstr "전자 메일"
+
+msgid "ESSID"
+msgstr "ESSID"
+
+msgid "Edit index page"
+msgstr "인덱스 페이지 편집"
+
+msgid "Enable IPv6"
+msgstr "I p v 6을 사용 하도록 설정"
+
+msgid "Enable a virtual access point (VAP) by default if possible."
+msgstr "기본적으로 가상 액세스 포인트 (VAP)를 가능 하면 사용 합니다."
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Find your coordinates with OpenStreetMap"
+msgstr "OpenStreetMap으로 좌표를 찾기"
+
+msgid "Freifunk"
+msgstr "Freifunk"
+
+msgid "Freifunk Overview"
+msgstr "Freifunk 개요"
+
+msgid "Freifunk Remote Update"
+msgstr "Freifunk 원격 업데이트"
+
+msgid "Gateway"
+msgstr "게이트웨이"
+
+msgid "Go to"
+msgstr "로 가다"
+
+msgid "Good (2 < ETX < 4)"
+msgstr "좋은 (2 < ETX < 4)"
+
+msgid "Green"
+msgstr "그린"
+
+msgid "Hello and welcome in the network of"
+msgstr "안녕하세요와의 네트워크에 오신 것을 환영합니다"
+
+msgid "Hide OpenStreetMap"
+msgstr "OpenStreetMap 숨기기"
+
+msgid "Homepage"
+msgstr "홈페이지"
+
+msgid "Hostname"
+msgstr "호스트 이름"
+
+msgid "IPv6 Config"
+msgstr "IPv6 구성"
+
+msgid "IPv6 Prefix"
+msgstr "IPv6 접두사"
+
+msgid "IPv6 network in CIDR notation."
+msgstr "CIDR 표기법에 IPv6 네트워크입니다."
+
+msgid "If selected then the default content element is not shown."
+msgstr "다음 기본 콘텐츠를 선택한 경우 요소는 표시 되지 않습니다."
+
+msgid "If you are interested in our project then contact the local community"
+msgstr "당신이 우리 프로젝트에 관심이 있다면 다음 지역 사회 문의"
+
+msgid "Index Page"
+msgstr "인덱스 페이지"
+
+msgid "Interface"
+msgstr "인터페이스"
+
+msgid "Internet access depends on technical and organisational conditions and may or may not work for you."
+msgstr "인터넷 기술 및 조직 조건에 따라 달라질 수 있습니다 또는 당신을 위해 작동 하지 않을 수 있습니다."
+
+msgid "It is operated by"
+msgstr "그것은 의해 운영"
+
+msgid "Keep configuration"
+msgstr "구성 유지"
+
+msgid "Latitude"
+msgstr "위도"
+
+msgid "Legend"
+msgstr "전설"
+
+msgid "Load"
+msgstr "부하"
+
+msgid "Local Time"
+msgstr "현지 시간"
+
+msgid "Location"
+msgstr "위치"
+
+msgid "Longitude"
+msgstr "경도"
+
+msgid "Map"
+msgstr "지도"
+
+msgid "Map Error"
+msgstr "지도 오류"
+
+msgid "Memory"
+msgstr "메모리"
+
+msgid "Mesh prefix"
+msgstr "메쉬 접두사"
+
+msgid "Metric"
+msgstr "통계"
+
+msgid "Mode"
+msgstr "모드"
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "Network for client DHCP addresses"
+msgstr "네트워크 클라이언트가 DHCP 주소"
+
+msgid "Nickname"
+msgstr "닉네임"
+
+msgid "No default routes known."
+msgstr "알려진 없음 기본 라우트입니다."
+
+msgid "Notice"
+msgstr "주의 사항"
+
+msgid "OLSR"
+msgstr "OLSR"
+
+msgid "Operator"
+msgstr "연산자"
+
+msgid "Orange"
+msgstr "오렌지"
+
+msgid "Overview"
+msgstr "개요"
+
+msgid "Package libiwinfo required!"
+msgstr "패키지 libiwinfo 필요!"
+
+msgid "Phone"
+msgstr "전화"
+
+msgid "Please fill in your contact details below."
+msgstr "아래 귀하의 연락처 정보를 입력 해 주십시오."
+
+msgid "Please set your contact information"
+msgstr "귀하의 연락처 정보를 설정 하십시오"
+
+msgid "Power"
+msgstr "전원"
+
+msgid "Processor"
+msgstr "프로세서"
+
+msgid "Profile"
+msgstr "프로필"
+
+msgid "Profile (Expert)"
+msgstr "프로필 (전문가)"
+
+msgid "Realname"
+msgstr "Realname"
+
+msgid "Red"
+msgstr "레드"
+
+msgid "SSID"
+msgstr "SSID"
+
+msgid "Select your location with a mouse click on the map. The map will only show up if you are connected to the Internet."
+msgstr "지도에 마우스 클릭을 가진 당신의 위치를 선택 합니다. 지도 표시 됩니다 인터넷에 연결된 경우."
+
+msgid "Show OpenStreetMap"
+msgstr "OpenStreetMap 표시"
+
+msgid "Show on map"
+msgstr "지도에 표시"
+
+msgid "Signal"
+msgstr "신호"
+
+msgid "Splash"
+msgstr "스플래쉬"
+
+msgid "Start Upgrade"
+msgstr "업그레이드 시작"
+
+msgid "Statistics"
+msgstr "통계"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Still usable (4 < ETX < 10)"
+msgstr "아직 사용할 수 (4 < ETX < 10)"
+
+msgid "System"
+msgstr "시스템"
+
+msgid "TX"
+msgstr "TX"
+
+msgid "The <em>libiwinfo</em> package is not installed. You must install this component for working wireless configuration!"
+msgstr "<em>Libiwinfo</em> 패키지는 설정 되지 않습니다. 무선 구성 작업에 대 한이 구성 요소를 설정 해야 합니다!"
+
+msgid "The OLSRd service is not configured to capture position data from the network.<br /> Please make sure that the nameservice plugin is properly configured and that the <em>latlon_file</em> option is enabled."
+msgstr "OLSRd 서비스는 네트워크에서 위치 데이터를 캡처하는 구성 되지 않습니다.<br>Nameservice 플러그인 제대로 구성 되어 있고 <em>latlon_file</em> 옵션이 활성화 되어 있는지 확인 하십시오."
+
+msgid "The installed firmware is the most recent version."
+msgstr "설정된 펌웨어는 최신 버전입니다."
+
+msgid "These are the basic settings for your local wireless community. These settings define the default values for the wizard and DO NOT affect the actual configuration of the router."
+msgstr "이들은 현지 무선 지역 사회를 위한 기본 설정입니다. 이러한 설정은 마법사에 대 한 기본 값을 정의하고 라우터의 실제 구성 영향을 주지 않습니다."
+
+msgid "These are the settings of your local community."
+msgstr "이들은 당신의 지역 사회의 설정입니다."
+
+msgid "These pages will assist you in setting up your router for Freifunk or similar wireless community networks."
+msgstr "이 페이지 설정 라우터 Freifunk 또는 유사한 무선 지역 사회 네트워크에 도움이 될 것입니다."
+
+msgid "This is the access point"
+msgstr "이것은 액세스 포인트"
+
+msgid "Update Settings"
+msgstr "업데이트 설정"
+
+msgid "Update available!"
+msgstr "사용 가능한 업데이트!"
+
+msgid "Uptime"
+msgstr "가동 시간"
+
+msgid "VAP"
+msgstr "VAP"
+
+msgid "Verify downloaded images"
+msgstr "다운로드된 이미지를 확인"
+
+msgid "Very good (ETX < 2)"
+msgstr "아주 좋은 (ETX < 2)"
+
+msgid "We are an initiative to establish a free, independent and open wireless mesh network."
+msgstr "우리는 자유, 독립 및 오픈 무선 메쉬 네트워크를 구축 하는 이니셔티브입니다."
+
+msgid "Wireless Overview"
+msgstr "무선 개요"
+
+msgid "Yellow"
+msgstr "노란색"
+
+msgid "You can display additional content on the public index page by inserting valid XHTML in the form below.<br />Headlines should be enclosed between &lt;h2&gt; and &lt;/h2&gt;."
+msgstr "아래 양식에 유효한 XHTML을 삽입 하 여 공공 인덱스 페이지에 추가 콘텐츠를 표시할 수 있습니다.<br>&lt; H 2 &gt; 사이 동봉 해야 하는 헤드 라인 및 &lt; / h 2 &gt;."
+
+msgid "You can find further information about the global Freifunk initiative at"
+msgstr "글로벌 Freifunk 이니셔티브에 대 한 정보를 추가 찾을 수 있습니다."
+
+msgid "You can manually edit the selected community profile here."
+msgstr "여기 선택한 커뮤니티 프로필을 수동으로 편집할 수 있습니다."
+
+msgid "You need to select a profile before you can edit it. To select a profile go to"
+msgstr "전에 편집할 수 있는 프로필을 선택 해야 합니다. 선택 하려면 프로 파일 이동"
+
+msgid "and fill out all required fields."
+msgstr "그리고 모든 필수 필드를 작성 합니다."
+
+msgid "buffered"
+msgstr "버퍼링"
+
+msgid "cached"
+msgstr "캐시"
+
+msgid "e.g."
+msgstr "예를 들어"
+
+msgid "free"
+msgstr "무료"
+
+msgid "to disable it."
+msgstr "그것을 해제 합니다."
+
+msgid "used"
+msgstr "사용"
+
+msgid "wireless settings"
+msgstr "무선 설정"
+

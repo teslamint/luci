@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: radvd.po\n"
+"Language: ko\n"
+
+msgid "6to4 interface"
+msgstr "6to4 인터페이스"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Addresses"
+msgstr "주소"
+
+msgid "Advanced"
+msgstr "고급"
+
+msgid "Advertise Home Agent flag"
+msgstr "홈 에이전트 플래그를 알리기"
+
+msgid "Advertise router address"
+msgstr "라우터 주소를 알리기"
+
+msgid "Advertised Domain Suffixes"
+msgstr "광고 도메인 접미사"
+
+msgid ""
+"Advertised IPv6 RDNSS. If empty, the current IPv6 address of the interface "
+"is used"
+msgstr ""
+"IPv6 RDNSS를 알립니다. 비어있는 경우 현재 IPv6 주소 인터페이스를 사용합니다"
+
+msgid "Advertised IPv6 prefixes"
+msgstr "알려진 IPv6 접두사"
+
+msgid ""
+"Advertised IPv6 prefixes. If empty, the current interface prefix is used"
+msgstr "IPv6 접두사 광고. 현재 인터페이스 접두사 사용, 비어 있는 경우"
+
+msgid "Advertises Mobile IPv6 Home Agent capability (RFC3775)"
+msgstr "광고 하는 모바일 IPv6 홈 에이전트 기능 (RFC3775)"
+
+msgid "Advertises Mobile Router registration capability (NEMO Basic)"
+msgstr "광고 하는 모바일 라우터 등록 기능 (니 모 기본)"
+
+msgid ""
+"Advertises assumed reachability time in milliseconds of neighbours in the RA "
+"if specified. 0 disables reachability advertisements"
+msgstr ""
+"지정된 밀리초 RA에서 이웃의 가정된 연결 시간을 알립니다. 0 비활성화 연결 광고"
+
+msgid ""
+"Advertises the default Hop Count value for outgoing unicast packets in the "
+"RA. 0 disables hopcount advertisements"
+msgstr ""
+"나가는 유니캐스트 패킷에 라스에서 기본 홉 수 값을 알립니다. 0 비활성화 "
+"hopcount 광고"
+
+msgid "Advertises the default router preference"
+msgstr "광고 하는 기본 라우터 기본 설정"
+
+msgid ""
+"Advertises the given link MTU in the RA if specified. 0 disables MTU "
+"advertisements"
+msgstr "지정된 경우 지정된 링크 MTU RA에 알립니다. 0 비활성화 MTU 광고"
+
+msgid ""
+"Advertises the length of time in seconds that addresses generated from the "
+"prefix via stateless address autoconfiguration remain preferred."
+msgstr ""
+"상태 비저장 주소 자동 구성을 통해 접두사에서 생성된 주소가 남아 선호 초에서 "
+"시간을 알립니다."
+
+msgid ""
+"Advertises the length of time in seconds that the prefix is valid for the "
+"purpose of on-link determination."
+msgstr ""
+"접두사는 연결에서 결정의 목적을 위해 유효한 초 단위에서 시간을 알립니다."
+
+msgid ""
+"Advertises the lifetime of the default router in seconds. 0 indicates that "
+"the node is no default router"
+msgstr ""
+"기본 라우터 수명 초를 보급합니다. 0는 노드 기본 라우터가 없는 임을 나타냅니"
+"다."
+
+msgid ""
+"Advertises the time in seconds the router is offering Mobile IPv6 Home Agent "
+"services"
+msgstr "광고 하는 시간 (초) 라우터 모바일 IPv6 홈 에이전트 서비스를 제공 하는"
+
+msgid ""
+"Advertises wait time in milliseconds between Neighbor Solicitation messages "
+"in the RA if specified. 0 disables retransmit advertisements"
+msgstr ""
+"지정된 인접 라우터 요청 메시지는 RA 사이의 밀리초 대기 시간을 알립니다. 0 비"
+"활성화 재전송 광고"
+
+msgid "Advertising"
+msgstr "광고"
+
+msgid "Autonomous"
+msgstr "자치"
+
+msgid "Clients"
+msgstr "클라이언트"
+
+msgid "Configuration flag"
+msgstr "구성 플래그"
+
+msgid "Current hop limit"
+msgstr "현재 홉 제한"
+
+msgid "DNSSL"
+msgstr "DNSSL"
+
+msgid "DNSSL Configuration"
+msgstr "DNSSL 구성"
+
+msgid "Default lifetime"
+msgstr "기본 수명"
+
+msgid "Default preference"
+msgstr "기본 환경 설정"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Enable advertisements"
+msgstr "광고 활성화"
+
+msgid "Enables router advertisements and solicitations"
+msgstr "라우터 광고 및 권유"
+
+msgid ""
+"Enables the additional stateful administered autoconfiguration protocol "
+"(RFC2462)"
+msgstr "추가 상태 관리 자동 구성 프로토콜 (RFC2462)"
+
+msgid ""
+"Enables the autoconfiguration of additional, non address information "
+"(RFC2462)"
+msgstr "추가, 비 주소 정보 (RFC2462)의 자동 구성 가능"
+
+msgid "General"
+msgstr "일반"
+
+msgid "Home Agent information"
+msgstr "홈 에이전트 정보"
+
+msgid "Home Agent lifetime"
+msgstr "홈 에이전트 수명"
+
+msgid "Home Agent preference"
+msgstr "홈 에이전트 환경 설정"
+
+msgid "Include Home Agent Information in the RA"
+msgstr "RA에서 홈 에이전트 정보를 포함"
+
+msgid "Include Mobile IPv6 Advertisement Interval option to RA"
+msgstr "모바일 IPv6 광고 간격 옵션 RA 포함"
+
+msgid "Includes the link-layer address of the outgoing interface in the RA"
+msgstr "RA에서 포함 하는 송신 인터페이스의 링크-레이어 주소"
+
+msgid ""
+"Indicates that the address of interface is sent instead of network prefix, "
+"as is required by Mobile IPv6"
+msgstr ""
+"모바일 IPv6에 의해 필요한 경우 대신 네트워크 접두사, 인터페이스의 주소 전송 "
+"나타냅니다."
+
+msgid ""
+"Indicates that the underlying link is not broadcast capable, prevents "
+"unsolicited advertisements from being sent"
+msgstr ""
+"기본 링크 가능한 방송을 하지 않습니다, 전송 되는 원치 않는 광고 방지를 나타냅"
+"니다."
+
+msgid ""
+"Indicates that this prefix can be used for autonomous address configuration "
+"(RFC4862)"
+msgstr "자동 주소 구성 (RFC4862)이이 접두사를 사용할 수 있음을 나타냅니다."
+
+msgid ""
+"Indicates that this prefix can be used for on-link determination (RFC4861)"
+msgstr ""
+"연결에서 결정 (RFC4861)에 대 한이 접두사를 사용할 수 있음을 나타냅니다."
+
+msgid "Interface"
+msgstr "인터페이스"
+
+msgid "Interface Configuration"
+msgstr "인터페이스 구성"
+
+msgid "Interface required"
+msgstr "필수 인터페이스"
+
+msgid "Interfaces"
+msgstr "인터페이스"
+
+msgid "Lifetime"
+msgstr "평생"
+
+msgid "Link MTU"
+msgstr "링크 MTU"
+
+msgid "Managed flag"
+msgstr "관리 되는 깃발"
+
+msgid "Max. interval"
+msgstr "맥스입니다. 간격"
+
+msgid "Maximum advertisement interval"
+msgstr "최대 광고 간격"
+
+msgid "Minimum advertisement delay"
+msgstr "최소 광고 지연"
+
+msgid "Minimum advertisement interval"
+msgstr "최소 광고 간격"
+
+msgid "Mobile IPv6"
+msgstr "모바일 IPv6"
+
+msgid "Mobile IPv6 interval option"
+msgstr "모바일 IPv6 간격 옵션"
+
+msgid "Mobile IPv6 router registration"
+msgstr "모바일 IPv6 라우터 등록"
+
+msgid "Multicast"
+msgstr "멀티 캐스트"
+
+msgid "On-link"
+msgstr "-링크"
+
+msgid "On-link determination"
+msgstr "연결에서 결정"
+
+msgid "Preference"
+msgstr "기본 설정"
+
+msgid "Preferred lifetime"
+msgstr "기본 설정된 수명"
+
+msgid "Prefix"
+msgstr "접두사"
+
+msgid "Prefix Configuration"
+msgstr "접두사 구성"
+
+msgid "Prefixes"
+msgstr "접두사"
+
+msgid "RDNSS"
+msgstr "RDNSS"
+
+msgid "RDNSS Configuration"
+msgstr "RDNSS 구성"
+
+msgid "Radvd"
+msgstr "Radvd"
+
+msgid "Radvd - DNSSL"
+msgstr "Radvd-DNSSL"
+
+msgid "Radvd - Interface %q"
+msgstr "Radvd-인터페이스 %q"
+
+msgid "Radvd - Prefix"
+msgstr "Radvd-접두사"
+
+msgid "Radvd - RDNSS"
+msgstr "Radvd-RDNSS"
+
+msgid "Radvd - Route"
+msgstr "Radvd-경로"
+
+msgid ""
+"Radvd is a router advertisement daemon for IPv6. It listens to router "
+"solicitations and sends router advertisements as described in RFC 4861."
+msgstr ""
+"Radvd는 IPv6 라우터 광고 데몬입니다. 그것은 라우터 권유를 수신 및 RFC 4861에 "
+"설명된 대로 라우터 알림을 보냅니다."
+
+msgid "Reachable time"
+msgstr "연결할 수 있는 시간"
+
+msgid ""
+"Restrict communication to specified clients, leave empty to use multicast"
+msgstr ""
+"지정된 고객에 게 통신 제한, 멀티 캐스트를 사용 하 여 빈 공간으로 두십시오"
+
+msgid "Retransmit timer"
+msgstr "재전송 타이머"
+
+msgid "Route Configuration"
+msgstr "경로 구성"
+
+msgid "Routes"
+msgstr "라우트"
+
+msgid "Source link-layer address"
+msgstr "원본 링크 계층 주소"
+
+msgid ""
+"Specifies a logical interface name to derive a 6to4 prefix from. The "
+"interfaces public IPv4 address is combined with 2002::/3 and the value of "
+"the prefix option"
+msgstr ""
+"파생에서 6to4 접두사 논리 인터페이스 이름을 지정 합니다. 2002 결합 인터페이스"
+"의 공용 IPv4 주소:: / 3 및 접두사 옵션 값"
+
+msgid "Specifies the lifetime associated with the route in seconds."
+msgstr "평생을 초에서 경로와 관련된 지정 합니다."
+
+msgid "Specifies the logical interface name this section belongs to"
+msgstr "이 섹션에 속하는 논리 인터페이스 이름을 지정 합니다."
+
+msgid ""
+"Specifies the maximum duration how long the DNSSL entries are used for name "
+"resolution."
+msgstr "얼마나 DNSSL 항목이 이름 확인에 사용 되는 최대 기간을 지정 합니다."
+
+msgid ""
+"Specifies the maximum duration how long the RDNSS entries are used for name "
+"resolution."
+msgstr "얼마나 RDNSS 항목이 이름 확인에 사용 되는 최대 기간을 지정 합니다."
+
+msgid "Specifies the preference associated with the default router"
+msgstr "관련된 기본 라우터 기본 설정 지정"
+
+msgid "Suffix"
+msgstr "접미사"
+
+msgid ""
+"The maximum time allowed between sending unsolicited multicast router "
+"advertisements from the interface, in seconds"
+msgstr ""
+"초에서는 인터페이스에서 원치 않는 멀티 캐스트 라우터 광고를 보내는 사이 허용 "
+"되는 최대 시간"
+
+msgid ""
+"The minimum time allowed between sending multicast router advertisements "
+"from the interface, in seconds"
+msgstr ""
+"초에서는 인터페이스에서 멀티 캐스트 라우터 광고를 보내는 사이 허용 되는 최소 "
+"시간"
+
+msgid ""
+"The minimum time allowed between sending unsolicited multicast router "
+"advertisements from the interface, in seconds"
+msgstr ""
+"초에서는 인터페이스에서 원치 않는 멀티 캐스트 라우터 광고를 보내는 사이 허용 "
+"되는 최소 시간"
+
+msgid "The preference for the Home Agent sending this RA"
+msgstr "집이 라 전송 에이전트에 대 한 기본 설정"
+
+msgid "Timing"
+msgstr "타이밍"
+
+msgid "Unicast only"
+msgstr "유니캐스트만"
+
+msgid "Valid lifetime"
+msgstr "유효 수명"
+
+msgid "Validity time"
+msgstr "유효 시간"
+
+msgid "default"
+msgstr "기본"
+
+msgid "high"
+msgstr "높은"
+
+msgid "low"
+msgstr "낮은"
+
+msgid "medium"
+msgstr "매체"
+
+msgid "no"
+msgstr "아니"
+
+msgid "yes"
+msgstr "예"

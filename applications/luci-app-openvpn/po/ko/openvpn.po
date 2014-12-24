@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-19 19:35+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: openvpn.po\n"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "'net30', 'p2p', or 'subnet'"
+msgstr "'net30', 'p2p', 또는 '서브넷'"
+
+msgid "Accept options pushed from server"
+msgstr "서버에서 보내온 설정 사용"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Add route after establishing connection"
+msgstr "연결을 설정한 후 경로 추가"
+
+msgid "Additional authentication over TLS"
+msgstr "TLS 통한 추가 인증"
+
+msgid "Allow client-to-client traffic"
+msgstr "클라이언트-클라이언트 트래픽을 허용합니다"
+
+msgid "Allow multiple clients with same certificate"
+msgstr "동일한 인증서로 여러 클라이언트 허용"
+
+msgid "Allow only one session"
+msgstr "하나의 세션 허용"
+
+msgid "Allow remote to change its IP or port"
+msgstr "원격 IP 또는 포트 변경 허용"
+
+msgid "Allowed maximum of connected clients"
+msgstr "연결된 클라이언트의 최대 허용"
+
+msgid "Allowed maximum of internal"
+msgstr "내부의 최대 허용"
+
+msgid "Allowed maximum of new connections"
+msgstr "새 연결의 최대 수"
+
+msgid "Append log to file"
+msgstr "로그 파일에 추가"
+
+msgid "Authenticate using username/password"
+msgstr "사용자 이름/암호를 사용 하 여 인증"
+
+msgid "Automatically redirect default route"
+msgstr "자동으로 기본 경로 리디렉션"
+
+msgid "Below is a list of configured OpenVPN instances and their current state"
+msgstr "다음은 구성된 OpenVPN 인스턴스 및 그들의 현재 상태 목록이입니다."
+
+msgid "Call down cmd/script before TUN/TAP close"
+msgstr "큰 술 통/탭 닫기 전에 cmd/스크립트를 호출"
+
+msgid "Certificate authority"
+msgstr "인증 기관"
+
+msgid "Change process priority"
+msgstr "변경 프로세스의 우선 순위"
+
+msgid "Change to directory before initialization"
+msgstr "초기화 전에 디렉터리로 변경"
+
+msgid "Check peer certificate against a CRL"
+msgstr "피어 인증서는 CRL에 대 한 확인"
+
+msgid "Chroot to directory after initialization"
+msgstr "초기화 후 디렉토리에 Chroot"
+
+msgid "Client is disabled"
+msgstr "클라이언트를 사용 하지 않도록 설정"
+
+msgid "Configuration category"
+msgstr "구성 범주"
+
+msgid "Configure client mode"
+msgstr "클라이언트 모드 구성"
+
+msgid "Configure server bridge"
+msgstr "서버 브리지 구성"
+
+msgid "Configure server mode"
+msgstr "서버 모드 구성"
+
+msgid "Connect through Socks5 proxy"
+msgstr "Socks5 프록시를 통해 연결"
+
+msgid "Connect to remote host through an HTTP proxy"
+msgstr "HTTP 프록시를 통해 원격 호스트에 연결"
+
+msgid "Connection retry interval"
+msgstr "연결 다시 시도 간격"
+
+msgid "Daemonize after initialization"
+msgstr "초기화 한 다음 daemonize"
+
+msgid "Delay n seconds after connection"
+msgstr "연결 후 지연 n 초"
+
+msgid "Delay tun/tap open and up script execution"
+msgstr "지연 tun/tap 오픈 및 스크립트 실행을"
+
+msgid "Diffie Hellman parameters"
+msgstr "디피 헬 맨 매개 변수"
+
+msgid "Directory for custom client config files"
+msgstr "사용자 지정 클라이언트 구성 파일 디렉터리"
+
+msgid "Disable Paging"
+msgstr "페이징 해제"
+
+msgid "Disable cipher initialisation vector"
+msgstr "암호화 초기화 벡터를 사용 하지 않도록 설정"
+
+msgid "Disable options consistency check"
+msgstr "옵션 일관성 검사를 사용 하지 않도록 설정"
+
+msgid "Disable replay protection"
+msgstr "재생 보호 기능을 해제합니다"
+
+msgid "Do not bind to local address and port"
+msgstr "로컬 주소와 포트를 바인딩할 하지 마십시오"
+
+msgid "Don't actually execute ifconfig"
+msgstr "실제로 ifconfig를 실행 하지 마십시오"
+
+msgid "Don't add routes automatically"
+msgstr "자동으로 경로 추가 하지 마십시오"
+
+msgid "Don't cache --askpass or --auth-user-pass passwords"
+msgstr "-Askpass 또는-정식 사용자 패스 암호 캐시를 하지 않습니다"
+
+msgid "Don't inherit global push options"
+msgstr "글로벌 옵션을 상속 하지"
+
+msgid "Don't log timestamps"
+msgstr "타임 스탬프를 기록 하지 마십시오"
+
+msgid "Don't pull routes automatically"
+msgstr ""
+
+msgid "Don't re-read key on restart"
+msgstr "다시 키 다시 시작 읽을 수 없습니다"
+
+msgid "Don't require client certificate"
+msgstr "클라이언트 인증서를 요구 하지 마십시오"
+
+msgid "Don't use adaptive lzo compression"
+msgstr "적응형 lzo 압축을 사용 하지 마십시오"
+
+msgid "Don't warn on ifconfig inconsistencies"
+msgstr "Ifconfig 불일치에 경고 하지 않는다"
+
+msgid "Echo parameters to log"
+msgstr "에코 매개 변수 로그"
+
+msgid "Empirically measure MTU"
+msgstr "MTU를 실험적으로 측정"
+
+msgid "Enable OpenSSL hardware crypto engines"
+msgstr "OpenSSL 하드웨어 암호화 엔진을 사용 하도록 설정"
+
+msgid "Enable Path MTU discovery"
+msgstr "경로 MTU 검색을 사용"
+
+msgid "Enable Static Key encryption mode (non-TLS)"
+msgstr "정적 키 암호화 모드 (비 TLS)를 사용 하도록 설정"
+
+msgid "Enable TLS and assume client role"
+msgstr "TLS를 사용 하도록 설정하고 클라이언트 역"
+
+msgid "Enable TLS and assume server role"
+msgstr "TLS를 사용 하도록 설정하고 서버 역"
+
+msgid "Enable internal datagram fragmentation"
+msgstr "내부 데이터 그램 조각화를 활성화"
+
+msgid "Enable management interface on <em>IP</em> <em>port</em>"
+msgstr "<em>IP</em> <em>포트</em> 에서 관리 인터페이스를 사용 하도록 설정"
+
+msgid "Enabled"
+msgstr "사용 가능"
+
+msgid "Encryption cipher for packets"
+msgstr "패킷의 암호화 방식"
+
+msgid "Execute shell cmd after routes are added"
+msgstr "라우트 추가된 후 셸 cmd를 실행"
+
+msgid "Execute shell command on remote ip change"
+msgstr "원격 ip 변경에서 셸 명령을 실행합니다"
+
+msgid ""
+"Executed in server mode on new client connections, when the client is still "
+"untrusted"
+msgstr ""
+"때 클라이언트는 여전히 신뢰할 수 있는 새 클라이언트 연결을 서버 모드에서 실행"
+
+msgid ""
+"Executed in server mode whenever an IPv4 address/route or MAC address is "
+"added to OpenVPN's internal routing table"
+msgstr ""
+"IPv4 주소/경로 또는 MAC 주소 OpenVPN의 내부 라우팅 테이블에 추가 될 때마다 서"
+"버 모드에서 실행"
+
+msgid "Exit on TLS negotiation failure"
+msgstr "TLS 협상 실패에 종료"
+
+msgid "Get PEM password from controlling tty before we daemonize"
+msgstr "우리 daemonize 하기 전에 tty 제어 PEM 암호를 얻을"
+
+msgid "HMAC authentication for packets"
+msgstr "패킷에 대해 HMAC 인증"
+
+msgid "Handling of authentication failures"
+msgstr "인증 실패 처리"
+
+msgid ""
+"Helper directive to simplify the expression of --ping and --ping-restart in "
+"server mode configurations"
+msgstr "-핑의 식을 단순화와-핑-다시 시작 서버 모드 구성에서 도우미 지시문"
+
+msgid "If hostname resolve fails, retry"
+msgstr "호스트 실패를 해결 하는 경우 다시 시도"
+
+msgid "Instance \"%s\""
+msgstr "인스턴스 \"%s\""
+
+msgid "Invalid"
+msgstr "올바르지 않은"
+
+msgid "Keep local IP address on restart"
+msgstr "로컬 IP 주소를 다시 시작 해"
+
+msgid "Keep remote IP address on restart"
+msgstr "원격 IP 주소를 다시 시작 해"
+
+msgid "Keep tun/tap device open on restart"
+msgstr "Tun/tap 장치 다시 시작에 뜨고"
+
+msgid "Key transition window"
+msgstr "주요 전환 창"
+
+msgid "Limit repeated log messages"
+msgstr "반복된 로그 메시지 제한"
+
+msgid "Local certificate"
+msgstr "로컬 인증서"
+
+msgid "Local host name or ip address"
+msgstr "로컬 호스트 이름 또는 ip 주소"
+
+msgid "Local private key"
+msgstr "로컬 개인 키"
+
+msgid "Major mode"
+msgstr "주요 모드"
+
+msgid "Make tun device IPv6 capable"
+msgstr "Tun 장치 IPv6 가능 확인"
+
+msgid "Maximum number of queued TCP output packets"
+msgstr "대기 중인 TCP 출력 패킷의 최대 수"
+
+msgid "Number of allocated broadcast buffers"
+msgstr "방송된 할당된 버퍼 수"
+
+msgid "Number of lines for log file history"
+msgstr "로그 파일 기록에 대 한 줄 수"
+
+msgid "Only accept connections from given X509 name"
+msgstr "X 509 이름 부여에서 연결 허용"
+
+msgid "Only process ping timeouts if routes exist"
+msgstr "라우트 존재 하는 경우 ping 제한 시간 처리"
+
+msgid "OpenVPN"
+msgstr "OpenVPN"
+
+msgid "OpenVPN instances"
+msgstr "OpenVPN 인스턴스"
+
+msgid "Optimize TUN/TAP/UDP writes"
+msgstr "큰 술 통/탭/UDP 쓰기 최적화"
+
+msgid "Output to syslog and do not daemonize"
+msgstr "시스템 로그를 출력 및 daemonize 하지 마십시오"
+
+msgid "Overview"
+msgstr "개요"
+
+msgid "PKCS#12 file containing keys"
+msgstr "키를 포함 하는 PKCS #12 파일"
+
+msgid "Pass environment variables to script"
+msgstr "환경 변수 스크립트에 전달"
+
+msgid "Persist replay-protection state"
+msgstr "재생 보호 상태"
+
+msgid "Persist/unpersist ifconfig-pool"
+msgstr "Ifconfig-풀 유지/unpersist"
+
+msgid "Ping remote every n seconds over TCP/UDP port"
+msgstr "Ping 원격 TCP/UDP 포트를 통해 n 초 마다"
+
+msgid "Policy level over usage of external programs and scripts"
+msgstr "외부 프로그램 및 스크립트의 사용을 통해 정책 수준"
+
+msgid "Port"
+msgstr "포트"
+
+msgid "Protocol"
+msgstr "프로토콜"
+
+msgid "Proxy timeout in seconds"
+msgstr "프록시 시간 제한 (초)"
+
+msgid "Push an ifconfig option to remote"
+msgstr "Ifconfig 옵션 원격을 밀어합니다"
+
+msgid "Push options to peer"
+msgstr "피어 푸시 옵션"
+
+msgid "Query management channel for private key"
+msgstr "개인 키에 대 한 쿼리 관리 채널"
+
+msgid "Randomly choose remote server"
+msgstr "원격 서버를 임의로 선택"
+
+msgid "Refuse connection if no custom client config"
+msgstr "없는 사용자 지정 클라이언트 구성 하는 경우 연결을 거부하시오"
+
+msgid "Remap SIGUSR1 signals"
+msgstr "SIGUSR1 신호를 다시 매핑"
+
+msgid "Remote host name or ip address"
+msgstr "원격 호스트 이름 또는 ip 주소"
+
+msgid "Remote ping timeout"
+msgstr "원격 ping 시간 초과"
+
+msgid "Renegotiate data chan. key after bytes"
+msgstr "바이트 후 데이터 이웃 키 재협상"
+
+msgid "Renegotiate data chan. key after packets"
+msgstr "패킷을 후 데이터 이웃 키 재협상"
+
+msgid "Renegotiate data chan. key after seconds"
+msgstr "초 후 데이터 이웃 키 재협상"
+
+msgid "Replay protection sliding window size"
+msgstr "재생 보호 슬라이딩 창 크기"
+
+msgid "Require explicit designation on certificate"
+msgstr "인증서에 명시적 지정 필요"
+
+msgid "Require explicit key usage on certificate"
+msgstr "명시적 키 사용 인증서에 필요"
+
+msgid "Restart after remote ping timeout"
+msgstr "원격 ping 시간 초과 후에 다시 시작"
+
+msgid "Retransmit timeout on TLS control channel"
+msgstr "재전송 하는 TLS 컨트롤 채널 시간 제한"
+
+msgid "Retry indefinitely on HTTP proxy errors"
+msgstr "HTTP 프록시 오류에 무한정 다시 시도"
+
+msgid "Retry indefinitely on Socks proxy errors"
+msgstr "양말 프록시 오류에 무한정 다시 시도"
+
+msgid "Route subnet to client"
+msgstr "클라이언트를 서브넷 경로"
+
+msgid "Run as an inetd or xinetd server"
+msgstr "Inetd 또는 xinetd 서버 실행"
+
+msgid "Run script cmd on client connection"
+msgstr "클라이언트 연결 스크립트 cmd를 실행"
+
+msgid "Run script cmd on client disconnection"
+msgstr "클라이언트 연결 끊기에서 스크립트 cmd를 실행"
+
+msgid "Run up/down scripts for all restarts"
+msgstr "위/아래 모든 다시 시작에 대 한 스크립트 실행"
+
+msgid "Send notification to peer on disconnect"
+msgstr "송신 알림에 피어 분리"
+
+msgid "Set GID to group"
+msgstr "그룹 설정된 GID"
+
+msgid "Set TCP/UDP MTU"
+msgstr "TCP/UDP MTU 설정"
+
+msgid "Set UID to user"
+msgstr "사용자에 게 UID를 설정된"
+
+msgid "Set aside a pool of subnets"
+msgstr "서브넷의 풀을 따로 설정"
+
+msgid "Set extended HTTP proxy options"
+msgstr "확장된 HTTP 프록시 옵션 설정"
+
+msgid "Set output verbosity"
+msgstr "설정된 출력의 자세한 정도"
+
+msgid "Set size of real and virtual address hash tables"
+msgstr "실제와 가상 주소 해시 테이블의 크기를 설정"
+
+msgid "Set the TCP/UDP receive buffer size"
+msgstr "TCP/UDP 수신 버퍼 크기를 설정"
+
+msgid "Set the TCP/UDP send buffer size"
+msgstr "TCP/UDP 송신 버퍼 크기를 설정"
+
+msgid "Set tun/tap TX queue length"
+msgstr "Tun/tap TX 대기열 길이 설정"
+
+msgid "Set tun/tap adapter parameters"
+msgstr "Tun/tap 어댑터 매개 변수를 설정"
+
+msgid "Set tun/tap device MTU"
+msgstr "Tun/tap 장치 MTU 설정"
+
+msgid "Set tun/tap device overhead"
+msgstr "설정된 tun/tap 장치 오버 헤드"
+
+msgid "Set upper bound on TCP MSS"
+msgstr "TCP MSS에 상한 설정"
+
+msgid "Shaping for peer bandwidth"
+msgstr "피어 대역폭 쉐이핑"
+
+msgid "Shell cmd to execute after tun device open"
+msgstr "Tun 장치 후 실행할 쉘 cmd 열기"
+
+msgid "Shell cmd to run after tun device close"
+msgstr "Tun 장치 후 실행할 쉘 cmd를 닫습니다."
+
+msgid "Shell command to verify X509 name"
+msgstr "X 509을 확인 하기 위해 명령 셸 이름"
+
+msgid "Silence the output of replay warnings"
+msgstr "침묵의 재생 경고 출력"
+
+msgid "Size of cipher key"
+msgstr "암호화 키의 크기"
+
+msgid "Specify a default gateway for routes"
+msgstr "경로 대 한 기본 게이트웨이 지정"
+
+msgid "Start OpenVPN in a hibernating state"
+msgstr "최대 절전 모드 상태에서 OpenVPN을 시작"
+
+msgid "Start/Stop"
+msgstr "시작/중지"
+
+msgid "Started"
+msgstr "시작"
+
+msgid "Status file format version"
+msgstr "상태 파일 형식 버전"
+
+msgid "Switch to advanced configuration »"
+msgstr "고급 구성으로 전환»"
+
+msgid "TCP/UDP port # for both local and remote"
+msgstr "TCP/UDP 포트 모두 로컬 및 원격에 대 한 #"
+
+msgid "TCP/UDP port # for local (default=1194)"
+msgstr "TCP/UDP 포트 # 로컬 (기본 = 1194)"
+
+msgid "TCP/UDP port # for remote (default=1194)"
+msgstr "TCP/UDP 포트 원격 # (기본값 = 1194)"
+
+msgid "TLS cipher"
+msgstr "TLS 암호화"
+
+msgid "TOS passthrough (applies to IPv4 only)"
+msgstr "TOS 통과 (i p v 4에만 적용)"
+
+msgid "Temporary directory for client-connect return file"
+msgstr "임시 디렉터리에 대 한 클라이언트 연결 반환 파일"
+
+msgid "The highest supported TLS version"
+msgstr ""
+
+msgid "The key direction for 'tls-auth' and 'secret' options"
+msgstr ""
+
+msgid "The lowest supported TLS version"
+msgstr ""
+
+msgid "Timeframe for key exchange"
+msgstr "키 교환에 대 한 기간"
+
+msgid "Type of used device"
+msgstr "사용된 장치의 종류"
+
+msgid "Use fast LZO compression"
+msgstr "빠른 LZO 압축을 사용 하 여"
+
+msgid "Use individual addresses rather than /30 subnets"
+msgstr "/30 대신 주소를 사용 하 여 개별 서브넷"
+
+msgid "Use protocol"
+msgstr "프로토콜 사용"
+
+msgid "Use tun/tap device node"
+msgstr "Tun/tap 장치 노드를 사용 하 여"
+
+msgid "Use username as common name"
+msgstr "일반적인 이름으로 사용자 이름 사용"
+
+msgid "Write log to file"
+msgstr "로그 파일에 기록"
+
+msgid "Write process ID to file"
+msgstr "파일에 쓰려는 프로세스 ID"
+
+msgid "Write status to file every n seconds"
+msgstr "상태를 n 초 마다 파일을 작성합니다"
+
+msgid "no"
+msgstr "아니"
+
+msgid "tun/tap device"
+msgstr "tun/tap 장치"
+
+msgid "tun/tap inactivity timeout"
+msgstr "tun/tap 비활성 시간 제한"
+
+msgid "yes (%i)"
+msgstr "예 (%i)"
+
+msgid "« Switch to basic configuration"
+msgstr "«기본 구성으로 전환"
+
+#~ msgid "Cryptography"
+#~ msgstr "암호화"
+
+#~ msgid "Networking"
+#~ msgstr "네트워킹"
+
+#~ msgid "Service"
+#~ msgstr "서비스"
+
+#~ msgid "VPN"
+#~ msgstr "VPN"
