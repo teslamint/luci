@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-22 15:23+0100\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: samba.po\n"
+
+msgid "Allow guests"
+msgstr "게스트 계정 허용"
+
+msgid "Allow system users to reach their home directories via network shares"
+msgstr "시스템 사용자가 네트워크 공유를 통해 그들의 홈 디렉토리에 도달 하도록 허용"
+
+msgid "Allowed users"
+msgstr "허용된 사용자"
+
+msgid "Create mask"
+msgstr "마스크 레이어 만들기"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Directory mask"
+msgstr "디렉터리 마스크"
+
+msgid "Edit Template"
+msgstr "템플릿 편집"
+
+msgid "Edit the template that is used for generating the samba configuration."
+msgstr "삼 바 구성 생성 하는 데 사용 되는 서식 파일을 편집 합니다."
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "Hostname"
+msgstr "호스트 이름"
+
+msgid "Mask for new directories"
+msgstr "새 디렉터리에 대 한 마스크"
+
+msgid "Mask for new files"
+msgstr "새 파일에 대 한 마스크"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Network Shares"
+msgstr "네트워크 공유"
+
+msgid "Path"
+msgstr "경로"
+
+msgid "Read-only"
+msgstr "읽기 전용"
+
+msgid "Share home-directories"
+msgstr "홈 디렉터리 공유"
+
+msgid "Shared Directories"
+msgstr "공유 디렉터리"
+
+msgid "This is the content of the file '/etc/samba/smb.conf.template' from which your samba configuration will be generated. Values enclosed by pipe symbols ('|') should not be changed. They get their values from the 'General Settings' tab."
+msgstr "이것은 파일의 내용을 ' / etc/samba/smb.conf.template' 삼 바 구성을 생성 합니다 하 하. 파이프 기호로 묶인 값 ('| ') 변경할 수 없습니다. 그들은 ' 일반 설정 ' 탭에서 자신의 가치를 얻을."
+
+msgid "Workgroup"
+msgstr "작업 그룹"
+

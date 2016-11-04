@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-19 19:35+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: p910nd.po\n"
+
+msgid "Bidirectional mode"
+msgstr "양방향 모드"
+
+msgid "Device"
+msgstr "장치"
+
+msgid "First you have to install the packages to get support for USB (kmod-usb-printer) or parallel port (kmod-lp)."
+msgstr "처음 USB (kmod usb 프린터) 포트 또는 병렬 포트 (kmod-lp)에 대 한 지원 패키지를 설정 해야 합니다."
+
+msgid "Interface"
+msgstr "인터페이스"
+
+msgid "Port"
+msgstr "포트"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Specifies the interface to listen on."
+msgstr "인터페이스를에서 수신 대기 하도록 지정 합니다."
+
+msgid "TCP listener port."
+msgstr "TCP 수신기 포트입니다."
+
+msgid "enable"
+msgstr "활성화"
+
+msgid "p910nd - Printer server"
+msgstr "p910nd-프린터 서버"
+

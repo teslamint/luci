@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-14 10:33+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: hd_idle.po\n"
+"Language: ko\n"
+
+msgid "Disk"
+msgstr "디스크"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Idle-time"
+msgstr "유휴 시간"
+
+msgid "Idle-time unit"
+msgstr "유휴 시간 단위"
+
+msgid "Settings"
+msgstr "설정"
+
+# Hours
+msgid "h"
+msgstr "h"
+
+msgid "hd-idle"
+msgstr "hd 유휴"
+
+msgid ""
+"hd-idle is a utility program for spinning-down external disks after a period "
+"of idle time."
+msgstr ""
+"hd 유휴 유휴 시간의 기간 후 회전 다운 외부 디스크 유틸리티 프로그램이입니다."
+
+# Minutes (not minimum)
+msgid "min"
+msgstr "분"
+
+#~ msgid "Enable debug"
+#~ msgstr "디버그를 사용 하도록 설정"

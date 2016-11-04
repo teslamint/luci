@@ -1,0 +1,240 @@
+msgid "Accept"
+msgstr "수락"
+
+msgid "Access to the internet might be possible nevertheless, because some activists of this project share their private internet connections. These few connections are shared between all users. That means available bandwidth is limited and because of this we ask you not to do any of the following:"
+msgstr "인터넷에 액세스할 수 있습니다 그럼에도 불구 하 고,이 프로젝트의 일부 활동가 들이 개인 인터넷 연결 공유 하기 때문에. 이러한 몇 가지 연결은 모든 사용자 간에 공유 됩니다. 즉, 사용 가능한 대역폭을 제한 하 고이 때문에 우리가 요청 하지 다음을 수행 하려면:"
+
+msgid "Access to the network is not guaranteed. It can be interrupted at any time without notice for any reason, for certain devices, and/or may be blocked for certain users."
+msgstr "네트워크에 액세스는 보장 되지 않습니다. 그것은 언제 든 예 고 없이 특정 장치에 대 한 어떤 이유로 중단 될 수 있습니다/또는 특정 사용자에 대 한 차단 될 수 있습니다."
+
+msgid "Active Clients"
+msgstr "활성 클라이언트"
+
+msgid "Allowed hosts/subnets"
+msgstr "허용된 호스트/서브넷"
+
+msgid "As an alternative to editing the complete splash text you can also just include some custom text in the default splash page by entering it here."
+msgstr "완전 한 시작 텍스트를 편집 하는 대신 단지에 포함할 수 있습니다 사용자 지정 텍스트가 기본 시작 페이지 여기 그것을 입력 하 여."
+
+msgid "Bandwidth limit for clients is only activated when both up- and download limit are set. Use a value of 0 here to completely disable this limitation. Whitelisted clients are not limited."
+msgstr "대역폭 제한 업 및 다운로드 제한 클라이언트 활성화 단지에 대 한 설정 됩니다. 완전히이 제한을 사용 하지 않으려면 값 0 여기를 사용 합니다. 허용된 클라이언트 제한 되지 않습니다."
+
+msgid "Become an active member of this community and help by operating your own node"
+msgstr "자신의 노드를 운영 하 여이 커뮤니티 및 도움말의 능동적인 일원을 되"
+
+msgid "Blacklist"
+msgstr "블랙 리스트"
+
+msgid "Blocked"
+msgstr "차단"
+
+msgid "By accepting these rules you can use this network for %s hour(s). After this time you need to accept these rules again."
+msgstr "이러한 규칙에 동의 함으로써 사용할 수 있습니다이 네트워크 %s에 대 한 시간. 이 시간 후에 다시 이러한 규칙에 동의 해야 합니다."
+
+msgid "Clearance time"
+msgstr "허가 시간"
+
+msgid "Client-Splash"
+msgstr "클라이언트 시작"
+
+msgid "Client-Splash is a hotspot authentification system for wireless mesh networks."
+msgstr "클라이언트 초기 무선 메쉬 네트워크를 위한 핫스팟 인증 시스템입니다."
+
+msgid "Clients are redirected to this page after they have accepted the splash. If this is left empty they are redirected to the page they had requested."
+msgstr "고객 그들은 물보라를 허용 후이 페이지로 리디렉션됩니다. 이 빈 남겨 두는 경우 그들은 그들이 요청 했던 페이지로 리디렉션됩니다."
+
+msgid "Clients download speed is limited to this value (kbyte/s)"
+msgstr "클라이언트 다운로드 속도가이 값 (kbyte/s)로 제한"
+
+msgid "Clients that have accepted the splash are allowed to use the network for that many hours."
+msgstr "물보라를 허용 해야 하는 클라이언트는 네트워크를 사용 하 여 그 많은 시간 동안 사용할 수 있습니다."
+
+msgid "Clients upload speed is limited to this value (kbyte/s)"
+msgstr "클라이언트 업로드 속도가이 값 (kbyte/s)로 제한"
+
+msgid "Contact"
+msgstr "연락처"
+
+msgid "Decline"
+msgstr "감소"
+
+msgid "Destination hosts and networks that are excluded from splashing, i.e. they are always allowed."
+msgstr "대상 호스트와 네트워크에 splashing에서 제외 됩니다 즉, 그들은 항상 허용 됩니다."
+
+msgid "Donate some money to help us keep this project alive."
+msgstr "이 프로젝트를 살아 유지할 수 있도록 일부 돈을 기부."
+
+msgid "Download limit"
+msgstr "다운로드 제한"
+
+msgid "Edit the complete splash text"
+msgstr "완전 한 스플래시 텍스트 편집"
+
+msgid "Fair Use Policy"
+msgstr "공정한 사용 정책"
+
+msgid "Firewall zone"
+msgstr "방화벽 영역"
+
+msgid "General"
+msgstr "일반"
+
+msgid "Get in %s with the operator of this access point."
+msgstr "이 액세스 포인트의 운영자 %s에 얻는다."
+
+msgid "Hostname"
+msgstr "호스트 이름"
+
+msgid "IP Address"
+msgstr "IP 주소"
+
+msgid "If you operate your own wifi equipment use channels different from ours."
+msgstr "직접 운영 하는 경우 wifi 장비는 우리에서 다른 채널을 사용 합니다."
+
+msgid "If you use this network on a regular basis we ask for your support:"
+msgstr "정기적으로이 네트워크를 사용 하는 경우 우리는 귀하의 지원에 대 한 요청:"
+
+msgid "Include your own text in the default splash"
+msgstr "기본 시작에 당신의 자신의 텍스트를 포함"
+
+msgid "Intercept client traffic on this Interface"
+msgstr "이 인터페이스에서 클라이언트 트래픽을 가로채합니다"
+
+msgid "Interfaces"
+msgstr "인터페이스"
+
+msgid "Interfaces that are used for Splash."
+msgstr "시작 화면에 사용 되는 인터페이스."
+
+msgid "KB/s (Download/Upload). You may be able to remove this limit by actively contributing to this project."
+msgstr "KB/s (다운로드/업로드)입니다. 이 프로젝트에 적극적으로 기여 하 여이 제한을 제거할 수 있습니다."
+
+msgid "Legally Prohibited Activities"
+msgstr "법적으로 금지된 행위"
+
+msgid "Legally Prohibited content"
+msgstr "법적으로 금지 내용"
+
+msgid "MAC Address"
+msgstr "MAC 주소"
+
+msgid "MAC addresses in this list are blocked."
+msgstr "이 목록에 있는 MAC 주소가 차단 됩니다."
+
+msgid "MAC addresses of whitelisted clients. These do not need to accept the splash and are not bandwidth limited."
+msgstr "허용된 클라이언트의 MAC 주소입니다. 이들은 물보라를 받아들일 필요가 없습니다하고 대역폭 제한 되지 않습니다."
+
+msgid "Netmask"
+msgstr "네트워크 마스크"
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "No clients connected"
+msgstr "아무 클라이언트 연결"
+
+msgid "Please note that we are not an internet service provider but an experimental community network."
+msgstr "우리는 인터넷 서비스 공급자는 실험적인 지역 사회 네트워크 note 하시기 바랍니다."
+
+msgid "Policy"
+msgstr "정책"
+
+msgid "Redirect target"
+msgstr "리디렉션 대상"
+
+msgid "Safety"
+msgstr "안전"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Splash rules are integrated in this firewall zone"
+msgstr "스플래시 규칙이 방화벽 영역에 통합 되어"
+
+msgid "Splashtext"
+msgstr "Splashtext"
+
+msgid "The network, like the Internet, is unencrypted and open. Each participant is responsible for the safety of their own connections and devices."
+msgstr "인터넷 처럼 네트워크 암호화 되지 않은 이며 오픈. 각 참가자는 그들의 자신의 연결 및 장치 안전 합니다."
+
+msgid "The open and free wireless network of volunteers (\"Operators\") provides the necessary equipment and Internet connections (\"Infrastructure\") at their own expense."
+msgstr "자원 봉사자 들 (이 하 \"사업자\")의 개방적이 고 자유로운 무선 네트워크에 필요한 장비 및 인터넷 연결 (\"인프라\") 그들의 자신의 경비에 제공합니다."
+
+msgid "The operator claims no liability for loss of data, unauthorized access/damage to devices, or financial losses that participants may suffer from the use of the network."
+msgstr "연산자는 데이터 손실, 무단된 액세스/손상 장치, 또는 참가자는 네트워크의 사용에서 고통을 수 있습니다 금융 손실에 대 한 책임을 지지 않습니다 주장 하고있다."
+
+msgid "The participant agrees to not perform any action and refrain from acts which may violate the law or infringe upon the rights of third parties."
+msgstr "참가자 하지 어떤 작업을 수행 하는 데 동의 및 자제 행위 법률을 위반 또는 제 3 자의 권리를 침해 있습니다."
+
+msgid "The participant agrees to not transfer content over the network which violates the law."
+msgstr "참가자는 법률을 위반 하는 네트워크를 통해 콘텐츠를 전송 하지에 동의 합니다."
+
+msgid "The participant agrees to not use the network in any way which will harm the infrastructure, the network itself, its operators or other participants."
+msgstr "참가자는 네트워크 인프라, 네트워크 자체의 운영자 또는 다른 참가자를 해칠 것입니다 어떤 식으로든에서 사용 하지에 동의 합니다."
+
+msgid "These Terms of Use govern the use of the network by its participants' computer, PDA, or similar device (\"Devices\") within the network."
+msgstr "본 이용 약관은 참가자의 컴퓨터, PDA, 또는 네트워크 내에서 유사한 장치 (\"장치\")에 의해 네트워크를 사용 하 여를 적용 됩니다."
+
+msgid "Time remaining"
+msgstr "남은 시간"
+
+msgid "To ask for the reason why you have been blocked or ask for access again you can try to contact the owner of this access point:"
+msgstr "이유 왜 차단된 또는 액세스에 대 한 질문에 대 한 요청을 다시 시도할 수 있습니다이 액세스 포인트의 소유자에 게 연락:"
+
+msgid "Traffic in/out"
+msgstr "트래픽/아웃"
+
+msgid "Upload limit"
+msgstr "업로드 한도"
+
+msgid "Usage Agreement"
+msgstr "이용 약관"
+
+msgid "Welcome"
+msgstr "환영 합니다"
+
+msgid "Whitelist"
+msgstr "허용된 사이트 목록"
+
+msgid "You are now connected to the free wireless mesh network"
+msgstr "지금 무료 무선 메쉬 네트워크에 연결 되어"
+
+msgid "You can enter your own text that is displayed to clients here.<br />It is possible to use the following markers: ###COMMUNITY###, ###COMMUNITY_URL###, ###CONTACTURL###, ###LEASETIME###, ###LIMIT### and ###ACCEPT###."
+msgstr "여기에 고객에 게 표시 되는 자신의 텍스트를 입력할 수 있습니다.<br>그것은 다음 마커를 사용 하 여: # # #COMMUNITY # # # # # #COMMUNITY_URL # # #, # # #CONTACTURL # # #, # # #LEASETIME # # #, # # #LIMIT # # #, # # #ACCEPT # # #."
+
+msgid "Your access to this network has been blocked, most likely because you did something that our rules explicitly forbid."
+msgstr "이 네트워크에 대 한 액세스 차단 되었습니다, 가장 가능성이 있기 때문에 당신이 우리의 규칙을 명시적으로 금지 하는 것을 한."
+
+msgid "Your bandwidth is limited to"
+msgstr "귀하의 대역폭으로 제한 됩니다."
+
+msgid "blacklisted"
+msgstr "블랙 리스트"
+
+msgid "expired"
+msgstr "만료"
+
+msgid "optional when using host addresses"
+msgstr "선택적 호스트 주소를 사용 하는 경우"
+
+msgid "perform any kind of illegal activities"
+msgstr "어떤 종류의 불법 활동을 수행"
+
+msgid "splashed"
+msgstr "치 켜"
+
+msgid "temporarily blocked"
+msgstr "일시적으로 차단"
+
+msgid "unknown"
+msgstr "알 수 없는"
+
+msgid "use filesharing applications on this network"
+msgstr "이 네트워크에 파일 공유 응용 프로그램을 사용 하 여"
+
+msgid "waste bandwidth with unneccesary downloads or streams"
+msgstr "불필요 한 다운로드와 스트림 대역폭을 낭비"
+
+msgid "whitelisted"
+msgstr "허용"
+

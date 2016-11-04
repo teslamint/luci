@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: ahcp.po\n"
+
+msgid "AHCP Server"
+msgstr "AHCP 서버"
+
+msgid "AHCP is an autoconfiguration protocol for IPv6 and dual-stack IPv6/IPv4 networks designed to be used in place of router discovery or DHCP on networks where it is difficult or impossible to configure a server within every link-layer broadcast domain, for example mobile ad-hoc networks."
+msgstr "AHCP는 IPv6 듀얼 스택 IPv6/IPv4 네트워크의 경우 사용 하도록 라우터 검색 또는 DHCP 대신 네트워크에 어렵거나 모든 링크 계층 브로드캐스트 도메인, 예를 들어 모바일 애드혹 네트워크에서 서버를 구성 하는 것에 대 한 자동 구성 프로토콜입니다."
+
+msgid "Active AHCP Leases"
+msgstr "Active AHCP 임대"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Age"
+msgstr "나이"
+
+msgid "Announced DNS servers"
+msgstr "DNS 서버 발표"
+
+msgid "Announced NTP servers"
+msgstr "발표 NTP 서버"
+
+msgid "Announced prefixes"
+msgstr "발표된 접두사"
+
+msgid "Collecting data..."
+msgstr "데이터를 수집..."
+
+msgid "Forwarder"
+msgstr "전달자"
+
+msgid "General Setup"
+msgstr "일반 설정"
+
+msgid "IPv4 and IPv6"
+msgstr "IPv4 및 IPv6"
+
+msgid "IPv4 only"
+msgstr "I p v 4만"
+
+msgid "IPv6 only"
+msgstr "I p v 6만"
+
+msgid "Lease directory"
+msgstr "임대 디렉토리"
+
+msgid "Lease validity time"
+msgstr "임대 유효 시간"
+
+msgid "Log file"
+msgstr "로그 파일"
+
+msgid "Multicast address"
+msgstr "멀티 캐스트 주소"
+
+msgid "Operation mode"
+msgstr "작동 모드"
+
+msgid "Port"
+msgstr "포트"
+
+msgid "Protocol family"
+msgstr "프로토콜 패밀리"
+
+msgid "Served interfaces"
+msgstr "제공된 인터페이스"
+
+msgid "Server"
+msgstr "서버"
+
+msgid "Specifies the announced IPv4 and IPv6 NTP servers"
+msgstr "발표된 IPv4 및 IPv6 NTP 서버를 지정 합니다."
+
+msgid "Specifies the announced IPv4 and IPv6 name servers"
+msgstr "발표된 IPv4 및 IPv6 이름 서버를 지정 합니다."
+
+msgid "Specifies the announced IPv4 and IPv6 network prefixes in CIDR notation"
+msgstr "CIDR 표기법에서 발표 IPv4 및 IPv6 네트워크 접두사를 지정 합니다."
+
+msgid "The AHCP Service is not running."
+msgstr "AHCP 서비스가 실행 되 고 있지."
+
+msgid "The AHCP Service is running with ID %s."
+msgstr "AHCP 서비스는 ID %s로 실행 됩니다."
+
+msgid "There are no active leases."
+msgstr "없음 활성 임대 있다."
+
+msgid "Unique ID file"
+msgstr "고유 ID 파일"
+

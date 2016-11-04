@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: minidlna.po\n"
+"Language: ko\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Album art names:"
+msgstr "앨범 아트 이름:"
+
+msgid "Announced model number:"
+msgstr "모델 번호를 발표 했다:"
+
+msgid "Announced serial number:"
+msgstr "발표 일련번호:"
+
+msgid "Browse directory"
+msgstr "디렉터리 찾아보기"
+
+msgid "Collecting data..."
+msgstr "데이터를 수집..."
+
+msgid "Database directory:"
+msgstr "데이터베이스 디렉터리:"
+
+msgid "Enable TIVO:"
+msgstr "티 보를 활성화:"
+
+msgid "Enable inotify:"
+msgstr "Inotify를 사용:"
+
+msgid "Enable:"
+msgstr "활성화:"
+
+msgid "Friendly name:"
+msgstr "이름:"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "Interfaces:"
+msgstr "인터페이스:"
+
+msgid "Log directory:"
+msgstr "로그 디렉터리:"
+
+msgid "Media directories:"
+msgstr "미디어 디렉토리:"
+
+msgid ""
+"MiniDLNA is server software with the aim of being fully compliant with DLNA/"
+"UPnP-AV clients."
+msgstr ""
+"MiniDLNA는 DLNA/UPnP AV 클라이언트와 완벽 하 게 호환 되 고의 목적으로 서버 소"
+"프트웨어입니다."
+
+msgid ""
+"Model number the miniDLNA daemon will report to clients in its XML "
+"description."
+msgstr "모델 번호 miniDLNA 데몬 XML 설명에 고객에 게 보고 합니다."
+
+msgid "Music"
+msgstr "음악"
+
+msgid "Network interfaces to serve."
+msgstr "네트워크 인터페이스 역할을 합니다."
+
+msgid "Notify interval in seconds."
+msgstr "초에서 간격을 알립니다."
+
+msgid "Notify interval:"
+msgstr "알림 간격:"
+
+msgid "Pictures"
+msgstr "사진"
+
+msgid "Port for HTTP (descriptions, SOAP, media transfer) traffic."
+msgstr "HTTP (설명, 비누, 미디어 전송) 트래픽에 대 한 포트입니다."
+
+msgid "Port:"
+msgstr "포트:"
+
+msgid "Presentation URL:"
+msgstr "프레 젠 테이 션 URL:"
+
+msgid "Root container:"
+msgstr "루트 컨테이너:"
+
+msgid ""
+"Serial number the miniDLNA daemon will report to clients in its XML "
+"description."
+msgstr "일련 번호 miniDLNA 데몬 XML 설명에 고객에 게 보고 합니다."
+
+msgid ""
+"Set this if you want to customize the name that shows up on your clients."
+msgstr "이 경우 클라이언트에 표시 이름을 사용자 지정 하려면 설정 합니다."
+
+msgid ""
+"Set this if you would like to specify the directory where you want MiniDLNA "
+"to store its database and album art cache."
+msgstr ""
+"이 경우 설정 디렉터리를 지정 하려면 MiniDLNA 데이터베이스 및 앨범 아트 캐시"
+"를 저장 하려는."
+
+msgid ""
+"Set this if you would like to specify the directory where you want MiniDLNA "
+"to store its log file."
+msgstr ""
+"이 설정 디렉터리를 지정 하려는 경우 MiniDLNA 로그 파일을 저장 하기 원하는 위"
+"치 합니다."
+
+msgid ""
+"Set this to enable inotify monitoring to automatically discover new files."
+msgstr ""
+"이 inotify 자동으로 새 파일을 검색 하도록 모니터링을 사용 하도록 설정 합니다."
+
+msgid ""
+"Set this to enable support for streaming .jpg and .mp3 files to a TiVo "
+"supporting HMO."
+msgstr ""
+"이 HMO 지원 TiVo로.jpg,.mp3 파일을 스트리밍에 대 한 지원을 사용 하도록 설정 "
+"합니다."
+
+msgid ""
+"Set this to strictly adhere to DLNA standards. This will allow server-side "
+"downscaling of very large JPEG images, which may hurt JPEG serving "
+"performance on (at least) Sony DLNA products."
+msgstr ""
+"DLNA 표준을 엄격 하 게 준수이 설정 합니다. 이렇게 하면 서버 쪽에 (적어도) 성"
+"능을 제공 하는 JPEG를 다치게 수 있습니다 매우 큰 JPEG 이미지의 상세화 소니 "
+"DLNA 제품."
+
+msgid ""
+"Set this to the directory you want scanned. If you want to restrict the "
+"directory to a specific content type, you can prepend the type ('A' for "
+"audio, 'V' for video, 'P' for images), followed by a comma, to the directory "
+"(eg. media_dir=A,/mnt/media/Music). Multiple directories can be specified."
+msgstr ""
+"이 검색된 디렉터리를 설정 합니다. 디렉터리에 쉼표 형식 ('A' 오디오, 비디오에 "
+"대 한 ' V', 'P' 이미지에 대 한), 추가 수 특정 콘텐츠 형식에는 디렉터리를 제"
+"한 하려는 경우 (예. media_dir =, / mnt/미디어/음악). 여러 디렉터리를 지정할 "
+"수 있습니다."
+
+msgid "Specify the path to the MiniSSDPd socket."
+msgstr "MiniSSDPd 소켓에 대 한 경로 지정 합니다."
+
+msgid "Standard container"
+msgstr "표준 컨테이너"
+
+msgid "Strict to DLNA standard:"
+msgstr "엄격한 DLNA 표준:"
+
+msgid ""
+"The miniDLNA service is active, serving %d audio, %d video and %d image "
+"files."
+msgstr ""
+"MiniDLNA 서비스는 활성, %d 오디오, %d 비디오 및 %d 이미지 파일을 제공 합니다."
+
+msgid "The miniDLNA service is not running."
+msgstr "MiniDLNA 서비스가 실행 되 고 있지."
+
+msgid "This is a list of file names to check for when searching for album art."
+msgstr "이 확인 하기 위해 앨범 아트를 검색할 때 파일 이름 목록입니다."
+
+msgid "Video"
+msgstr "비디오"
+
+msgid "miniDLNA"
+msgstr "miniDLNA"
+
+msgid "miniDLNA Status"
+msgstr "miniDLNA 상태"
+
+msgid "miniSSDP socket:"
+msgstr "miniSSDP 소켓:"

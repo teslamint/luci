@@ -1,0 +1,754 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-19 19:35+0200\n"
+"PO-Revision-Date: 2014-12-23 02:17-0500\n"
+"Last-Translator: teslamint <teslamint@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: luci\n"
+"X-Crowdin-File: statistics.po\n"
+
+msgid "Action (target)"
+msgstr "작업 (대상)"
+
+msgid "Add command for reading values"
+msgstr "값을 읽기에 대 한 명령을 추가합니다"
+
+msgid "Add matching rule"
+msgstr "일치 하는 규칙 추가"
+
+msgid "Add multiple hosts separated by space."
+msgstr "공간에 의해 분리 하는 여러 호스트를 추가 합니다."
+
+msgid "Add notification command"
+msgstr "알림 명령 추가"
+
+msgid "Aggregate number of connected users"
+msgstr ""
+
+msgid "Base Directory"
+msgstr "기본 디렉터리"
+
+msgid "Basic monitoring"
+msgstr "기본 모니터링"
+
+msgid "CPU Plugin Configuration"
+msgstr "CPU 플러그인 구성"
+
+msgid "CSV Output"
+msgstr "CSV 출력"
+
+msgid "CSV Plugin Configuration"
+msgstr "CSV 플러그인 구성"
+
+msgid "Cache collected data for"
+msgstr "수집된 데이터에 대 한 캐시"
+
+msgid "Cache flush interval"
+msgstr "캐시 플러시 간격"
+
+msgid "Chain"
+msgstr "체인"
+
+msgid "CollectLinks"
+msgstr "CollectLinks"
+
+msgid "CollectRoutes"
+msgstr "CollectRoutes"
+
+msgid "CollectTopology"
+msgstr "CollectTopology"
+
+msgid "Collectd Settings"
+msgstr "Collectd 설정"
+
+msgid ""
+"Collectd is a small daemon for collecting data from various sources through "
+"different plugins. On this page you can change general settings for the "
+"collectd daemon."
+msgstr ""
+"Collectd는 다른 플러그인을 통해 다양 한 소스에서 데이터를 수집 하기 위한 작"
+"은 데몬입니다. 이 페이지에서 collectd 악마에 대 한 일반 설정을 변경할 수 있습"
+"니다."
+
+msgid "Conntrack"
+msgstr "Conntrack"
+
+msgid "Conntrack Plugin Configuration"
+msgstr "Conntrack 플러그인 구성"
+
+msgid "DF Plugin Configuration"
+msgstr "DF 플러그인 구성"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS Plugin Configuration"
+msgstr "DNS 플러그인 구성"
+
+msgid "Data collection interval"
+msgstr "데이터 컬렉션 간격"
+
+msgid "Datasets definition file"
+msgstr "데이터 집합 정의 파일"
+
+msgid "Destination ip range"
+msgstr "대상 ip 범위"
+
+msgid "Directory for collectd plugins"
+msgstr "Collectd 플러그인 디렉토리"
+
+msgid "Directory for sub-configurations"
+msgstr "하위 구성 디렉터리"
+
+msgid "Disk Plugin Configuration"
+msgstr "디스크 플러그인 구성"
+
+msgid "Disk Space Usage"
+msgstr "디스크 공간 사용"
+
+msgid "Disk Usage"
+msgstr "디스크 사용"
+
+msgid "Display Host »"
+msgstr "디스플레이 호스트»"
+
+msgid "Display timespan »"
+msgstr "디스플레이 timespan»"
+
+msgid "E-Mail Plugin Configuration"
+msgstr "전자 메일 플러그인 구성"
+
+msgid "Email"
+msgstr "메일 주소"
+
+msgid "Enable this plugin"
+msgstr "이 플러그인을 활성화"
+
+msgid "Entropy"
+msgstr ""
+
+msgid "Entropy Plugin Configuration"
+msgstr ""
+
+msgid "Exec"
+msgstr "Exec"
+
+msgid "Exec Plugin Configuration"
+msgstr "Exec 플러그인 구성"
+
+msgid "Filter class monitoring"
+msgstr "필터 클래스 모니터링"
+
+msgid "Firewall"
+msgstr "방화벽"
+
+msgid "Flush cache after"
+msgstr "후 캐시"
+
+msgid "Forwarding between listen and server addresses"
+msgstr "들어와 서버 주소 사이의 전달"
+
+msgid "Gather compression statistics"
+msgstr ""
+
+msgid "General plugins"
+msgstr ""
+
+msgid "Generate a separate graph for each logged user"
+msgstr ""
+
+msgid "Graphs"
+msgstr "그래프"
+
+msgid "Group"
+msgstr "그룹"
+
+msgid ""
+"Here you can define external commands which will be started by collectd in "
+"order to read certain values. The values will be read from stdout."
+msgstr ""
+"여기 특정 값을 읽으려면 collectd에 의해 시작 됩니다 외부 명령을 정의할 수 있"
+"습니다. 값은 stdout에서 읽을 것 이다."
+
+msgid ""
+"Here you can define external commands which will be started by collectd when "
+"certain threshold values have been reached. The values leading to invokation "
+"will be feeded to the the called programs stdin."
+msgstr ""
+"여기 특정 임계값에 도달 하면 collectd에 의해 시작 됩니다 외부 명령을 정의할 "
+"수 있습니다. Invokation에 이르는 값을 feeded 것은 라는 프로그램 표준 입력."
+
+msgid ""
+"Here you can define various criteria by which the monitored iptables rules "
+"are selected."
+msgstr ""
+"여기는 모니터링된 iptables 규칙 선택 다양 한 조건을 정의할 수 있습니다."
+
+msgid "Hold Ctrl to select multiple items or to deselect entries."
+msgstr ""
+
+msgid "Host"
+msgstr "호스트"
+
+msgid "Hostname"
+msgstr "호스트 이름"
+
+msgid "IP or hostname where to get the txtinfo output from"
+msgstr "IP 또는 호스트 이름 txtinfo의 출력을 얻으려면"
+
+msgid "IRQ Plugin Configuration"
+msgstr "IRQ 플러그인 구성"
+
+msgid "Ignore source addresses"
+msgstr "소스 주소 무시"
+
+msgid "Incoming interface"
+msgstr "들어오는 인터페이스"
+
+msgid "Interface Plugin Configuration"
+msgstr "인터페이스 플러그인 구성"
+
+msgid "Interfaces"
+msgstr "인터페이스"
+
+msgid "Interrupts"
+msgstr "인터럽트"
+
+msgid "Interval for pings"
+msgstr "Ping 간격"
+
+msgid "Iptables Plugin Configuration"
+msgstr "Iptables 플러그인 구성"
+
+msgid "Leave unselected to automatically determine interfaces to monitor."
+msgstr "모니터 인터페이스를 자동으로 결정 하는 선택 되지 않은 둡니다."
+
+msgid "Listen host"
+msgstr "수신 호스트"
+
+msgid "Listen port"
+msgstr "수신 대기 포트"
+
+msgid "Listener interfaces"
+msgstr "수신기 인터페이스"
+
+msgid "Load Plugin Configuration"
+msgstr "로드 플러그인 구성"
+
+msgid ""
+"Max values for a period can be used instead of averages when not using 'only "
+"average RRAs'"
+msgstr ""
+
+msgid "Maximum allowed connections"
+msgstr "최대 연결 허용"
+
+msgid "Memory"
+msgstr "메모리"
+
+msgid "Memory Plugin Configuration"
+msgstr "메모리 플러그인 구성"
+
+msgid "Monitor all except specified"
+msgstr "제외하고 모두 모니터 지정"
+
+msgid "Monitor all local listen ports"
+msgstr "모든 로컬 수신 대기 포트를 모니터링"
+
+msgid "Monitor all sensors"
+msgstr ""
+
+msgid "Monitor devices"
+msgstr "모니터 장치"
+
+msgid "Monitor disks and partitions"
+msgstr "모니터 디스크 및 파티션"
+
+msgid "Monitor filesystem types"
+msgstr "모니터 파일 시스템 유형"
+
+msgid "Monitor hosts"
+msgstr "모니터 호스트"
+
+msgid "Monitor interfaces"
+msgstr "모니터 인터페이스"
+
+msgid "Monitor interrupts"
+msgstr "모니터 인터럽트"
+
+msgid "Monitor local ports"
+msgstr "모니터 로컬 포트"
+
+msgid "Monitor mount points"
+msgstr "모니터 탑재 지점"
+
+msgid "Monitor processes"
+msgstr "모니터 프로세스"
+
+msgid "Monitor remote ports"
+msgstr "모니터 원격 포트"
+
+msgid "Name of the rule"
+msgstr "규칙의 이름"
+
+msgid "Netlink"
+msgstr "Netlink"
+
+msgid "Netlink Plugin Configuration"
+msgstr "Netlink 플러그인 구성"
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "Network Plugin Configuration"
+msgstr "네트워크 플러그인 구성"
+
+msgid "Network plugins"
+msgstr "네트워크 플러그인"
+
+msgid "Network protocol"
+msgstr "네트워크 프로토콜"
+
+msgid "Number of threads for data collection"
+msgstr "데이터 수집을 위해 스레드 수"
+
+msgid "OLSRd"
+msgstr "OLSRd"
+
+msgid "OLSRd Plugin Configuration"
+msgstr "OLSRd 플러그인 구성"
+
+msgid "Only create average RRAs"
+msgstr "평균 RRAs 만들"
+
+msgid "OpenVPN"
+msgstr ""
+
+msgid "OpenVPN Plugin Configuration"
+msgstr ""
+
+msgid "OpenVPN status files"
+msgstr ""
+
+msgid "Options"
+msgstr "옵션"
+
+msgid "Outgoing interface"
+msgstr "송신 인터페이스"
+
+msgid "Output plugins"
+msgstr "출력 플러그인"
+
+msgid "Ping"
+msgstr "핑"
+
+msgid "Ping Plugin Configuration"
+msgstr "핑 플러그인 구성"
+
+msgid "Port"
+msgstr "포트"
+
+msgid "Processes"
+msgstr "프로세스"
+
+msgid "Processes Plugin Configuration"
+msgstr "프로세스 플러그인 구성"
+
+msgid "Processes to monitor separated by space"
+msgstr "모니터링 하는 프로세스 공간에 의해 분리"
+
+msgid "Processor"
+msgstr "프로세서"
+
+msgid "Qdisc monitoring"
+msgstr "Qdisc 모니터링"
+
+msgid "RRD XFiles Factor"
+msgstr "RRD XFiles 요소"
+
+msgid "RRD heart beat interval"
+msgstr "RRD 심장 박동 간격"
+
+msgid "RRD step interval"
+msgstr "RRD 단계 간격"
+
+msgid "RRDTool"
+msgstr "다만"
+
+msgid "RRDTool Plugin Configuration"
+msgstr "다만 플러그인 구성"
+
+msgid "Rows per RRA"
+msgstr "연구원 당 행"
+
+msgid "Script"
+msgstr "스크립트"
+
+msgid "Seconds"
+msgstr "초"
+
+msgid "Sensor list"
+msgstr ""
+
+msgid "Sensors"
+msgstr ""
+
+msgid "Sensors Plugin Configuration"
+msgstr ""
+
+msgid "Server host"
+msgstr "서버 호스트"
+
+msgid "Server port"
+msgstr "서버 포트"
+
+msgid "Setup"
+msgstr ""
+
+msgid "Shaping class monitoring"
+msgstr "클래스 모니터링 형성"
+
+msgid "Show max values instead of averages"
+msgstr ""
+
+msgid "Socket file"
+msgstr "소켓 파일"
+
+msgid "Socket group"
+msgstr "소켓 그룹"
+
+msgid "Socket permissions"
+msgstr "소켓 권한"
+
+msgid "Source ip range"
+msgstr "원본 ip 범위"
+
+msgid "Specifies what information to collect about links."
+msgstr "링크에 대 한 수집 정보를 지정 합니다."
+
+msgid "Specifies what information to collect about routes."
+msgstr "경로 대 한 수집 정보를 지정 합니다."
+
+msgid "Specifies what information to collect about the global topology."
+msgstr "정보를 수집에 대 한 글로벌 토폴로지를 지정 합니다."
+
+msgid "Splash Leases"
+msgstr ""
+
+msgid "Splash Leases Plugin Configuration"
+msgstr ""
+
+msgid "Statistics"
+msgstr "통계"
+
+msgid "Storage directory"
+msgstr "저장 디렉토리"
+
+msgid "Storage directory for the csv files"
+msgstr "Csv 파일 저장 디렉토리"
+
+msgid "Store data values as rates instead of absolute values"
+msgstr "절대 값 대신 요금으로 데이터 값을 저장"
+
+msgid "Stored timespans"
+msgstr "저장된 시간 범위로"
+
+msgid "System Load"
+msgstr "시스템 부하"
+
+msgid "TCP Connections"
+msgstr "TCP 연결"
+
+msgid "TCPConns Plugin Configuration"
+msgstr "TCPConns 플러그인 구성"
+
+msgid "TTL for network packets"
+msgstr "네트워크 패킷의 TTL"
+
+msgid "TTL for ping packets"
+msgstr "Ping 패킷의 TTL"
+
+msgid "Table"
+msgstr "테이블"
+
+msgid "The NUT plugin reads information about Uninterruptible Power Supplies."
+msgstr "너트 플러그인 무정전 전원 공급 장치에 대 한 정보를 읽습니다."
+
+msgid ""
+"The OLSRd plugin reads information about meshed networks from the txtinfo "
+"plugin of OLSRd."
+msgstr ""
+"OLSRd 플러그인 OLSRd의 txtinfo 플러그인에서 메쉬 네트워크에 대 한 정보를 읽습"
+"니다."
+
+msgid ""
+"The OpenVPN plugin gathers information about the current vpn connection "
+"status."
+msgstr ""
+
+msgid ""
+"The conntrack plugin collects statistics about the number of tracked "
+"connections."
+msgstr "Conntrack 플러그인 추적된 연결 수에 대 한 통계를 수집합니다."
+
+msgid "The cpu plugin collects basic statistics about the processor usage."
+msgstr "Cpu 플러그인 프로세서 사용에 대 한 기본 통계를 수집합니다."
+
+msgid ""
+"The csv plugin stores collected data in csv file format for further "
+"processing by external programs."
+msgstr ""
+"Csv 플러그인 추가 외부 프로그램에 의해 처리에 대 한 csv 파일 형식으로 수집된 "
+"데이터를 저장 합니다."
+
+msgid ""
+"The df plugin collects statistics about the disk space usage on different "
+"devices, mount points or filesystem types."
+msgstr ""
+"Df 플러그인 다른 장치, 탑재 지점 또는 파일 시스템 디스크 공간 사용량에 대 한 "
+"통계를 수집합니다."
+
+msgid ""
+"The disk plugin collects detailled usage statistics for selected partitions "
+"or whole disks."
+msgstr ""
+"디스크 플러그인 선택한 파티션 또는 전체 디스크에 대 한 자세한 사용 통계를 수"
+"집합니다."
+
+msgid ""
+"The dns plugin collects detailled statistics about dns related traffic on "
+"selected interfaces."
+msgstr ""
+"Dns에 대 한 dns 플러그인 수집 자세한 통계 관련 선택한 인터페이스에서 트래픽"
+"을."
+
+msgid ""
+"The email plugin creates a unix socket which can be used to transmit email-"
+"statistics to a running collectd daemon. This plugin is primarily intended "
+"to be used in conjunction with Mail::SpamAssasin::Plugin::Collectd but can "
+"be used in other ways as well."
+msgstr ""
+"이메일 플러그인 실행 중인 collectd 데몬에 이메일-통계를 전송에 사용할 수 있"
+"는 unix 소켓을 만듭니다. 이 플러그인은 주로 메일::SpamAssasin::Plugin::"
+"Collectd와 함께에서 사용 될 것입니다 하지만 다른 방법으로 사용할 수 있습니다."
+
+msgid "The entropy plugin collects statistics about the available entropy."
+msgstr ""
+
+msgid ""
+"The exec plugin starts external commands to read values from or to notify "
+"external processes when certain threshold values have been reached."
+msgstr ""
+"Exec 플러그인에서 값을 읽을 수 또는 특정 임계값에 도달 하면 외부 프로세스를 "
+"알리기 위해 외부 명령을 시작 합니다."
+
+msgid ""
+"The interface plugin collects traffic statistics on selected interfaces."
+msgstr "인터페이스 플러그인 선택한 인터페이스의 트래픽 통계를 수집합니다."
+
+msgid ""
+"The iptables plugin will monitor selected firewall rules and collect "
+"informations about processed bytes and packets per rule."
+msgstr ""
+"Iptables 플러그인 선택한 방화벽 규칙 모니터링하고 처리된 바이트와 패킷을 규"
+"칙 당에 대 한 정보를 수집 합니다."
+
+msgid ""
+"The irq plugin will monitor the rate of issues per second for each selected "
+"interrupt. If no interrupt is selected then all interrupts are monitored."
+msgstr ""
+"Irq 플러그인 문제 각 선택한 인터럽트에 대 한 초당의 비율을 모니터링 합니다. "
+"아무 인터럽트 선택 하는 경우 모든 인터럽트 모니터링 된다."
+
+msgid ""
+"The iwinfo plugin collects statistics about wireless signal strength, noise "
+"and quality."
+msgstr ""
+"Iwinfo 플러그인 무선 신호 강도, 노이즈 및 품질에 대 한 통계를 수집합니다."
+
+msgid "The load plugin collects statistics about the general system load."
+msgstr "로드 플러그인 일반 시스템 부하에 대 한 통계를 수집합니다."
+
+msgid "The memory plugin collects statistics about the memory usage."
+msgstr "메모리 플러그인 메모리 사용에 대 한 통계를 수집합니다."
+
+msgid ""
+"The netlink plugin collects extended informations like qdisc-, class- and "
+"filter-statistics for selected interfaces."
+msgstr ""
+"Netlink 플러그인 qdisc, 클래스 및 필터-선택한 인터페이스에 대 한 통계와 같은 "
+"확장된 정보를 수집합니다."
+
+msgid ""
+"The network plugin provides network based communication between different "
+"collectd instances. Collectd can operate both in client and server mode. In "
+"client mode locally collected data is transferred to a collectd server "
+"instance, in server mode the local instance receives data from other hosts."
+msgstr ""
+
+msgid ""
+"The ping plugin will send icmp echo replies to selected hosts and measure "
+"the roundtrip time for each host."
+msgstr ""
+"Ping 플러그인 선택된 호스트에 icmp 에코 회신을 보낼하고 각 호스트에 대 한 왕"
+"복 시간을 측정 합니다."
+
+msgid ""
+"The processes plugin collects informations like cpu time, page faults and "
+"memory usage of selected processes."
+msgstr ""
+"프로세스 플러그인 처럼 cpu 시간, 페이지 폴트 및 선택된 프로세스의 메모리 사"
+"용 정보를 수집합니다."
+
+msgid ""
+"The rrdtool plugin stores the collected data in rrd database files, the "
+"foundation of the diagrams.<br /><br /><strong>Warning: Setting the wrong "
+"values will result in a very high memory consumption in the temporary "
+"directory. This can render the device unusable!</strong>"
+msgstr ""
+"다만 플러그인 rrd 데이터베이스 파일, 다이어그램의 기초에에서 수집된 데이터를 "
+"저장합니다.<br><br><strong>경고: 임시 디렉터리에 아주 높은 메모리 소비 귀 착"
+"될 것 이다 잘못된 값을 설정 합니다. 이 장치가 사용할 수 없게 렌더링 수 있습니"
+"다!</strong>"
+
+msgid ""
+"The sensors plugin uses the Linux Sensors framework to gather environmental "
+"statistics."
+msgstr ""
+
+msgid ""
+"The splash leases plugin uses libuci to collect statistics about splash "
+"leases."
+msgstr ""
+
+msgid ""
+"The statistics package uses <a href=\"https://collectd.org/\">Collectd</a> "
+"to gather data and <a href=\"http://oss.oetiker.ch/rrdtool/\">RRDtool</a> to "
+"render diagram images."
+msgstr ""
+
+msgid ""
+"The tcpconns plugin collects informations about open tcp connections on "
+"selected ports."
+msgstr "Tcpconns 플러그인 선택된 포트 오픈 tcp 연결에 대 한 정보를 수집합니다."
+
+msgid ""
+"The unixsock plugin creates a unix socket which can be used to read "
+"collected data from a running collectd instance."
+msgstr ""
+"Unixsock 플러그인 collectd 인스턴스 실행에서 수집된 데이터를 읽는 사용 될 수 "
+"있는 유닉스 소켓을 만듭니다."
+
+msgid "The uptime plugin collects statistics about the uptime of the system."
+msgstr ""
+
+msgid ""
+"This section defines on which interfaces collectd will wait for incoming "
+"connections."
+msgstr "이 섹션 정의 인터페이스에 collectd 들어오는 연결을 기다릴 것 이다."
+
+msgid ""
+"This section defines to which servers the locally collected data is sent to."
+msgstr "이 섹션 정의 어느 서버에 로컬로 수집한 데이터를 전송 합니다."
+
+msgid "Try to lookup fully qualified hostname"
+msgstr "정규화된 호스트 이름 조회 하려고"
+
+msgid "UPS"
+msgstr "UPS"
+
+msgid "UPS Plugin Configuration"
+msgstr "UPS 플러그인 구성"
+
+msgid "UPS name in NUT ups@host format"
+msgstr "UPS 이름 너트 ups@host 형식"
+
+msgid "UnixSock"
+msgstr "UnixSock"
+
+msgid "Unixsock Plugin Configuration"
+msgstr "Unixsock 플러그인 구성"
+
+msgid "Uptime"
+msgstr ""
+
+msgid "Uptime Plugin Configuration"
+msgstr ""
+
+msgid "Use improved naming schema"
+msgstr ""
+
+msgid "Used PID file"
+msgstr "PID 파일 선택"
+
+msgid "User"
+msgstr "사용자"
+
+msgid "Verbose monitoring"
+msgstr "자세한 모니터링"
+
+msgid "Wireless"
+msgstr "무선"
+
+msgid "Wireless iwinfo Plugin Configuration"
+msgstr "무선 iwinfo 플러그인 구성"
+
+msgid ""
+"You can install additional collectd-mod-* plugins to enable more statistics."
+msgstr ""
+
+msgid "e.g. br-ff"
+msgstr "예를 들어 br ff"
+
+msgid "e.g. br-lan"
+msgstr "예를 들어 br lan"
+
+msgid "e.g. reject-with tcp-reset"
+msgstr "예를 들어 거부와 tcp 재설정"
+
+msgid "max. 16 chars"
+msgstr "최대. 16 문자"
+
+msgid "reduces rrd size"
+msgstr "rrd 크기 감소"
+
+msgid "seconds; multiple separated by space"
+msgstr "초; 여러 공간에 의해 분리"
+
+msgid "server interfaces"
+msgstr "서버 인터페이스"
+
+#~ msgid "Collectd"
+#~ msgstr "Collectd"
+
+#~ msgid "System plugins"
+#~ msgstr "시스템 플러그인"
+
+#~ msgid ""
+#~ "The network plugin provides network based communication between different "
+#~ "collectd instances. Collectd can operate both in client and server mode. "
+#~ "In client mode locally collected date is transferred to a collectd server "
+#~ "instance, in server mode the local instance receives data from other "
+#~ "hosts."
+#~ msgstr ""
+#~ "네트워크 플러그인 다른 collectd 인스턴스 간의 네트워크를 기반으로 통신을 "
+#~ "제공합니다. Collectd 모두 클라이언트 및 서버 모드에서 작동할 수 있습니다. "
+#~ "클라이언트 모드에서 로컬로 수집된 날짜 collectd 서버 인스턴스에 전송, 서"
+#~ "버 모드에서 로컬 인스턴스 데이터를 수신 다른 호스트에서."
+
+#~ msgid ""
+#~ "The statistics package is based on <a href=\"http://collectd.org/index."
+#~ "shtml\">Collectd</a> and uses <a href=\"http://oss.oetiker.ch/rrdtool/"
+#~ "\">RRD Tool</a> to render diagram images from collected data."
+#~ msgstr ""
+#~ "통계 패키지 기반으로 <a href=\"http://collectd.org/index.shtml"
+#~ "\">Collectd</a> 와 <a href=\"http://oss.oetiker.ch/rrdtool/\">RRD 도구</"
+#~ "a> 를 사용 하 여 수집된 데이터에서 다이어그램 이미지를 렌더링 합니다."
